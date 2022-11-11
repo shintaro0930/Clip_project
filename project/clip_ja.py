@@ -17,10 +17,18 @@ model, preprocess = clip.load("ViT-B/32", device=device)
 # !pip install googletrans==4.0.0-rc1
 # from googletrans import Translator
 
-file_base_dir = '/work/project/Monster/'
+file_base_dir = '/work/Monster/'
+# file_base_dir = '/work/project/Monster/'
 texts_jp = ["スライムに乗った騎士", "馬に乗った騎士", "剣で遊んでいる騎士", "スライム", "スライムに乗った魔法使い"]
 monsters = ['Dragon-knight']
 translator = Translator()
+# while True:
+#   try:
+#     texts_en = tr.translate(texts_jp, dest="en", src="ja").text
+#     break
+#   except Exception as e:
+#     tr = Translator()
+
 texts_en = [translator.translate(text_jp, dest="en", src="ja").text for text_jp in texts_jp]
 print(texts_en)
 for monster in monsters:

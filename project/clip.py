@@ -23,7 +23,9 @@ monsters = ['スライム', 'キングスライム', 'メタルスライム', '�
 texts_en = ["a slime", "a king slime", "a metal slime", "a metal king", "a drakey", "an arm lion"]
 self_txt = ['Slime', 'King-slime', 'Metal-slime', 'Drakey', 'Arm-lion']
 
-file_base_dir = '/work/project/Monster/' 
+# file_base_dir = '/work/project/Monster/'
+file_base_dir = '/work/Monster/' 
+
 # for i, monster in enumerate(monsters):
 for i, monster in enumerate(self_txt):
   print(f'--- {monsters[i]} ---')
