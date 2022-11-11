@@ -49,4 +49,4 @@ for monster in monsters:
       probs = logits_per_image.softmax(dim=-1).cpu().numpy()
  
   for i in range(probs.shape[-1]):
-    print(f'{texts_jp[i]}: {probs[0, i]*100:0.1f}%')
+    print(f'{texts_jp[i]}({texts_en[i]}): {probs[0, i]*100:0.1f}%')

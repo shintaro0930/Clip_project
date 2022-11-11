@@ -29,14 +29,23 @@ file_base_dir = '/work/Monster/'
 # for i, monster in enumerate(monsters):
 for i, monster in enumerate(self_txt):
   print(f'--- {monsters[i]} ---')
+
+  # imageをopen
   original_image = Image.open(file_base_dir+f"{monster}.png")
+
+  #画像を前処理して、次元数を増加させる
   image = preprocess(original_image).unsqueeze(0).to(device)
+
+  # テキストのtokenize
   texts = clip.tokenize(texts_en).to(device)
  
+
   with torch.no_grad():
+      # encode
       image_features = model.encode_image(image)
       text_features = model.encode_text(texts)
        
+      # 推論
       logits_per_image, logits_per_text = model(image, texts)
       probs = logits_per_image.softmax(dim=-1).cpu().numpy()
  
