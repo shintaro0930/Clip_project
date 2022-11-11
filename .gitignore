@@ -1,0 +1,14 @@
+/.bash_history
+/.cache
+/.docker
+/.emacs.d
+/.gitconfig
+/.gnupg
+/.ssh
+/.viminfo
+/.vscode-server
+/.wget-hsts
+/__pycache__
+/data
+/gpt
+/tensorflow
