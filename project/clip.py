@@ -8,50 +8,53 @@ import torch
 from CLIP import clip
 import matplotlib.pyplot as plt
 from PIL import Image
+from googletrans import Translator
  
 device = "cuda" if torch.cuda.is_available() else "cpu"
-print(f"device: {device}")
-# print(device)
-# print(os.getcwd())
-
 model, preprocess = clip.load("ViT-B/32", device=device)
 
-# clip.load: ViTのモデルをロードする
-# clip.available_models(): ViTモデルの一覧表示
+# これは個別にインストールする必要がある
+# !pip install googletrans==4.0.0-rc1
+# from googletrans import Translator
 
-# monsters = ['スライム', 'キングスライム', 'メタルスライム', 'ドラキー', 'アームライオン']
-monsters = []
-# texts_en = ["a slime", "a king slime", "a metal slime", "a metal king", "a drakey", "an arm lion"]
-# self_txt = ['Slime', 'King-slime', 'Metal-slime', 'Drakey', 'Arm-lion']
-self_txt = ['IMG_8727.png', 'IMG_9576.png', 'IMG_9603.png', 'IMG_9615.png', 'IMG_9649.png', 'IMG_9657.png']
-
-
+file_base_dir = '/work/pictures/'
 # file_base_dir = '/work/project/Monster/'
-# file_base_dir = '/work/Monster/' 
-file_base_dir = '/work/project/pictures/'
-# for i, monster in enumerate(monsters):
-for i, monster in enumerate(self_txt):
-  print(f'--- {monsters[i]} ---')
+# texts_jp = ["スライムに乗った騎士", "馬に乗った騎士", "剣で遊んでいる騎士", "スライム", "スライムに乗った魔法使い"]
+texts_jp = ["車が写っている晴天の日", "大きな建物", "木とガラスが写った美術館", "様々な色のガラス"]
+# monsters = ['Dragon-knight']
+monsters = ['IMG_8727', 'IMG_9576', 'IMG_9603', 'IMG_9615', 'IMG_9649', 'IMG_9657']
 
-  # imageをopen
-  original_image = Image.open(file_base_dir+f"{monster}")
+translator = Translator()
+texts_en = [translator.translate(text_jp, dest="en", src="ja").text for text_jp in texts_jp]
+# print(texts_en)
 
-  #画像を前処理して、次元数を増加させる
-  image = preprocess(original_image).unsqueeze(0).to(device)
+for i, monster in enumerate(monsters):
+  try:
+    original_image = Image.open(file_base_dir+f"{monster}.png")
+    print(f'--- {monsters[i]} ---')
+    image = preprocess(original_image).unsqueeze(0).to(device)
+    plt.figure()
+    plt.imshow(original_image)
+    plt.axis('off')
+    plt.show()
+  
+    text = clip.tokenize(texts_en).to(device)
+  
+    with torch.no_grad():
+        image_features = model.encode_image(image)
+        text_features = model.encode_text(text)
+        
+        logits_per_image, logits_per_text = model(image, text)
+        probs = logits_per_image.softmax(dim=-1).cpu().numpy()
 
-  # テキストのtokenize
-  texts = clip.tokenize(texts_en).to(device)
- 
+    # 結果表示 
+    for i in range(probs.shape[-1]):
+        print(f'{texts_jp[i]}({texts_en[i]}): {probs[0, i]*100:0.1f}%')
 
-  with torch.no_grad():
-      # encode
-      image_features = model.encode_image(image)
-      text_features = model.encode_text(texts)
-       
-      # 推論
-      logits_per_image, logits_per_text = model(image, texts)
-      probs = logits_per_image.softmax(dim=-1).cpu().numpy()
- 
-  for i in range(probs.shape[-1]):
-    print(f'{texts_en[i]}: {probs[0, i]*100:0.1f}%')
+    # 例外処理        
+  except Exception as e:
+    continue
 
+    # # 結果表示 
+    # for i in range(probs.shape[-1]):
+    #     print(f'{texts_jp[i]}({texts_en[i]}): {probs[0, i]*100:0.1f}%')
