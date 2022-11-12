@@ -19,19 +19,22 @@ model, preprocess = clip.load("ViT-B/32", device=device)
 # clip.load: ViTのモデルをロードする
 # clip.available_models(): ViTモデルの一覧表示
 
-monsters = ['スライム', 'キングスライム', 'メタルスライム', 'ドラキー', 'アームライオン']
-texts_en = ["a slime", "a king slime", "a metal slime", "a metal king", "a drakey", "an arm lion"]
-self_txt = ['Slime', 'King-slime', 'Metal-slime', 'Drakey', 'Arm-lion']
+# monsters = ['スライム', 'キングスライム', 'メタルスライム', 'ドラキー', 'アームライオン']
+monsters = []
+# texts_en = ["a slime", "a king slime", "a metal slime", "a metal king", "a drakey", "an arm lion"]
+# self_txt = ['Slime', 'King-slime', 'Metal-slime', 'Drakey', 'Arm-lion']
+self_txt = ['IMG_8727.png', 'IMG_9576.png', 'IMG_9603.png', 'IMG_9615.png', 'IMG_9649.png', 'IMG_9657.png']
+
 
 # file_base_dir = '/work/project/Monster/'
-file_base_dir = '/work/Monster/' 
-
+# file_base_dir = '/work/Monster/' 
+file_base_dir = '/work/project/pictures/'
 # for i, monster in enumerate(monsters):
 for i, monster in enumerate(self_txt):
   print(f'--- {monsters[i]} ---')
 
   # imageをopen
-  original_image = Image.open(file_base_dir+f"{monster}.png")
+  original_image = Image.open(file_base_dir+f"{monster}")
 
   #画像を前処理して、次元数を増加させる
   image = preprocess(original_image).unsqueeze(0).to(device)
