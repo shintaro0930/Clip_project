@@ -9,6 +9,8 @@ from CLIP import clip
 from PIL import Image
 # PILの説明: https://note.nkmk.me/python-pillow-basic/
 from googletrans import Translator
+
+from pathlib import Path
  
 device = "cuda" if torch.cuda.is_available() else "cpu"
 model, preprocess = clip.load("ViT-B/32", device=device)
@@ -48,4 +50,5 @@ for i, monster in enumerate(monsters):
 
     # 例外処理        
   except Exception as e:
+    monster.rename(monster.stem + '.heic')
     continue

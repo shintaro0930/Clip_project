@@ -1,13 +1,17 @@
-#!/bin/bash
+#!/bin/sh
 
-if [ $image = "*.jpg" ]; then
+dir_path="/work/pictures/*"
+dirs=`find $dir_path -type f \( -name "*.png" -o -name "*.HEIC" \)`
+
+for image in $dirs;
+do
+    echo $image
+    # ここから実行処理を記述
+    if [ $image = "*.jpg" ]; then
     mv $image ${image%.jpg}.png
-elif [ $image = "*.png" ]; then
-    echo "success"
-else
-    echo "論外"
-fi
-
-
-#sedは置換後の出力のみで、書き換えは行わない
-#sed s/置換対象文字列/置換後文字列/ 指定するファイル名
+    elif [ $image = "*.png" ]; then
+        echo "success"
+    else
+        echo "論外"
+    fi
+done
