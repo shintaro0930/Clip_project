@@ -17,7 +17,8 @@ model, preprocess = clip.load("ViT-B/32", device=device)
 
 file_base_dir = '/work/pictures/'
 texts_jp = ["車が写っている晴天の日", "大きな建物", "木とガラスが写った美術館", "様々な色のガラス"]
-monsters = ['IMG_8727', 'IMG_9576', 'IMG_9603', 'IMG_9615', 'IMG_9649', 'IMG_9657']
+# images = ['IMG_8727', 'IMG_9576', 'IMG_9603', 'IMG_9615', 'IMG_9649', 'IMG_9657']
+images = ['IMG_8727.']
 
 # 多言語に翻訳
 translator = Translator()
@@ -25,10 +26,10 @@ translator = Translator()
 texts_en = [translator.translate(text_jp, dest="en", src="ja").text for text_jp in texts_jp]
 # print(texts_en)
 
-for i, monster in enumerate(monsters):
+for i, monster in enumerate(images):
+  print(f'--- {images[i]} ---')
   try:
     original_image = Image.open(file_base_dir+f"{monster}.png")
-    print(f'--- {monsters[i]} ---')
     #画像の前処理
     image = preprocess(original_image).unsqueeze(0).to(device)
 
@@ -50,5 +51,5 @@ for i, monster in enumerate(monsters):
 
     # 例外処理        
   except Exception as e:
-    monster.rename(monster.stem + '.heic')
+    print(e)    # エラーの出力
     continue
