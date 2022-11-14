@@ -45,6 +45,8 @@ files = os.listdir(file_base_dir)
 for file in files:
   root_extenstion_tuple = os.path.splitext(file) # root_extension_tuple: tuple型
   if(root_extenstion_tuple[1] == '.heic' or root_extenstion_tuple[1] == '.HEIC'):
+    # os.rename(file, root_extenstion_tuple[0] + '.jpg')
+    
     # before_image = str(file)
     # after_image = root_extenstion_tuple[0] + '.jpg'
     # heic_png(before_image, after_image)
