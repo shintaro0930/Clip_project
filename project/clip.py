@@ -34,7 +34,8 @@ def heic_png(image_path, save_path):
 
 # file_base_dir = '/work/pictures/'
 text_base_dir = '/work/texts/'
-file_base_dir = '/work/new_pictures/'
+after_file_base_dir = '/work/jpg_pictures/'
+before_file_base_dir = '/work/all_pictures/'
 
 
 
@@ -47,19 +48,18 @@ with open(text_base_dir + 'text.txt') as texts:
 
 
 images = []
-files = os.listdir(file_base_dir)
+files = os.listdir(before_file_base_dir)
 
-
-print(os.path.exists(file_base_dir))  # file_base_dirにパスは繋がっているかの確認
-# .heic, .HEICを消し去りたい
 for file in files:
-  full_path_file = file_base_dir + file
+  full_path_file = before_file_base_dir + file
   root_extenstion_tuple = os.path.splitext(file) # root_extension_tuple: tuple型
   if(root_extenstion_tuple[1] == '.heic' or root_extenstion_tuple[1] == '.HEIC'):
-    before_image = str(full_path_file)
-    after_image = file_base_dir + root_extenstion_tuple[0] + '.jpg'
-    heic_png(before_image, after_image)
-    continue
+    if(os.path.isfile(root_extenstion_tuple[0] + '.jpg' == True)):
+      continue
+    else:
+      before_image = str(full_path_file)
+      after_image = after_file_base_dir + root_extenstion_tuple[0] + '.jpg'
+      heic_png(before_image, after_image)
   elif(root_extenstion_tuple[1] == '.sh'):
     continue
   images.append(file)
@@ -71,7 +71,7 @@ texts_en = [translator.translate(text_jp, dest="en", src="ja").text for text_jp 
 for i, image in enumerate(images):
   print(f'--- {images[i]} ---')
   try:
-    original_image = Image.open(file_base_dir + f"{image}")
+    original_image = Image.open(after_file_base_dir + f"{image}")
     image = preprocess(original_image).unsqueeze(0).to(device)
     text = clip.tokenize(texts_en).to(device)
   
@@ -82,7 +82,7 @@ for i, image in enumerate(images):
         probs = logits_per_image.softmax(dim=-1).cpu().numpy()
 
     for i in range(probs.shape[-1]):
-        print(f'{texts_jp[i]}({texts_en[i]}): {probs[0, i]*100:0.1f}%')
+      print(f'{texts_jp[i]}({texts_en[i]}): {probs[0, i]*100:0.1f}%')
 
   except Exception as e:
     print(e)  
