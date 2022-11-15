@@ -53,11 +53,11 @@ files = os.listdir(file_base_dir)
 print(os.path.exists(file_base_dir))  # file_base_dirにパスは繋がっているかの確認
 # .heic, .HEICを消し去りたい
 for file in files:
-  file = file_base_dir + file
+  full_path_file = file_base_dir + file
   root_extenstion_tuple = os.path.splitext(file) # root_extension_tuple: tuple型
   if(root_extenstion_tuple[1] == '.heic' or root_extenstion_tuple[1] == '.HEIC'):
-    before_image = str(file)
-    after_image = root_extenstion_tuple[0] + '.jpg'
+    before_image = str(full_path_file)
+    after_image = file_base_dir + root_extenstion_tuple[0] + '.jpg'
     heic_png(before_image, after_image)
     continue
   elif(root_extenstion_tuple[1] == '.sh'):
@@ -65,36 +65,25 @@ for file in files:
   images.append(file)
 
 
-# 多言語に翻訳
 translator = Translator()
-# dest:翻訳先の言語(destination), src:翻訳元の言語(source)
 texts_en = [translator.translate(text_jp, dest="en", src="ja").text for text_jp in texts_jp]
-# print(texts_en)
 
 for i, image in enumerate(images):
   print(f'--- {images[i]} ---')
   try:
-    original_image = Image.open(f"{image}")
-    #画像の前処理
+    original_image = Image.open(file_base_dir + f"{image}")
     image = preprocess(original_image).unsqueeze(0).to(device)
-
-    #tokenize
     text = clip.tokenize(texts_en).to(device)
   
     with torch.no_grad():
-        #エンコード
         image_features = model.encode_image(image)
         text_features = model.encode_text(text)
-        
-        #推論
         logits_per_image, logits_per_text = model(image, text)
         probs = logits_per_image.softmax(dim=-1).cpu().numpy()
 
-    # 結果表示 
     for i in range(probs.shape[-1]):
         print(f'{texts_jp[i]}({texts_en[i]}): {probs[0, i]*100:0.1f}%')
 
-    # 例外処理        
   except Exception as e:
-    print(e)    # エラーの出力
+    print(e)  
     continue
