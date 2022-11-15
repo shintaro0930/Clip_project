@@ -32,10 +32,11 @@ def heic_png(image_path, save_path):
     # JPEGで保存
     data.save(str(save_path), "JPEG")
 
-file_base_dir = '/work/pictures/'
+# file_base_dir = '/work/pictures/'
 text_base_dir = '/work/texts/'
-# file_base_dir = '/work/new_pictures/'
-# texts_jp = ["車が写っている晴天の日", "大きな建物", "木とガラスが写った美術館", "様々な色のガラス"]
+file_base_dir = '/work/new_pictures/'
+
+
 
 texts_jp = []
 texts_dir = os.listdir(text_base_dir)
@@ -43,27 +44,25 @@ texts_dir = os.listdir(text_base_dir)
 with open(text_base_dir + 'text.txt') as texts:
   for text in texts:
     texts_jp.append(text.rstrip())    #.rstrip()は改行コードを消す
-    print(texts_jp)
 
 
-# ディレクトリ内の画像ファイルを順にリストimagesに追加
 images = []
 files = os.listdir(file_base_dir)
 
+
+print(os.path.exists(file_base_dir))  # file_base_dirにパスは繋がっているかの確認
 # .heic, .HEICを消し去りたい
 for file in files:
+  file = file_base_dir + file
   root_extenstion_tuple = os.path.splitext(file) # root_extension_tuple: tuple型
   if(root_extenstion_tuple[1] == '.heic' or root_extenstion_tuple[1] == '.HEIC'):
-    # os.rename(file, root_extenstion_tuple[0] + '.jpg')
-    
-    # before_image = str(file)
-    # after_image = root_extenstion_tuple[0] + '.jpg'
-    # heic_png(before_image, after_image)
+    before_image = str(file)
+    after_image = root_extenstion_tuple[0] + '.jpg'
+    heic_png(before_image, after_image)
     continue
   elif(root_extenstion_tuple[1] == '.sh'):
     continue
   images.append(file)
-   # print(f"images: {images}") 
 
 
 # 多言語に翻訳
@@ -75,7 +74,7 @@ texts_en = [translator.translate(text_jp, dest="en", src="ja").text for text_jp 
 for i, image in enumerate(images):
   print(f'--- {images[i]} ---')
   try:
-    original_image = Image.open(file_base_dir+f"{image}")
+    original_image = Image.open(f"{image}")
     #画像の前処理
     image = preprocess(original_image).unsqueeze(0).to(device)
 
