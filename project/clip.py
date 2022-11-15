@@ -14,9 +14,7 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 model, preprocess = clip.load("ViT-B/32", device=device)
 
 def heic_png(image_path, save_path):
-    # HEICファイルpyheifで読み込み
     heif_file = pyheif.read(image_path)
-    # 読み込んだファイルの中身をdata変数へ
     data = Image.frombytes(
         heif_file.mode,
         heif_file.size,
@@ -29,7 +27,7 @@ def heic_png(image_path, save_path):
     images.append(data.save(str(save_path), "JPEG"))
 
 text_base_dir = '/work/texts/'
-file_base_dir = '/work/new_pictures/'
+file_base_dir = '/work/pictures/'
 
 
 
@@ -61,9 +59,9 @@ translator = Translator()
 texts_en = [translator.translate(text_jp, dest="en", src="ja").text for text_jp in texts_jp]
 
 for i, image in enumerate(images):
-  print(f'--- {images[i]} ---')
   try:
     original_image = Image.open(file_base_dir + f"{image}")
+    print(f'--- {images[i]} ---')
     image = preprocess(original_image).unsqueeze(0).to(device)
     text = clip.tokenize(texts_en).to(device)
   
@@ -74,8 +72,7 @@ for i, image in enumerate(images):
         probs = logits_per_image.softmax(dim=-1).cpu().numpy()
 
     for i in range(probs.shape[-1]):
-      print(f'{texts_jp[i]}({texts_en[i]}): {probs[0, i]*100:0.1f}%')
+        print(f'{texts_jp[i]}({texts_en[i]}): {probs[0, i]*100:0.1f}%')
 
   except Exception as e:
-    print(e)  
     continue
