@@ -1,13 +1,9 @@
-# import os: UNIXコマンドをpythonファイルの中で実行できる
 import os
-# import sys: モジュール検索パスをできるようにする(他のdirから.pyのクラスなどを取得)
 import sys
-# sys.path.append('ディレクトリ名'): ディレクトリの名前を検索パスに追加
 sys.path.append('CLIP')
 import torch
 from CLIP import clip
 from PIL import Image
-# PILの説明: https://note.nkmk.me/python-pillow-basic/
 from googletrans import Translator
 
 from pathlib import Path
@@ -30,12 +26,10 @@ def heic_png(image_path, save_path):
         heif_file.stride,
         )
     # JPEGで保存
-    data.save(str(save_path), "JPEG")
+    images.append(data.save(str(save_path), "JPEG"))
 
-# file_base_dir = '/work/pictures/'
 text_base_dir = '/work/texts/'
-after_file_base_dir = '/work/jpg_pictures/'
-before_file_base_dir = '/work/all_pictures/'
+file_base_dir = '/work/new_pictures/'
 
 
 
@@ -48,22 +42,20 @@ with open(text_base_dir + 'text.txt') as texts:
 
 
 images = []
-files = os.listdir(before_file_base_dir)
+files = os.listdir(file_base_dir)
 
+# .heic, .HEICを消し去りたい
 for file in files:
-  full_path_file = before_file_base_dir + file
+  full_path_file = file_base_dir + file
   root_extenstion_tuple = os.path.splitext(file) # root_extension_tuple: tuple型
   if(root_extenstion_tuple[1] == '.heic' or root_extenstion_tuple[1] == '.HEIC'):
-    if(os.path.isfile(root_extenstion_tuple[0] + '.jpg' == True)):
-      continue
-    else:
-      before_image = str(full_path_file)
-      after_image = after_file_base_dir + root_extenstion_tuple[0] + '.jpg'
-      heic_png(before_image, after_image)
+    before_image = str(full_path_file)
+    after_image = file_base_dir + root_extenstion_tuple[0] + '.jpg'
+    heic_png(before_image, after_image)
+    continue
   elif(root_extenstion_tuple[1] == '.sh'):
     continue
   images.append(file)
-
 
 translator = Translator()
 texts_en = [translator.translate(text_jp, dest="en", src="ja").text for text_jp in texts_jp]
@@ -71,7 +63,7 @@ texts_en = [translator.translate(text_jp, dest="en", src="ja").text for text_jp 
 for i, image in enumerate(images):
   print(f'--- {images[i]} ---')
   try:
-    original_image = Image.open(after_file_base_dir + f"{image}")
+    original_image = Image.open(file_base_dir + f"{image}")
     image = preprocess(original_image).unsqueeze(0).to(device)
     text = clip.tokenize(texts_en).to(device)
   
