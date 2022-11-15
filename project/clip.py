@@ -32,9 +32,18 @@ def heic_png(image_path, save_path):
     # JPEGで保存
     data.save(str(save_path), "JPEG")
 
-# file_base_dir = '/work/pictures/'
-file_base_dir = '/work/new_pictures/'
-texts_jp = ["車が写っている晴天の日", "大きな建物", "木とガラスが写った美術館", "様々な色のガラス"]
+file_base_dir = '/work/pictures/'
+text_base_dir = '/work/texts/'
+# file_base_dir = '/work/new_pictures/'
+# texts_jp = ["車が写っている晴天の日", "大きな建物", "木とガラスが写った美術館", "様々な色のガラス"]
+
+texts_jp = []
+texts_dir = os.listdir(text_base_dir)
+
+with open(text_base_dir + 'text.txt') as texts:
+  for text in texts:
+    texts_jp.append(text.rstrip())    #.rstrip()は改行コードを消す
+    print(texts_jp)
 
 
 # ディレクトリ内の画像ファイルを順にリストimagesに追加

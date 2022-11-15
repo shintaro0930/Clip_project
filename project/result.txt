@@ -1,36 +1,20 @@
-device: cuda
---- スライム ---
-a slime: 78.5%
-a king slime: 12.6%
-a metal slime: 7.6%
-a metal king: 0.0%
-a drakey: 1.2%
-an arm lion: 0.0%
---- キングスライム ---
-a slime: 3.5%
-a king slime: 94.3%
-a metal slime: 1.0%
-a metal king: 1.1%
-a drakey: 0.1%
-an arm lion: 0.0%
---- メタルスライム ---
-a slime: 66.0%
-a king slime: 10.4%
-a metal slime: 23.2%
-a metal king: 0.1%
-a drakey: 0.3%
-an arm lion: 0.0%
---- ドラキー ---
-a slime: 19.0%
-a king slime: 21.6%
-a metal slime: 5.0%
-a metal king: 4.2%
-a drakey: 50.1%
-an arm lion: 0.1%
---- アームライオン ---
-a slime: 0.0%
-a king slime: 0.0%
-a metal slime: 0.0%
-a metal king: 0.0%
-a drakey: 0.1%
-an arm lion: 99.8%
+--- IMG_8727.jpg ---
+車が写っている晴天の日(sunny day with cars): 89.0%
+大きな建物(big building): 6.1%
+木とガラスが写った美術館(Museum of wood and glass): 4.9%
+様々な色のガラス(different colored glasses): 0.0%
+--- IMG_9615.png ---
+車が写っている晴天の日(sunny day with cars): 0.0%
+大きな建物(big building): 0.0%
+木とガラスが写った美術館(Museum of wood and glass): 100.0%
+様々な色のガラス(different colored glasses): 0.0%
+--- IMG_9649.png ---
+車が写っている晴天の日(sunny day with cars): 0.0%
+大きな建物(big building): 0.0%
+木とガラスが写った美術館(Museum of wood and glass): 99.5%
+様々な色のガラス(different colored glasses): 0.4%
+--- IMG_9603.png ---
+車が写っている晴天の日(sunny day with cars): 14.0%
+大きな建物(big building): 34.6%
+木とガラスが写った美術館(Museum of wood and glass): 51.1%
+様々な色のガラス(different colored glasses): 0.3%
