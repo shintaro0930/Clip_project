@@ -27,7 +27,7 @@ def heic_png(image_path, save_path):
     images.append(data.save(str(save_path), "JPEG"))
 
 text_base_dir = '/work/texts/'
-file_base_dir = '/work/pictures/'
+image_base_dir = '/work/pictures/'
 
 
 
@@ -40,15 +40,15 @@ with open(text_base_dir + 'text.txt') as texts:
 
 
 images = []
-files = os.listdir(file_base_dir)
+files = os.listdir(image_base_dir)
 
 # .heic, .HEICを消し去りたい
 for file in files:
-  full_path_file = file_base_dir + file
+  full_path_file = image_base_dir + file
   root_extenstion_tuple = os.path.splitext(file) # root_extension_tuple: tuple型
   if(root_extenstion_tuple[1] == '.heic' or root_extenstion_tuple[1] == '.HEIC'):
     before_image = str(full_path_file)
-    after_image = file_base_dir + root_extenstion_tuple[0] + '.jpg'
+    after_image = image_base_dir + root_extenstion_tuple[0] + '.jpg'
     heic_png(before_image, after_image)
     continue
   elif(root_extenstion_tuple[1] == '.sh'):
@@ -60,7 +60,7 @@ texts_en = [translator.translate(text_jp, dest="en", src="ja").text for text_jp 
 
 for i, image in enumerate(images):
   try:
-    original_image = Image.open(file_base_dir + f"{image}")
+    original_image = Image.open(image_base_dir + f"{image}")
     print(f'--- {images[i]} ---')
     image = preprocess(original_image).unsqueeze(0).to(device)
     text = clip.tokenize(texts_en).to(device)
