@@ -27,8 +27,10 @@ def heic_png(image_path, save_path):
     # JPEGで保存
     images.append(data.save(str(save_path), "JPEG"))
 
+# text_base_dir = '/work/texts/'
 text_base_dir = '/work/project/texts/'
 # image_base_dir = '/work/project/pictures/'
+# image_base_dir = '/work/light_pictures/'
 image_base_dir = '/work/project/light_pictures/'
 
 
@@ -37,7 +39,10 @@ image_base_dir = '/work/project/light_pictures/'
 texts_jp = []
 texts_dir = os.listdir(text_base_dir)
 
-with open(text_base_dir + 'text.txt') as texts:
+text_file = text_base_dir + 'text.txt'
+# text_file = text_base_dir + 'rand_text.txt'
+
+with open(text_file) as texts:
   for text in texts:
     texts_jp.append(text.rstrip())    #.rstrip()は改行コードを消す
 
@@ -73,17 +78,17 @@ for i, image in enumerate(images):
         text_features = model.encode_text(text)
         logits_per_image, logits_per_text = model(image, text)
         probs = logits_per_image.softmax(dim=-1).cpu().numpy()
-        print(type(probs))
-        sorted_probs = np.sort(probs)[::-1]
+        sorted_probs = np.sort(probs)
         index = np.argsort(probs)
-        print(sorted_probs)
-        print(index)
 
-    for i in range(probs.shape[-1]):
-        print(f'{texts_jp[i]}({texts_en[i]}): {probs[0, i]*100:0.1f}%')
-        # print(f'{text_jp[index]}')
-        # probsをソートして上位3つをとる。
-      
+    # print("=== NORMAL===")
+    # for i in range(probs.shape[-1]):
+    #     print(f'{texts_jp[i]}({texts_en[i]}): {probs[0, i]*100:0.1f}%')
+
+    # print("\n=== REVERSE ===")
+    for i in reversed(range(sorted_probs.shape[-1] - 3, sorted_probs.shape[-1])):
+        print(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%')
+    
     print("\n")
 
   except Exception as e:
