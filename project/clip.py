@@ -9,6 +9,7 @@ from googletrans import Translator
 from pathlib import Path
 import pyheif
 import glob
+import numpy as np
  
 device = "cuda" if torch.cuda.is_available() else "cpu"
 model, preprocess = clip.load("ViT-B/32", device=device)
@@ -27,7 +28,9 @@ def heic_png(image_path, save_path):
     images.append(data.save(str(save_path), "JPEG"))
 
 text_base_dir = '/work/project/texts/'
-image_base_dir = '/work/project/pictures/'
+# image_base_dir = '/work/project/pictures/'
+image_base_dir = '/work/project/light_pictures/'
+
 
 
 
@@ -70,11 +73,19 @@ for i, image in enumerate(images):
         text_features = model.encode_text(text)
         logits_per_image, logits_per_text = model(image, text)
         probs = logits_per_image.softmax(dim=-1).cpu().numpy()
-        print(probs)
+        print(type(probs))
+        sorted_probs = np.sort(probs)[::-1]
+        index = np.argsort(probs)
+        print(sorted_probs)
+        print(index)
 
     for i in range(probs.shape[-1]):
         print(f'{texts_jp[i]}({texts_en[i]}): {probs[0, i]*100:0.1f}%')
+        # print(f'{text_jp[index]}')
+        # probsをソートして上位3つをとる。
+      
     print("\n")
 
   except Exception as e:
+    print(e)
     continue
