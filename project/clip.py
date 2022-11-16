@@ -85,8 +85,7 @@ for i, image in enumerate(images):
     # print("=== NORMAL===")
     # for i in range(probs.shape[-1]):
     #     print(f'{texts_jp[i]}({texts_en[i]}): {probs[0, i]*100:0.1f}%')
-
-    # print("\n=== REVERSE ===")
+    
     for i in reversed(range(sorted_probs.shape[-1] - 3, sorted_probs.shape[-1])):
         print(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%')
     
