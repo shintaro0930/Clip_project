@@ -14,7 +14,7 @@ with open("EnglishList/english-nouns.txt") as f:
     nouns = f.readlines()
 
 with open('./texts/rand_text.txt', 'a') as f:
-    for i in range(10):
+    for i in range(100):
         adj_index = random.randrange(len(adjectives))
         adj_index2 = random.randrange(len(adjectives))
         noun_index = random.randrange(len(nouns))
