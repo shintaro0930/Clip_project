@@ -16,7 +16,8 @@ with open("EnglishList/english-nouns.txt") as f:
 with open('./texts/rand_text.txt', 'a') as f:
     for i in range(10):
         adj_index = random.randrange(len(adjectives))
+        adj_index2 = random.randrange(len(adjectives))
         noun_index = random.randrange(len(nouns))
-        theme = adjectives[adj_index]+' '+nouns[noun_index]
+        theme = adjectives[adj_index2] + ' '+adjectives[adj_index]+' '+nouns[noun_index]
         theme = theme.replace("\n", '')
         f.writelines(translator.translate(theme, dest="ja", src="en").text + '\n')

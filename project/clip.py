@@ -26,8 +26,8 @@ def heic_png(image_path, save_path):
     # JPEGで保存
     images.append(data.save(str(save_path), "JPEG"))
 
-text_base_dir = '/work/texts/'
-image_base_dir = '/work/pictures/'
+text_base_dir = '/work/project/texts/'
+image_base_dir = '/work/project/pictures/'
 
 
 
@@ -70,9 +70,11 @@ for i, image in enumerate(images):
         text_features = model.encode_text(text)
         logits_per_image, logits_per_text = model(image, text)
         probs = logits_per_image.softmax(dim=-1).cpu().numpy()
+        print(probs)
 
     for i in range(probs.shape[-1]):
         print(f'{texts_jp[i]}({texts_en[i]}): {probs[0, i]*100:0.1f}%')
+    print("\n")
 
   except Exception as e:
     continue
