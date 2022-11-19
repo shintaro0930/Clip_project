@@ -58,7 +58,7 @@ for file in files:
     before_image = str(full_path_file)
     after_image = image_base_dir + root_extenstion_tuple[0] + '.jpg'
     heic_png(before_image, after_image)
-    os.remove(file) #.heic or .HEICを削除
+    os.remove(file)     #.heic or .HEICを削除
     continue
   elif(root_extenstion_tuple[1] == '.sh'):
     continue

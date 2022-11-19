@@ -15,5 +15,6 @@ RUN pip3 install ftfy regex tqdm && \
     pip3 install matplotlib && \
     pip3 install Image && \
     pip3 install Path && \
-    pip3 install pyheif
+    pip3 install pyheif && \
+    pip3 install scikit-learn
     
