@@ -3,6 +3,8 @@ import numpy as np
 
 # https://qiita.com/ground0state/items/155b77f4c07e1a509a14
 
+input_str = input(str("入力する文字列: "))
+
 count = CountVectorizer()
 docs = np.array(['The sun is shining', 
                  'The weather is shining',
