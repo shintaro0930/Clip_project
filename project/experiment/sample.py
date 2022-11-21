@@ -10,7 +10,8 @@ def wakachi(text):
     docs=[]
     for token in tokens:
         docs.append(token.surface)
-    return docst
+    # print(docs)
+    return docs
  
 #文書ベクトル化関数
 
@@ -22,6 +23,7 @@ def vecs_array(documents):
     return vecs.toarray()
  
 if __name__ == '__main__':
+    input_text = input("入力文字列: ")
     docs = [
     "私は犬が好きです。",
     "私は犬が嫌いです。",
@@ -29,4 +31,20 @@ if __name__ == '__main__':
  
     #類似度行列作成
     cs_array = np.round(cosine_similarity(vecs_array(docs), vecs_array(docs)),3)
-    print(cs_array)
+
+    # それぞれのtf-idfを取得
+    for i, doc in enumerate(docs):
+        max_tf_idf = 0
+        print(f'{doc}に対して:')
+        for j, str in enumerate(docs):
+            if(i == j):
+                continue
+            else:
+                if(cs_array[i][j] > max_tf_idf):
+                    max_tf_idf = cs_array[i][j]
+                    print(f'{str}: {cs_array[i][j]}')
+        print()
+
+
+
+
