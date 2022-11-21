@@ -10,7 +10,7 @@ def wakachi(text):
     docs=[]
     for token in tokens:
         docs.append(token.surface)
-    return docs
+    return docst
  
 #文書ベクトル化関数
 
