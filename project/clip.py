@@ -1,10 +1,14 @@
 import os
+import re
 import sys
 sys.path.append('CLIP')
 import torch
 from CLIP import clip
 from PIL import Image
 from googletrans import Translator
+from janome.tokenizer import Tokenizer
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
 from pathlib import Path
 import pyheif
@@ -13,6 +17,26 @@ import numpy as np
  
 device = "cuda" if torch.cuda.is_available() else "cpu"
 model, preprocess = clip.load("ViT-B/32", device=device)
+
+def remove_punctuation(input):
+  output = re.sub(r'[^\w\s]','',input)
+  return output
+
+# textを分かち書きの形にする
+def wakachi(text)->list:
+  t = Tokenizer()
+  tokens = t.tokenize(text)
+  docs = []
+  for token in tokens:
+    docs.append(tokens.surface)
+  return docs
+
+def very_array(documents):
+  docs = np.array(documents)
+  vectorizer = TfidfVectorizer(analyzer=wakachi,binary=True,use_idf=False)
+  vecs = vectorizer.fit_transform(docs)
+  return vecs.toarray()
+
 
 def heic_png(image_path, save_path):
     heif_file = pyheif.read(image_path)
@@ -36,7 +60,7 @@ image_base_dir = '/work/project/light_pictures/'
 
 
 
-texts_jp = []
+texts_jp:list = []
 texts_dir = os.listdir(text_base_dir)
 
 text_file = text_base_dir + 'text.txt'
@@ -44,8 +68,10 @@ text_file = text_base_dir + 'text.txt'
 
 with open(text_file) as texts:
   for text in texts:
+    text = re.sub(r'[^\w\s]', '', text)
     texts_jp.append(text.rstrip())    #.rstrip()は改行コードを消す
 
+#cs_array = np.round(cosine_similarity())
 
 images = []
 files = os.listdir(image_base_dir)
