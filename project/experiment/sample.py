@@ -34,10 +34,6 @@ if __name__ == '__main__':
     "私は犬のことがとても好きです。"]
     docs.append(input_text)
     print(docs)
- 
-    for doc in docs:
-        doc = remove_punctuation(doc)
-        print(f'punctuation: {doc}')
     
     #類似度行列作成
     cs_array = np.round(cosine_similarity(vecs_array(docs), vecs_array(docs)),3)

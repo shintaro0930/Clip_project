@@ -28,10 +28,10 @@ def wakachi(text)->list:
   tokens = t.tokenize(text)
   docs = []
   for token in tokens:
-    docs.append(tokens.surface)
+    docs.append(token.surface)
   return docs
 
-def very_array(documents):
+def vecs_array(documents):
   docs = np.array(documents)
   vectorizer = TfidfVectorizer(analyzer=wakachi,binary=True,use_idf=False)
   vecs = vectorizer.fit_transform(docs)
@@ -71,7 +71,19 @@ with open(text_file) as texts:
     text = re.sub(r'[^\w\s]', '', text)
     texts_jp.append(text.rstrip())    #.rstrip()は改行コードを消す
 
-#cs_array = np.round(cosine_similarity())
+cs_array = np.round(cosine_similarity(vecs_array(texts_jp), vecs_array(texts_jp)), len(texts_jp))
+
+
+input_text = input("input: ")
+input_text = re.sub(r'[^\w\s]', '', input_text)
+print(f"result: {input_text}")
+
+max_tf_idf = 0  # initialize
+for i, text in enumerate(texts_jp):
+  # WRITE ME
+  # input_textをベクトル化して、それとlistとのtf-idfが欲しい
+  
+  continue 
 
 images = []
 files = os.listdir(image_base_dir)
