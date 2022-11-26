@@ -37,7 +37,13 @@ def vecs_array(documents):
   vecs = vectorizer.fit_transform(docs)
   return vecs.toarray()
 
+def vec_array(document):
+  doc = np.array(document)
+  vectorizer = TfidfVectorizer(analyzer=wakachi,binary=True,use_idf=False)
+  vecs = vectorizer.fit_transform(doc)
+  return vecs.toarray()
 
+# heicファイルをpngに変換
 def heic_png(image_path, save_path):
     heif_file = pyheif.read(image_path)
     data = Image.frombytes(
@@ -58,8 +64,6 @@ text_base_dir = '/work/project/texts/'
 image_base_dir = '/work/project/light_pictures/'
 
 
-
-
 texts_jp:list = []
 texts_dir = os.listdir(text_base_dir)
 
@@ -71,19 +75,17 @@ with open(text_file) as texts:
     text = re.sub(r'[^\w\s]', '', text)
     texts_jp.append(text.rstrip())    #.rstrip()は改行コードを消す
 
-cs_array = np.round(cosine_similarity(vecs_array(texts_jp), vecs_array(texts_jp)), len(texts_jp))
-
-
 input_text = input("input: ")
 input_text = re.sub(r'[^\w\s]', '', input_text)
-print(f"result: {input_text}")
+texts_jp.append(input_text)
+print(texts_jp)
 
-max_tf_idf = 0  # initialize
-for i, text in enumerate(texts_jp):
-  # WRITE ME
-  # input_textをベクトル化して、それとlistとのtf-idfが欲しい
-  
-  continue 
+cs_array = np.round(cosine_similarity(vecs_array(texts_jp), vecs_array(texts_jp)), len(texts_jp))
+print(cs_array)
+
+input_cmp_list = cs_array[5]
+print(input_cmp_list)
+
 
 images = []
 files = os.listdir(image_base_dir)
