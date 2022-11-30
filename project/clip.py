@@ -78,14 +78,20 @@ with open(text_file) as texts:
 input_text = input("input: ")
 input_text = re.sub(r'[^\w\s]', '', input_text)
 texts_jp.append(input_text)
-print(texts_jp)
+# print(texts_jp)
 
 cs_array = np.round(cosine_similarity(vecs_array(texts_jp), vecs_array(texts_jp)), len(texts_jp))
-print(cs_array)
+# print(cs_array)
 
+# 入力した分と比較したときのcos類似度をとった
 input_cmp_list = cs_array[5]
-print(input_cmp_list)
+# print(input_cmp_list)  
 
+# input_cmp_list と texts_jpをzipしてdict型にまとめる
+cmp_dict = dict(zip(input_cmp_list, texts_jp))
+# cos類似度が1のものを削除、これでcmp_dictには入力した文に対してのcos類似度を取ることができる。
+cmp_dict.pop(1)
+print(f'{input_text} との類似度: \n{cmp_dict}')
 
 images = []
 files = os.listdir(image_base_dir)
