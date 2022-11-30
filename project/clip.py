@@ -57,11 +57,11 @@ def heic_png(image_path, save_path):
     # JPEGで保存
     images.append(data.save(str(save_path), "JPEG"))
 
-# text_base_dir = '/work/texts/'
-text_base_dir = '/work/project/texts/'
+text_base_dir = '/work/texts/'
+# text_base_dir = '/work/project/texts/'
 # image_base_dir = '/work/project/pictures/'
-# image_base_dir = '/work/light_pictures/'
-image_base_dir = '/work/project/light_pictures/'
+image_base_dir = '/work/light_pictures/'
+# image_base_dir = '/work/project/light_pictures/'
 
 
 texts_jp:list = []
@@ -79,6 +79,7 @@ input_text = input("input: ")
 input_text = re.sub(r'[^\w\s]', '', input_text)
 texts_jp.append(input_text)
 # print(texts_jp)
+
 
 cs_array = np.round(cosine_similarity(vecs_array(texts_jp), vecs_array(texts_jp)), len(texts_jp))
 # print(cs_array)
@@ -119,7 +120,7 @@ for i, image in enumerate(images):
     print(f'--- {images[i]} ---')
     image = preprocess(original_image).unsqueeze(0).to(device)
     text = clip.tokenize(texts_en).to(device)
-  
+
     with torch.no_grad():
         image_features = model.encode_image(image)
         text_features = model.encode_text(text)
@@ -128,10 +129,11 @@ for i, image in enumerate(images):
         sorted_probs = np.sort(probs)
         index = np.argsort(probs)
 
-    # print("=== NORMAL===")
-    # for i in range(probs.shape[-1]):
-    #     print(f'{texts_jp[i]}({texts_en[i]}): {probs[0, i]*100:0.1f}%')
+    print("=== NORMAL===")
+    for i in range(probs.shape[-1]):
+        print(f'{texts_jp[i]}({texts_en[i]}): {probs[0, i]*100:0.1f}%')
     
+    print("===REVERSE===")
     for i in reversed(range(sorted_probs.shape[-1] - 3, sorted_probs.shape[-1])):
         print(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%')
     
