@@ -14,7 +14,7 @@ from pathlib import Path
 import pyheif
 import glob
 import numpy as np
- 
+
 device = "cuda" if torch.cuda.is_available() else "cpu"
 model, preprocess = clip.load("ViT-B/32", device=device)
 
@@ -125,17 +125,39 @@ for i, image in enumerate(images):
         image_features = model.encode_image(image)
         text_features = model.encode_text(text)
         logits_per_image, logits_per_text = model(image, text)
+        #logits_per_image: 画像に対するテキストの一致度
+        #logits_per_text: テキストに対する画像の一致度
+        # コーパスの確率を保存
         probs = logits_per_image.softmax(dim=-1).cpu().numpy()
+        probs2 = logits_per_text.softmax(dim=-1).cpu().numpy().reshape([1, -1])
         sorted_probs = np.sort(probs)
         index = np.argsort(probs)
+        
+        print("===============")
+        print(f'type(text_features): {type(text_features)}')
+        print(f'text_features:\n {text_features}')
+        print("===============")
+        print(f'type(logit_per_text): {type(logits_per_text)}')
+        print(f'logit_per_text:\n {logits_per_text}')
+        print("===============")
+        print(f'type(logit_per_image): {type(logits_per_image)}')
+        print(f'logit_per_image:\n {logits_per_image}')
+        print("===============")
+        print(f'type(probs): {type(probs)}')
+        print(f'probs:\n {probs}')
+        print("===============")
+
+
+
+
 
     print("=== NORMAL===")
     for i in range(probs.shape[-1]):
         print(f'{texts_jp[i]}({texts_en[i]}): {probs[0, i]*100:0.1f}%')
     
-    print("===REVERSE===")
-    for i in reversed(range(sorted_probs.shape[-1] - 3, sorted_probs.shape[-1])):
-        print(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%')
+    # print("===REVERSE===")
+    # for i in reversed(range(sorted_probs.shape[-1] - 3, sorted_probs.shape[-1])):
+    #     print(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%')
     
     print("\n")
 
