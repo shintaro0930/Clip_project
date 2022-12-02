@@ -37,8 +37,9 @@ def vecs_array(documents):
   vecs = vectorizer.fit_transform(docs)
   return vecs.toarray()
 
-def vec_array(document):
+
   doc = np.array(document)
+  doc = [doc]
   vectorizer = TfidfVectorizer(analyzer=wakachi,binary=True,use_idf=False)
   vecs = vectorizer.fit_transform(doc)
   return vecs.toarray()
@@ -58,10 +59,8 @@ def heic_png(image_path, save_path):
     images.append(data.save(str(save_path), "JPEG"))
 
 text_base_dir = '/work/texts/'
-# text_base_dir = '/work/project/texts/'
-# image_base_dir = '/work/project/pictures/'
+# image_base_dir = '/work/pictures/'
 image_base_dir = '/work/light_pictures/'
-# image_base_dir = '/work/project/light_pictures/'
 
 
 texts_jp:list = []
@@ -77,23 +76,22 @@ with open(text_file) as texts:
 
 input_text = input("input: ")
 input_text = re.sub(r'[^\w\s]', '', input_text)
+
 texts_jp.append(input_text)
-# print(texts_jp)
+
+# 入力文のベクトル化
+input_vector = vecs_array(texts_jp)[-1]
 
 
-cs_array = np.round(cosine_similarity(vecs_array(texts_jp), vecs_array(texts_jp)), len(texts_jp))
-# print(cs_array)
 
-# 入力した分と比較したときのcos類似度をとった
-input_cmp_list = cs_array[5]
-# print(input_cmp_list)  
+cos_sim_array = np.round(cosine_similarity(vecs_array(texts_jp), vecs_array(texts_jp)), len(texts_jp))
+input_cos_list:list = cos_sim_array[-1]
+cos_sim_dict:dict = dict(zip(input_cos_list, texts_jp))
+cos_sim_dict.pop(1)
+cos_sim_dict = sorted(cos_sim_dict.items(), reverse=True)
+cos_sim_dict = dict((x, y) for x, y in cos_sim_dict)
 
-# input_cmp_list と texts_jpをzipしてdict型にまとめる
-cmp_dict = dict(zip(input_cmp_list, texts_jp))
-# cos類似度が1のものを削除、これでcmp_dictには入力した文に対してのcos類似度を取ることができる。
-cmp_dict.pop(1)
-print(f'{input_text} との類似度: \n{cmp_dict}')
-
+texts_jp.pop(-1)
 images = []
 files = os.listdir(image_base_dir)
 
@@ -114,6 +112,9 @@ for file in files:
 translator = Translator()
 texts_en = [translator.translate(text_jp, dest="en", src="ja").text for text_jp in texts_jp]
 
+clip_dict:dict = {}
+clip_text:list = []
+clip_cos_list = []
 for i, image in enumerate(images):
   try:
     original_image = Image.open(image_base_dir + f"{image}")
@@ -123,7 +124,7 @@ for i, image in enumerate(images):
 
     with torch.no_grad():
         image_features = model.encode_image(image)
-        text_features = model.encode_text(text)
+        text_features = model.encode_text(text)   # model.pyの345行目
         logits_per_image, logits_per_text = model(image, text)
         #logits_per_image: 画像に対するテキストの一致度
         #logits_per_text: テキストに対する画像の一致度
@@ -132,35 +133,48 @@ for i, image in enumerate(images):
         probs2 = logits_per_text.softmax(dim=-1).cpu().numpy().reshape([1, -1])
         sorted_probs = np.sort(probs)
         index = np.argsort(probs)
-        
-        print("===============")
-        print(f'type(text_features): {type(text_features)}')
-        print(f'text_features:\n {text_features}')
-        print("===============")
-        print(f'type(logit_per_text): {type(logits_per_text)}')
-        print(f'logit_per_text:\n {logits_per_text}')
-        print("===============")
-        print(f'type(logit_per_image): {type(logits_per_image)}')
-        print(f'logit_per_image:\n {logits_per_image}')
-        print("===============")
-        print(f'type(probs): {type(probs)}')
-        print(f'probs:\n {probs}')
-        print("===============")
 
+    # 少なくともここで、{画像、ソートした上位3種:その確率}を保持
 
-
-
-
-    print("=== NORMAL===")
-    for i in range(probs.shape[-1]):
-        print(f'{texts_jp[i]}({texts_en[i]}): {probs[0, i]*100:0.1f}%')
+    # print("=== NORMAL===")
+    # for i in range(probs.shape[-1]):
+    #     text = texts_jp[i] + "(" + texts_en[i] + ")"
+    #     print(f'type(text): {type(text)}')
+    #     print(f'type(probs): {type(probs[0, i])}')
+    #     print(f'{text}: {probs[0, i]*100:0.1f}%')
+    #     # clip_dict.update(text=probs[0, i]*100)
+    #     # print(clip_dict)
+    #     # print(f'{texts_jp[i]}({texts_en[i]}): {probs[0, i]*100:0.1f}%')
     
-    # print("===REVERSE===")
-    # for i in reversed(range(sorted_probs.shape[-1] - 3, sorted_probs.shape[-1])):
-    #     print(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%')
-    
+    print("===REVERSE===")    # ソートして上位3つ出力
+    for i in reversed(range(sorted_probs.shape[-1] - 3, sorted_probs.shape[-1])):
+        clip_text.append(texts_jp[index[0, i]])
+        print(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%')
     print("\n")
+
+    clip_text.append(input_text)
+    clip_cos_sim = np.round(cosine_similarity(vecs_array(clip_text), vecs_array(clip_text)), len(clip_text))
+    clip_cos_list = clip_cos_sim[-1]
+    print("=============")
+    print(f'入力文とソート文のcos類似度:\n {clip_cos_list}')
+    print("=============")    
+
+
+    # # cos_simを出す
+    # # input_vectorとclip_text
+    # input_vector = np.array(input_vector).reshape((-1, 1))
+    # input_vector = np.reshape(input_vector, (12, 1))
+    # print(input_vector.shape)
+    # print("==========")
+    # print(vecs_array(clip_text).shape)
+    # cos_sim = np.round(cosine_similarity(input_vector, vecs_array(clip_text)))
+    # print("=============")
+    # print(f'cos_sim:\n {cos_sim}')
+    # print("=============")
 
   except Exception as e:
     print(e)
     continue
+
+
+
