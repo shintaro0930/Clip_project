@@ -115,7 +115,7 @@ translator = Translator()
 texts_en = [translator.translate(text_jp, dest="en", src="ja").text for text_jp in texts_jp]
 
 
-
+# initialize
 clip_text:list = []
 clip_cos_list = []
 max_prob = 0
@@ -133,19 +133,21 @@ for i, image in enumerate(images):
         logits_per_image, logits_per_text = model(image, text)
         #logits_per_image: 画像に対するテキストの一致度
         #logits_per_text: テキストに対する画像の一致度
-        # コーパスの確率を保存
+
         probs = logits_per_image.softmax(dim=-1).cpu().numpy()
-        probs2 = logits_per_text.softmax(dim=-1).cpu().numpy().reshape([1, -1])
         sorted_probs = np.sort(probs)
         index = np.argsort(probs)
     
-    # print("===PROBABILITIES===")  
+    # print("===PROBABILITIES===") 
+    # ソートした上位3つのテキスト文章をlistに追加 
     for i in reversed(range(sorted_probs.shape[-1] - 3, sorted_probs.shape[-1])):
         clip_text.append(texts_jp[index[0, i]])
         # print(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%')
 
     clip_text.append(input_text)
+    # clip_cos_sim : numpy.ndarray
     clip_cos_sim = np.round(cosine_similarity(vecs_array(clip_text), vecs_array(clip_text)), len(clip_text))
+    # .tolist()で numpy.ndarray --> list
     clip_cos_list = clip_cos_sim[-1].tolist()
     clip_cos_list.pop(-1)
     avg = sum(clip_cos_list)/ len(clip_cos_list) * 100 # 単位は%
