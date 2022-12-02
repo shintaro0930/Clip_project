@@ -59,8 +59,8 @@ def heic_png(image_path, save_path):
     images.append(data.save(str(save_path), "JPEG"))
 
 text_base_dir = '/work/texts/'
-# image_base_dir = '/work/pictures/'
-image_base_dir = '/work/light_pictures/'
+image_base_dir = '/work/pictures/'
+# image_base_dir = '/work/light_pictures/'
 
 
 texts_jp:list = []
@@ -103,8 +103,10 @@ for file in files:
     before_image = str(full_path_file)
     after_image = image_base_dir + root_extenstion_tuple[0] + '.jpg'
     heic_png(before_image, after_image)
-    os.remove(file)     #.heic or .HEICを削除
-    continue
+    try:
+      os.remove(file)     #.heic or .HEICを削除
+    except Exception as e:
+      continue
   elif(root_extenstion_tuple[1] == '.sh'):
     continue
   images.append(file)
@@ -112,13 +114,16 @@ for file in files:
 translator = Translator()
 texts_en = [translator.translate(text_jp, dest="en", src="ja").text for text_jp in texts_jp]
 
-clip_dict:dict = {}
+
+
 clip_text:list = []
 clip_cos_list = []
+max_prob = 0
+
 for i, image in enumerate(images):
   try:
+    save_image = image
     original_image = Image.open(image_base_dir + f"{image}")
-    print(f'--- {images[i]} ---')
     image = preprocess(original_image).unsqueeze(0).to(device)
     text = clip.tokenize(texts_en).to(device)
 
@@ -133,48 +138,25 @@ for i, image in enumerate(images):
         probs2 = logits_per_text.softmax(dim=-1).cpu().numpy().reshape([1, -1])
         sorted_probs = np.sort(probs)
         index = np.argsort(probs)
-
-    # 少なくともここで、{画像、ソートした上位3種:その確率}を保持
-
-    # print("=== NORMAL===")
-    # for i in range(probs.shape[-1]):
-    #     text = texts_jp[i] + "(" + texts_en[i] + ")"
-    #     print(f'type(text): {type(text)}')
-    #     print(f'type(probs): {type(probs[0, i])}')
-    #     print(f'{text}: {probs[0, i]*100:0.1f}%')
-    #     # clip_dict.update(text=probs[0, i]*100)
-    #     # print(clip_dict)
-    #     # print(f'{texts_jp[i]}({texts_en[i]}): {probs[0, i]*100:0.1f}%')
     
-    print("===REVERSE===")    # ソートして上位3つ出力
+    # print("===PROBABILITIES===")  
     for i in reversed(range(sorted_probs.shape[-1] - 3, sorted_probs.shape[-1])):
         clip_text.append(texts_jp[index[0, i]])
-        print(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%')
-    print("\n")
+        # print(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%')
 
     clip_text.append(input_text)
     clip_cos_sim = np.round(cosine_similarity(vecs_array(clip_text), vecs_array(clip_text)), len(clip_text))
-    clip_cos_list = clip_cos_sim[-1]
-    print("=============")
-    print(f'入力文とソート文のcos類似度:\n {clip_cos_list}')
-    print("=============")    
-
-
-    # # cos_simを出す
-    # # input_vectorとclip_text
-    # input_vector = np.array(input_vector).reshape((-1, 1))
-    # input_vector = np.reshape(input_vector, (12, 1))
-    # print(input_vector.shape)
-    # print("==========")
-    # print(vecs_array(clip_text).shape)
-    # cos_sim = np.round(cosine_similarity(input_vector, vecs_array(clip_text)))
-    # print("=============")
-    # print(f'cos_sim:\n {cos_sim}')
-    # print("=============")
+    clip_cos_list = clip_cos_sim[-1].tolist()
+    clip_cos_list.pop(-1)
+    avg = sum(clip_cos_list)/ len(clip_cos_list) * 100 # 単位は%
+    print(f'image:{save_image}, prob:{avg:0.2f}%')
+    if(avg >= max_prob):
+      max_prob_image = save_image
+      max_prob = avg
 
   except Exception as e:
-    print(e)
+    # print(e)  # エラー内容の確認
     continue
 
 
-
+print(f'\n入力文に合う画像は{max_prob_image}で、その確率は{max_prob:0.2f}%です')
