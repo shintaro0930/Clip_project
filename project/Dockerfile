@@ -1,10 +1,14 @@
 ARG nvidia_cuda_version=11.4.0-cudnn8-devel-ubuntu20.04
+# ARG nvidia_cuda_version=11.*-cudnn8-devel-ubuntu20.04
+
 
 FROM nvidia/cuda:${nvidia_cuda_version}
- 
+
 RUN apt-get update && \
     apt-get install -y python3 python3-pip && \
-    apt-get install -y libheif-examples
+    apt-get install -y libheif-examples && \
+    apt-get install -y git && \
+    apt-get install -y tree
     #apt-get install -y imagemagick
 
 # PyTorchとCLIPのインストール

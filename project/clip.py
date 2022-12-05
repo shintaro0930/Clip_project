@@ -15,14 +15,40 @@ import pyheif
 import glob
 import numpy as np
 
+# choose the device 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 model, preprocess = clip.load("ViT-B/32", device=device)
 
+# initialize base directory
+text_base_dir = '/work/texts/'
+# image_base_dir = '/work/pictures/'
+image_base_dir = '/work/light_pictures/'
+
+# change .heic or .HEIC to .jpg and remove these files
+def change_extension(files):
+  for file in files:
+    image_base_dir = '/work/pictures/'
+    full_path_file = image_base_dir + file
+    root_extenstion_tuple = os.path.splitext(file)
+    if(root_extenstion_tuple[1] == '.heic' or root_extenstion_tuple[1] == '.HEIC'): 
+      before_image = str(full_path_file)
+      after_image = image_base_dir + root_extenstion_tuple[0] + '.jpg'
+      heic_png(before_image, after_image)
+      try: 
+        os.remove(file)
+      except Exception as e:
+        continue
+      images.append(file)
+  
+  return images
+
+# remove '\r' or '\r\n' and punctuations
 def remove_punctuation(input):
   output = re.sub(r'[^\w\s]','',input)
+  output = output.rstrip()
   return output
 
-# textを分かち書きの形にする
+# change text to the style of wakachi
 def wakachi(text)->list:
   t = Tokenizer()
   tokens = t.tokenize(text)
@@ -44,7 +70,7 @@ def vecs_array(documents):
   vecs = vectorizer.fit_transform(doc)
   return vecs.toarray()
 
-# heicファイルをpngに変換
+#  change extension marks
 def heic_png(image_path, save_path):
     heif_file = pyheif.read(image_path)
     data = Image.frombytes(
@@ -58,31 +84,22 @@ def heic_png(image_path, save_path):
     # JPEGで保存
     images.append(data.save(str(save_path), "JPEG"))
 
-text_base_dir = '/work/texts/'
-image_base_dir = '/work/pictures/'
-# image_base_dir = '/work/light_pictures/'
-
-
+# initialize text lists and designate the full path
 texts_jp:list = []
 texts_dir = os.listdir(text_base_dir)
-
 text_file = text_base_dir + 'text.txt'
 # text_file = text_base_dir + 'rand_text.txt'
 
 with open(text_file) as texts:
   for text in texts:
-    text = re.sub(r'[^\w\s]', '', text)
-    texts_jp.append(text.rstrip())    #.rstrip()は改行コードを消す
+    texts_jp.append(remove_punctuation(text))
 
 input_text = input("input: ")
-input_text = re.sub(r'[^\w\s]', '', input_text)
-
+input_text = remove_punctuation(input_text)
 texts_jp.append(input_text)
 
 # 入力文のベクトル化
 input_vector = vecs_array(texts_jp)[-1]
-
-
 
 cos_sim_array = np.round(cosine_similarity(vecs_array(texts_jp), vecs_array(texts_jp)), len(texts_jp))
 input_cos_list:list = cos_sim_array[-1]
@@ -135,8 +152,16 @@ for i, image in enumerate(images):
         #logits_per_text: テキストに対する画像の一致度
 
         probs = logits_per_image.softmax(dim=-1).cpu().numpy()
+        print(f'probs: {type(probs)}')
+        print(probs)
+        print("=================")
         sorted_probs = np.sort(probs)
         index = np.argsort(probs)
+        print(f'logits_per_text: {type(logits_per_text)}')
+        print(logits_per_text.T)
+        print("==================")
+        print(f'logits_per_immage: {type(logits_per_image)}')
+        print(logits_per_image)
     
     # print("===PROBABILITIES===") 
     # ソートした上位3つのテキスト文章をlistに追加 
