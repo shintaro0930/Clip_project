@@ -1,5 +1,4 @@
 ARG nvidia_cuda_version=11.4.0-cudnn8-devel-ubuntu20.04
-# ARG nvidia_cuda_version=11.*-cudnn8-devel-ubuntu20.04
 
 
 FROM nvidia/cuda:${nvidia_cuda_version}
@@ -22,4 +21,3 @@ RUN pip3 install ftfy regex tqdm && \
     pip3 install pyheif && \
     pip3 install scikit-learn && \
     pip3 install janome
-    

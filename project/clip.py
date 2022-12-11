@@ -13,7 +13,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from pathlib import Path
 import pyheif
 import glob
-import numpy as np
+import numpy as np 
 
 # choose the device 
 device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -21,8 +21,8 @@ model, preprocess = clip.load("ViT-B/32", device=device)
 
 # initialize base directory
 text_base_dir = '/work/texts/'
-# image_base_dir = '/work/pictures/'
-image_base_dir = '/work/light_pictures/'
+image_base_dir = '/work/pictures/'
+# image_base_dir = '/work/light_pictures/'
 
 # change .heic or .HEIC to .jpg and remove these files
 def change_extension(files):
@@ -143,25 +143,16 @@ for i, image in enumerate(images):
     original_image = Image.open(image_base_dir + f"{image}")
     image = preprocess(original_image).unsqueeze(0).to(device)
     text = clip.tokenize(texts_en).to(device)
+    clip_text.clear()
 
     with torch.no_grad():
         image_features = model.encode_image(image)
-        text_features = model.encode_text(text)   # model.pyの345行目
-        logits_per_image, logits_per_text = model(image, text)
-        #logits_per_image: 画像に対するテキストの一致度
-        #logits_per_text: テキストに対する画像の一致度
+        text_features = model.encode_text(text)        # model.pyの345行目
+        logits_per_image, logits_per_text = model(image, text)      # imageとtextは転置の関係
 
         probs = logits_per_image.softmax(dim=-1).cpu().numpy()
-        print(f'probs: {type(probs)}')
-        print(probs)
-        print("=================")
         sorted_probs = np.sort(probs)
         index = np.argsort(probs)
-        print(f'logits_per_text: {type(logits_per_text)}')
-        print(logits_per_text.T)
-        print("==================")
-        print(f'logits_per_immage: {type(logits_per_image)}')
-        print(logits_per_image)
     
     # print("===PROBABILITIES===") 
     # ソートした上位3つのテキスト文章をlistに追加 
@@ -170,12 +161,11 @@ for i, image in enumerate(images):
         # print(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%')
 
     clip_text.append(input_text)
-    # clip_cos_sim : numpy.ndarray
     clip_cos_sim = np.round(cosine_similarity(vecs_array(clip_text), vecs_array(clip_text)), len(clip_text))
-    # .tolist()で numpy.ndarray --> list
-    clip_cos_list = clip_cos_sim[-1].tolist()
+    print(clip_cos_sim)
+    clip_cos_list = clip_cos_sim[-1].tolist()           # .tolist()で numpy.ndarray --> list
     clip_cos_list.pop(-1)
-    avg = sum(clip_cos_list)/ len(clip_cos_list) * 100 # 単位は%
+    avg = sum(clip_cos_list)/ len(clip_cos_list) * 100      # %表示
     print(f'image:{save_image}, prob:{avg:0.2f}%')
     if(avg >= max_prob):
       max_prob_image = save_image
