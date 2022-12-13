@@ -10,13 +10,11 @@ from janome.tokenizer import Tokenizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-import old_clip
-
 from pathlib import Path
 import pyheif
 import glob
 import numpy as np 
-import change_extension
+
 
 # choose the device 
 device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -101,19 +99,10 @@ input_text = input("input: ")
 input_text = remove_punctuation(input_text)
 texts_jp.append(input_text)
 
-# 入力文のベクトル化
-input_vector = vecs_array(texts_jp)[-1]
-
-cos_sim_array = np.round(cosine_similarity(vecs_array(texts_jp), vecs_array(texts_jp)), len(texts_jp))
-input_cos_list:list = cos_sim_array[-1]
-cos_sim_dict:dict = dict(zip(input_cos_list, texts_jp))
-cos_sim_dict.pop(1)
-cos_sim_dict = sorted(cos_sim_dict.items(), reverse=True)
-cos_sim_dict = dict((x, y) for x, y in cos_sim_dict)
-
 texts_jp.pop(-1)
 images = []
 files = os.listdir(image_base_dir)
+
 
 # .heic, .HEICを消し去りたい
 for file in files:
@@ -159,7 +148,7 @@ for i, image in enumerate(images):
     
     # print("===PROBABILITIES===") 
     # ソートした上位3つのテキスト文章をlistに追加 
-    for i in reversed(range(sorted_probs.shape[-1] - 3, sorted_probs.shape[-1])):
+    for i in reversed(range(sorted_probs.shape[-1] - 5, sorted_probs.shape[-1])):
         clip_text.append(texts_jp[index[0, i]])
         # print(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%')
 
