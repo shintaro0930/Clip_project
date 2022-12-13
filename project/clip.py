@@ -10,10 +10,13 @@ from janome.tokenizer import Tokenizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
+import old_clip
+
 from pathlib import Path
 import pyheif
 import glob
 import numpy as np 
+import change_extension
 
 # choose the device 
 device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -162,10 +165,10 @@ for i, image in enumerate(images):
 
     clip_text.append(input_text)
     clip_cos_sim = np.round(cosine_similarity(vecs_array(clip_text), vecs_array(clip_text)), len(clip_text))
-    print(clip_cos_sim)
     clip_cos_list = clip_cos_sim[-1].tolist()           # .tolist()で numpy.ndarray --> list
     clip_cos_list.pop(-1)
     avg = sum(clip_cos_list)/ len(clip_cos_list) * 100      # %表示
+    print("================")
     print(f'image:{save_image}, prob:{avg:0.2f}%')
     if(avg >= max_prob):
       max_prob_image = save_image
@@ -176,4 +179,4 @@ for i, image in enumerate(images):
     continue
 
 
-print(f'\n入力文に合う画像は{max_prob_image}で、その確率は{max_prob:0.2f}%です')
+print(f'\n\n入力文に合う画像は{max_prob_image}で、その確率は{max_prob:0.2f}%です')
