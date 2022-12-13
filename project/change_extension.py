@@ -18,11 +18,12 @@ def heic_png(image_path, save_path):
 
 
 images = []
-image_base_dir = '/work/pictures/'
-files = os.listdir('/work/pictures/')
+# image_base_dir = '/work/pictures/'
+# files = os.listdir('/work/pictures/')
 
-# image_base_dir = '/work/light_pictures/'
-# files = os.listdir('/work/light_pictures/')
+image_base_dir = '/work/sub_pictures/'
+files = os.listdir('/work/sub_pictures/')
+
 
 for file in files:
    full_path_file = image_base_dir + file
@@ -30,10 +31,13 @@ for file in files:
    if(root_extenstion_tuple[1] == '.heic' or root_extenstion_tuple[1] == '.HEIC'): 
       before_image = str(full_path_file)
       after_image = image_base_dir + root_extenstion_tuple[0] + '.jpg'
-      #  heic_png(before_image, after_image
+      print(f'{before_image}')
+      if(os.path.isfile(after_image) == True):
+         pass
+      else:
+         heic_png(before_image, after_image)
       try:
          os.remove(before_image)
-         # os.remove(file)
       except Exception as e:
          continue
       images.append(file)   

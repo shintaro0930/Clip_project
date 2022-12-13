@@ -11,7 +11,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 from pathlib import Path
-import pyheif
 import glob
 import numpy as np 
 
@@ -25,22 +24,6 @@ text_base_dir = '/work/texts/'
 image_base_dir = '/work/pictures/'
 # image_base_dir = '/work/light_pictures/'
 
-# change .heic or .HEIC to .jpg and remove these files
-def change_extension(files):
-  for file in files:
-    full_path_file = image_base_dir + file
-    root_extenstion_tuple = os.path.splitext(file)
-    if(root_extenstion_tuple[1] == '.heic' or root_extenstion_tuple[1] == '.HEIC'): 
-      before_image = str(full_path_file)
-      after_image = image_base_dir + root_extenstion_tuple[0] + '.jpg'
-      heic_png(before_image, after_image)
-      try: 
-        os.remove(file)
-      except Exception as e:
-        continue
-      images.append(file)
-  
-  return images
 
 # remove '\r' or '\r\n' and punctuations
 def remove_punctuation(input):
@@ -70,20 +53,6 @@ def vecs_array(documents):
   vecs = vectorizer.fit_transform(doc)
   return vecs.toarray()
 
-#  change extension marks
-def heic_png(image_path, save_path):
-    heif_file = pyheif.read(image_path)
-    data = Image.frombytes(
-        heif_file.mode,
-        heif_file.size,
-        heif_file.data,
-        "raw",
-        heif_file.mode,
-        heif_file.stride,
-        )
-    # JPEGで保存
-    images.append(data.save(str(save_path), "JPEG"))
-
 # initialize text lists and designate the full path
 texts_jp:list = []
 texts_dir = os.listdir(text_base_dir)
@@ -97,29 +66,15 @@ with open(text_file) as texts:
 input_text = input("input: ")
 input_text = remove_punctuation(input_text)
 texts_jp.append(input_text)
-
 texts_jp.pop(-1)
+
 images = []
 files = os.listdir(image_base_dir)
-
-
-# .heic, .HEICを消し去りたい
 for file in files:
-  full_path_file = image_base_dir + file
-  root_extenstion_tuple = os.path.splitext(file) # root_extension_tuple: tuple型
-  if(root_extenstion_tuple[1] == '.heic' or root_extenstion_tuple[1] == '.HEIC'):
-    before_image = str(full_path_file)
-    after_image = image_base_dir + root_extenstion_tuple[0] + '.jpg'
-    heic_png(before_image, after_image)
-    try:
-      os.remove(file)     #.heic or .HEICを削除
-    except Exception as e:
-      continue
-  elif(root_extenstion_tuple[1] == '.sh'):
+  try:
+    images.append(file)
+  except Exception as e:
     continue
-  images.append(file)
-
-# images = change_extension(files)
 
 translator = Translator()
 texts_en = [translator.translate(text_jp, dest="en", src="ja").text for text_jp in texts_jp]
