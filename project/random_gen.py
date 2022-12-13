@@ -20,4 +20,5 @@ with open('./texts/rand_text.txt', 'a') as f:
         noun_index = random.randrange(len(nouns))
         theme = adjectives[adj_index2] + ' '+adjectives[adj_index]+' '+nouns[noun_index]
         theme = theme.replace("\n", '')
+        print(theme)
         f.writelines(translator.translate(theme, dest="ja", src="en").text + '\n')

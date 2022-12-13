@@ -28,7 +28,6 @@ image_base_dir = '/work/pictures/'
 # change .heic or .HEIC to .jpg and remove these files
 def change_extension(files):
   for file in files:
-    image_base_dir = '/work/pictures/'
     full_path_file = image_base_dir + file
     root_extenstion_tuple = os.path.splitext(file)
     if(root_extenstion_tuple[1] == '.heic' or root_extenstion_tuple[1] == '.HEIC'): 
@@ -120,6 +119,8 @@ for file in files:
     continue
   images.append(file)
 
+# images = change_extension(files)
+
 translator = Translator()
 texts_en = [translator.translate(text_jp, dest="en", src="ja").text for text_jp in texts_jp]
 
@@ -128,6 +129,7 @@ texts_en = [translator.translate(text_jp, dest="en", src="ja").text for text_jp 
 clip_text:list = []
 clip_cos_list = []
 max_prob = 0
+max_prob_image = images[0]
 
 for i, image in enumerate(images):
   try:
@@ -148,7 +150,7 @@ for i, image in enumerate(images):
     
     # print("===PROBABILITIES===") 
     # ソートした上位3つのテキスト文章をlistに追加 
-    for i in reversed(range(sorted_probs.shape[-1] - 5, sorted_probs.shape[-1])):
+    for i in reversed(range(sorted_probs.shape[-1] - 3, sorted_probs.shape[-1])):
         clip_text.append(texts_jp[index[0, i]])
         # print(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%')
 
