@@ -46,13 +46,6 @@ def vecs_array(documents):
   vecs = vectorizer.fit_transform(docs)
   return vecs.toarray()
 
-
-  doc = np.array(document)
-  doc = [doc]
-  vectorizer = TfidfVectorizer(analyzer=wakachi,binary=True,use_idf=False)
-  vecs = vectorizer.fit_transform(doc)
-  return vecs.toarray()
-
 # initialize text lists and designate the full path
 texts_jp:list = []
 texts_dir = os.listdir(text_base_dir)
@@ -85,6 +78,7 @@ clip_text:list = []
 clip_cos_list = []
 max_prob = 0
 max_prob_image = images[0]
+save_images:dict = []
 
 for i, image in enumerate(images):
   try:
@@ -121,7 +115,6 @@ for i, image in enumerate(images):
       max_prob = avg
 
   except Exception as e:
-    # print(e)  # エラー内容の確認
     continue
 
 

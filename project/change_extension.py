@@ -24,7 +24,6 @@ images = []
 image_base_dir = '/work/sub_pictures/'
 files = os.listdir('/work/sub_pictures/')
 
-
 for file in files:
    full_path_file = image_base_dir + file
    root_extenstion_tuple = os.path.splitext(file)
