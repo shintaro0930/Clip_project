@@ -78,7 +78,7 @@ clip_text:list = []
 clip_cos_list = []
 max_prob = 0
 max_prob_image = images[0]
-save_images:dict = []
+save_images:list = []
 
 for i, image in enumerate(images):
   try:
@@ -99,9 +99,13 @@ for i, image in enumerate(images):
     
     # print("===PROBABILITIES===") 
     # ソートした上位3つのテキスト文章をlistに追加 
-    for i in reversed(range(sorted_probs.shape[-1] - 3, sorted_probs.shape[-1])):
-        clip_text.append(texts_jp[index[0, i]])
-        # print(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%')
+    with open('output.txt', 'a', encoding='utf-8', newline='\n') as f:
+      f.write('=============\n')
+      f.write(f'{save_image}\n')
+      for i in reversed(range(sorted_probs.shape[-1] - 3, sorted_probs.shape[-1])):
+          clip_text.append(texts_jp[index[0, i]])
+          f.write(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%\n')
+          # print(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%')
 
     clip_text.append(input_text)
     clip_cos_sim = np.round(cosine_similarity(vecs_array(clip_text), vecs_array(clip_text)), len(clip_text))
@@ -111,11 +115,18 @@ for i, image in enumerate(images):
     print("================")
     print(f'image:{save_image}, prob:{avg:0.2f}%')
     if(avg >= max_prob):
+      save_images.append(save_image)
       max_prob_image = save_image
       max_prob = avg
 
   except Exception as e:
+
     continue
+if(max_prob == 0):
+  print('入力文に合う画像はありません')
+else:
+  print(f'入力文に合う確率は{max_prob:0.2f}%です。その画像は\n')
+  for image in save_images:
+    print(image)
 
-
-print(f'\n\n入力文に合う画像は{max_prob_image}で、その確率は{max_prob:0.2f}%です')
+# print(f'\n\n入力文に合う画像は{max_prob_image}で、その確率は{max_prob:0.2f}%です')
