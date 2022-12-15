@@ -19,7 +19,7 @@ for line in lines:
     line_list.append(line)
     prob = prob.split(' ')[-1]
     prob_list.append(prob)
-    print(f'line: {line}')
+    print(f'str: {line}')
     print(f'prob: {prob}')
     if(count / 3 == 0):
         line_list_list.append(line_list)
