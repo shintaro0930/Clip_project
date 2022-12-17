@@ -1,5 +1,6 @@
 import os
 import re
+import shutil
 import sys
 sys.path.append('CLIP')
 import torch
@@ -31,35 +32,15 @@ def remove_punctuation(input):
   output = output.rstrip()
   return output
 
-# change text to the style of wakachi
-def wakachi(text)->list:
-  t = Tokenizer()
-  tokens = t.tokenize(text)
-  docs = []
-  for token in tokens:
-    docs.append(token.surface)
-  return docs
-
-def vecs_array(documents):
-  docs = np.array(documents)
-  vectorizer = TfidfVectorizer(analyzer=wakachi,binary=True,use_idf=False)
-  vecs = vectorizer.fit_transform(docs)
-  return vecs.toarray()
 
 # initialize text lists and designate the full path
 texts_jp:list = []
 texts_dir = os.listdir(text_base_dir)
 text_file = text_base_dir + 'text.txt'
-# text_file = text_base_dir + 'rand_text.txt'
 
 with open(text_file) as texts:
   for text in texts:
-    texts_jp.append(remove_punctuation(text))
-
-input_text = input("input: ")
-input_text = remove_punctuation(input_text)
-texts_jp.append(input_text)
-texts_jp.pop(-1)
+    texts_jp.append(remove_punctuation(text)) 
 
 images = []
 files = os.listdir(image_base_dir)
@@ -97,36 +78,19 @@ for i, image in enumerate(images):
         sorted_probs = np.sort(probs)
         index = np.argsort(probs)
     
-    # print("===PROBABILITIES===") 
     # ソートした上位3つのテキスト文章をlistに追加 
     with open('output.txt', 'a', encoding='utf-8', newline='\n') as f:
       f.write('=============\n')
       f.write(f'{save_image}\n')
+      print("=============")
+      print(save_image)
       for i in reversed(range(sorted_probs.shape[-1] - 3, sorted_probs.shape[-1])):
           clip_text.append(texts_jp[index[0, i]])
           f.write(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%\n')
-          # print(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%')
 
-    clip_text.append(input_text)
-    clip_cos_sim = np.round(cosine_similarity(vecs_array(clip_text), vecs_array(clip_text)), len(clip_text))
-    clip_cos_list = clip_cos_sim[-1].tolist()           # .tolist()で numpy.ndarray --> list
-    clip_cos_list.pop(-1)
-    avg = sum(clip_cos_list)/ len(clip_cos_list) * 100      # %表示
-    print("================")
-    print(f'image:{save_image}, prob:{avg:0.2f}%')
-    if(avg >= max_prob):
-      save_images.append(save_image)
-      max_prob_image = save_image
-      max_prob = avg
+          ## 写真にマッチするテキストとその確率
+          print(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%')
+      shutil.move(image_base_dir + save_image, '/work/used_pictures/')
 
   except Exception as e:
-
     continue
-if(max_prob == 0):
-  print('入力文に合う画像はありません')
-else:
-  print(f'入力文に合う確率は{max_prob:0.2f}%です。その画像は\n')
-  for image in save_images:
-    print(image)
-
-# print(f'\n\n入力文に合う画像は{max_prob_image}で、その確率は{max_prob:0.2f}%です')

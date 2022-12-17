@@ -4,6 +4,12 @@ from sklearn.metrics.pairwise import cosine_similarity
 from janome.tokenizer import Tokenizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 
+# remove '\r' or '\r\n' and punctuations
+def remove_punctuation(input):
+    output = re.sub(r'[^\w\s]','',input)
+    output = output.rstrip()
+    return output
+
 # change text to the style of wakachi
 def wakachi(text)->list:
     t = Tokenizer()
@@ -20,8 +26,8 @@ def vecs_array(documents):
     return vecs.toarray()
 
 # ========================================
-# input_text = input("input:")
-input_text = "赤い神社"
+input_text = input("input:")
+input_text = remove_punctuation(input_text)
 
 with open('output.txt') as f:
     lines:list = f.readlines()

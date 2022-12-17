@@ -1,1000 +1,1000 @@
 =============
-IMG_8727.jpg
-大きな公園(big park): 60.9%
-晴天の日(sunny day): 7.0%
-雲ひとつない快晴(cloudless clear sky): 6.0%
+GPTempDownload 3.JPG
+砂場(sandbox): 49.0%
+朝方の海(morning sea): 16.7%
+曇りの日(cloudy day): 6.5%
 =============
-IMG_9603.png
-綺麗な神社(beautiful shrine): 34.6%
-大きな公園(big park): 27.4%
-汚い神社(dirty shrine): 9.3%
-=============
-IMG_8505.jpg
-綺麗な神社(beautiful shrine): 42.2%
-雲ひとつない快晴(cloudless clear sky): 41.6%
-汚い神社(dirty shrine): 4.2%
-=============
-IMG_8526.jpg
-汚い神社(dirty shrine): 20.6%
-砂場(sandbox): 15.5%
-大きな公園(big park): 12.3%
-=============
-IMG_8573.jpg
-綺麗な神社(beautiful shrine): 65.8%
-汚い神社(dirty shrine): 15.6%
-赤い建物(red building): 11.8%
-=============
-IMG_9576.jpg
-電車(Electric train): 50.7%
-田園風景(rural scenery): 15.0%
-電車が映っている(train is visible): 11.3%
-=============
-IMG_9657.jpg
-夕焼けの海(sunset sea): 38.5%
-雲ひとつない快晴(cloudless clear sky): 24.1%
-風情のある街(town with atmosphere): 11.8%
-=============
-sample.jpg
-綺麗な夜景(beautiful night view): 90.5%
-風情のある街(town with atmosphere): 7.3%
-大雨の景色(Scenery of heavy rain): 0.4%
+GPTempDownload 4.JPG
+雲ひとつない快晴(cloudless clear sky): 24.2%
+晴れの湖(sunny lake): 17.7%
+海に浮かんでいる(floating in the sea): 17.7%
 =============
 IMG_0020.jpg
-綺麗な夜景(beautiful night view): 94.0%
-風情のある街(town with atmosphere): 2.1%
-飛行機(airplane): 1.3%
+綺麗な夜景(beautiful night view): 88.4%
+昭和漂う町(Showa drifting town): 6.3%
+風情のある街(town with atmosphere): 2.0%
 =============
 IMG_0024.JPG
-綺麗な夜景(beautiful night view): 92.0%
-風情のある街(town with atmosphere): 5.4%
-大きな公園(big park): 0.8%
+綺麗な夜景(beautiful night view): 70.3%
+昭和漂う町(Showa drifting town): 23.5%
+風情のある街(town with atmosphere): 4.1%
 =============
 IMG_0171.jpg
-大きな建物(big building): 51.6%
-都会の建物(urban building): 19.6%
-綺麗な夜景(beautiful night view): 11.0%
+大きな建物(big building): 49.6%
+都会の建物(urban building): 18.8%
+綺麗な夜景(beautiful night view): 10.6%
 =============
 IMG_0172.jpg
-綺麗な夜景(beautiful night view): 40.0%
-大きな公園(big park): 17.2%
-凍った池(frozen pond): 11.1%
+綺麗な夜景(beautiful night view): 39.1%
+大きな公園(big park): 17.1%
+凍った池(frozen pond): 10.8%
 =============
 IMG_0305.jpg
-風情のある街(town with atmosphere): 37.7%
-大雨の景色(Scenery of heavy rain): 25.1%
-曇りの日(cloudy day): 17.6%
+昭和漂う町(Showa drifting town): 83.7%
+風情のある街(town with atmosphere): 6.1%
+大雨の景色(Scenery of heavy rain): 4.0%
 =============
 IMG_0306.jpg
-大雨の景色(Scenery of heavy rain): 69.1%
-風情のある街(town with atmosphere): 15.2%
-曇りの日(cloudy day): 10.0%
+昭和漂う町(Showa drifting town): 70.5%
+大雨の景色(Scenery of heavy rain): 20.2%
+風情のある街(town with atmosphere): 4.5%
 =============
 IMG_0309.jpg
-大雨の景色(Scenery of heavy rain): 90.9%
-曇りの日(cloudy day): 5.1%
-風情のある街(town with atmosphere): 2.7%
+大雨の景色(Scenery of heavy rain): 84.4%
+昭和漂う町(Showa drifting town): 6.9%
+曇りの日(cloudy day): 4.8%
 =============
 IMG_0837.jpg
-雲ひとつない快晴(cloudless clear sky): 68.3%
+雲ひとつない快晴(cloudless clear sky): 66.8%
 大きな建物(big building): 13.4%
 大きな公園(big park): 9.8%
 =============
 IMG_0840.jpg
-雲ひとつない快晴(cloudless clear sky): 50.8%
-大きな建物(big building): 20.9%
-大きな公園(big park): 11.3%
+雲ひとつない快晴(cloudless clear sky): 49.5%
+大きな建物(big building): 20.6%
+大きな公園(big park): 11.2%
 =============
 IMG_0845.jpg
-雲ひとつない快晴(cloudless clear sky): 22.3%
-高層ビル(skyscraper): 18.8%
-大きな公園(big park): 18.0%
+雲ひとつない快晴(cloudless clear sky): 21.6%
+高層ビル(skyscraper): 18.5%
+大きな公園(big park): 17.9%
 =============
 IMG_0848.jpg
-大きな公園(big park): 71.3%
-雲ひとつない快晴(cloudless clear sky): 7.2%
+大きな公園(big park): 69.9%
+雲ひとつない快晴(cloudless clear sky): 6.9%
 田園風景(rural scenery): 2.9%
 =============
-IMG_8715.JPG
-風情のある街(town with atmosphere): 37.8%
-綺麗な神社(beautiful shrine): 37.8%
-汚い神社(dirty shrine): 10.3%
-=============
 IMG_0849.jpg
-大きな公園(big park): 53.1%
-雲ひとつない快晴(cloudless clear sky): 16.7%
-綺麗な夜景(beautiful night view): 4.2%
-=============
-IMG_8229.jpg
-綺麗な神社(beautiful shrine): 61.9%
-木とガラスが写った美術館(Museum of wood and glass): 19.2%
-汚い神社(dirty shrine): 7.6%
-=============
-IMG_8242.jpg
-風情のある街(town with atmosphere): 51.9%
-大きな公園(big park): 9.1%
-綺麗な神社(beautiful shrine): 7.0%
-=============
-IMG_8390.jpg
-田舎道(country road): 68.5%
-田園風景(rural scenery): 26.4%
-雲ひとつない快晴(cloudless clear sky): 2.6%
-=============
-IMG_8409.jpg
-綺麗な神社(beautiful shrine): 50.9%
-雲ひとつない快晴(cloudless clear sky): 31.3%
-大きな公園(big park): 6.9%
-=============
-IMG_8448.jpg
-大きな公園(big park): 18.4%
-雲ひとつない快晴(cloudless clear sky): 17.6%
-田園風景(rural scenery): 13.5%
-=============
-IMG_8619.jpg
-風情のある街(town with atmosphere): 82.3%
-田園風景(rural scenery): 10.6%
-田舎道(country road): 3.0%
-=============
-IMG_8621.jpg
-綺麗な神社(beautiful shrine): 84.8%
-汚い神社(dirty shrine): 7.1%
-大きな公園(big park): 6.2%
+大きな公園(big park): 52.1%
+雲ひとつない快晴(cloudless clear sky): 16.1%
+綺麗な夜景(beautiful night view): 4.1%
 =============
 IMG_0872.jpg
-朝方の海(morning sea): 27.0%
-曇りの日(cloudy day): 22.7%
-雲ひとつない快晴(cloudless clear sky): 21.7%
+朝方の海(morning sea): 25.9%
+曇りの日(cloudy day): 21.8%
+雲ひとつない快晴(cloudless clear sky): 20.5%
 =============
 IMG_0887.jpg
-曇りの日(cloudy day): 35.3%
-風情のある街(town with atmosphere): 21.4%
-都会の建物(urban building): 12.8%
+曇りの日(cloudy day): 33.0%
+風情のある街(town with atmosphere): 20.0%
+都会の建物(urban building): 12.0%
 =============
 IMG_1035.jpg
-夕焼けの海(sunset sea): 24.8%
-綺麗な夜景(beautiful night view): 22.6%
-晴天の日(sunny day): 7.0%
+夕焼けの海(sunset sea): 23.8%
+綺麗な夜景(beautiful night view): 21.6%
+昭和漂う町(Showa drifting town): 6.9%
 =============
 IMG_1204.JPG
-高層ビル(skyscraper): 73.5%
-都会の建物(urban building): 9.6%
-大きな建物(big building): 7.0%
+高層ビル(skyscraper): 42.7%
+昭和漂う町(Showa drifting town): 40.7%
+都会の建物(urban building): 5.5%
 =============
 IMG_1205.JPG
-高層ビル(skyscraper): 36.7%
-曇りの日(cloudy day): 34.5%
-大雨の景色(Scenery of heavy rain): 7.0%
+昭和漂う町(Showa drifting town): 34.5%
+高層ビル(skyscraper): 23.7%
+曇りの日(cloudy day): 22.3%
 =============
 IMG_1854.jpg
-雲ひとつない快晴(cloudless clear sky): 34.3%
-大きな建物(big building): 26.7%
-大きな公園(big park): 7.5%
+雲ひとつない快晴(cloudless clear sky): 33.3%
+大きな建物(big building): 26.3%
+大きな公園(big park): 7.4%
 =============
 IMG_1857.jpg
-雲ひとつない快晴(cloudless clear sky): 24.0%
-風情のある街(town with atmosphere): 15.2%
-都会の建物(urban building): 13.0%
+昭和漂う町(Showa drifting town): 24.0%
+雲ひとつない快晴(cloudless clear sky): 16.2%
+風情のある街(town with atmosphere): 10.6%
 =============
 IMG_2091.jpg
-高層ビル(skyscraper): 39.2%
-都会の建物(urban building): 34.6%
+高層ビル(skyscraper): 39.1%
+都会の建物(urban building): 34.5%
 大きな建物(big building): 20.3%
 =============
 IMG_2092.jpg
-高層ビル(skyscraper): 39.6%
-都会の建物(urban building): 29.0%
-大きな建物(big building): 26.4%
+高層ビル(skyscraper): 39.8%
+都会の建物(urban building): 28.7%
+大きな建物(big building): 26.5%
 =============
 IMG_2098.jpg
-風情のある街(town with atmosphere): 96.3%
-都会の建物(urban building): 1.8%
-大きな公園(big park): 0.4%
+風情のある街(town with atmosphere): 90.6%
+住宅街(Residential area): 5.0%
+都会の建物(urban building): 1.6%
 =============
 IMG_2099.jpg
-大きな公園(big park): 33.9%
-晴天の日(sunny day): 31.4%
-風情のある街(town with atmosphere): 12.5%
+大きな公園(big park): 33.1%
+晴天の日(sunny day): 31.1%
+風情のある街(town with atmosphere): 12.2%
 =============
 IMG_2100.jpg
-大きな公園(big park): 59.8%
-風情のある街(town with atmosphere): 14.4%
+大きな公園(big park): 58.5%
+風情のある街(town with atmosphere): 14.1%
 晴天の日(sunny day): 13.3%
 =============
 IMG_3733.jpg
-木とガラスが写った美術館(Museum of wood and glass): 31.3%
-綺麗な夜景(beautiful night view): 23.3%
-都会の建物(urban building): 18.4%
+木とガラスが写った美術館(Museum of wood and glass): 29.9%
+綺麗な夜景(beautiful night view): 22.2%
+都会の建物(urban building): 17.6%
 =============
 IMG_3807.jpg
-綺麗な夜景(beautiful night view): 34.9%
-木とガラスが写った美術館(Museum of wood and glass): 17.8%
-都会の建物(urban building): 17.8%
+綺麗な夜景(beautiful night view): 31.5%
+木とガラスが写った美術館(Museum of wood and glass): 16.1%
+都会の建物(urban building): 15.8%
 =============
 IMG_3837.JPG
-綺麗な夜景(beautiful night view): 95.5%
-雲ひとつない快晴(cloudless clear sky): 2.6%
+綺麗な夜景(beautiful night view): 95.7%
+雲ひとつない快晴(cloudless clear sky): 2.5%
 大きな公園(big park): 0.4%
 =============
 IMG_4098.jpg
-都会の建物(urban building): 44.1%
-大きな建物(big building): 21.5%
-高層ビル(skyscraper): 8.2%
+都会の建物(urban building): 35.0%
+大きな建物(big building): 17.1%
+昭和漂う町(Showa drifting town): 14.6%
 =============
 IMG_4099.jpg
-都会の建物(urban building): 46.2%
-大きな建物(big building): 16.0%
-高層ビル(skyscraper): 8.8%
-=============
-IMG_5521.JPG
-田園風景(rural scenery): 33.3%
-大きな公園(big park): 17.3%
-晴天の日(sunny day): 11.7%
+都会の建物(urban building): 35.5%
+昭和漂う町(Showa drifting town): 18.1%
+大きな建物(big building): 12.5%
 =============
 IMG_4452.jpg
-雲ひとつない快晴(cloudless clear sky): 28.1%
-大きな公園(big park): 17.9%
-朝方の海(morning sea): 13.9%
+雲ひとつない快晴(cloudless clear sky): 26.7%
+大きな公園(big park): 17.5%
+朝方の海(morning sea): 13.6%
 =============
 IMG_4460.JPG
-雲ひとつない快晴(cloudless clear sky): 44.5%
-都会の建物(urban building): 13.4%
-大きな建物(big building): 11.6%
+雲ひとつない快晴(cloudless clear sky): 34.6%
+昭和漂う町(Showa drifting town): 20.1%
+都会の建物(urban building): 10.6%
 =============
 IMG_4583.jpg
-船(ship): 31.7%
-飛行機(airplane): 18.6%
-電車が映っている(train is visible): 7.6%
+昭和漂う町(Showa drifting town): 35.5%
+船(ship): 22.5%
+飛行機(plane): 6.0%
 =============
 IMG_4591.JPG
-船(ship): 26.8%
-飛行機(airplane): 13.1%
-晴天の日(sunny day): 13.1%
+船(ship): 24.5%
+昭和漂う町(Showa drifting town): 17.7%
+晴天の日(sunny day): 12.1%
 =============
 IMG_5483.jpg
-木とガラスが写った美術館(Museum of wood and glass): 52.0%
-大きな公園(big park): 38.0%
-晴天の日(sunny day): 3.9%
+木とガラスが写った美術館(Museum of wood and glass): 51.6%
+大きな公園(big park): 37.7%
+晴天の日(sunny day): 4.0%
 =============
 IMG_5490.JPG
-木とガラスが写った美術館(Museum of wood and glass): 51.5%
-大きな公園(big park): 38.9%
-田舎道(country road): 5.5%
+木とガラスが写った美術館(Museum of wood and glass): 50.5%
+大きな公園(big park): 38.2%
+田舎道(country road): 5.3%
+=============
+IMG_5521.JPG
+田園風景(rural scenery): 28.5%
+大きな公園(big park): 14.8%
+昭和漂う町(Showa drifting town): 13.5%
 =============
 IMG_5588.jpg
-風情のある街(town with atmosphere): 27.6%
-大雨の景色(Scenery of heavy rain): 21.8%
-大きな建物(big building): 11.7%
+風情のある街(town with atmosphere): 22.1%
+昭和漂う町(Showa drifting town): 17.0%
+大雨の景色(Scenery of heavy rain): 17.0%
 =============
 IMG_5590.jpg
-大雨の景色(Scenery of heavy rain): 66.0%
-綺麗な夜景(beautiful night view): 20.4%
-風情のある街(town with atmosphere): 2.6%
+大雨の景色(Scenery of heavy rain): 58.1%
+綺麗な夜景(beautiful night view): 18.3%
+昭和漂う町(Showa drifting town): 10.4%
 =============
 IMG_5598.jpg
-朝方の海(morning sea): 27.0%
-雲ひとつない快晴(cloudless clear sky): 12.8%
-大きな公園(big park): 9.8%
+昭和漂う町(Showa drifting town): 32.2%
+朝方の海(morning sea): 14.5%
+住宅街(Residential area): 14.1%
 =============
 IMG_5599.jpg
-大きな公園(big park): 20.5%
-大雨の景色(Scenery of heavy rain): 19.6%
-風情のある街(town with atmosphere): 16.0%
+昭和漂う町(Showa drifting town): 50.2%
+大きな公園(big park): 9.9%
+大雨の景色(Scenery of heavy rain): 9.3%
 =============
 IMG_5600.jpg
-朝方の海(morning sea): 26.0%
-大きな公園(big park): 21.2%
-雲ひとつない快晴(cloudless clear sky): 10.8%
+昭和漂う町(Showa drifting town): 29.6%
+朝方の海(morning sea): 17.7%
+大きな公園(big park): 14.2%
 =============
 IMG_6136.JPG
-田舎道(country road): 73.1%
-田園風景(rural scenery): 24.5%
-大雨の景色(Scenery of heavy rain): 0.5%
+田舎道(country road): 67.3%
+田園風景(rural scenery): 22.5%
+昭和漂う町(Showa drifting town): 7.4%
 =============
 IMG_6447.jpg
-飛行機(airplane): 30.6%
-電車が映っている(train is visible): 13.0%
-雲ひとつない快晴(cloudless clear sky): 11.4%
+飛行機(plane): 67.8%
+電車が映っている(train is visible): 5.2%
+雲ひとつない快晴(cloudless clear sky): 4.5%
 =============
 IMG_6476.jpg
-大雨の景色(Scenery of heavy rain): 71.2%
-曇りの日(cloudy day): 14.2%
+大雨の景色(Scenery of heavy rain): 69.7%
+曇りの日(cloudy day): 14.4%
 朝方の海(morning sea): 7.7%
 =============
 IMG_6642.jpg
-夕焼けの海(sunset sea): 31.6%
-大雨の景色(Scenery of heavy rain): 19.8%
-曇りの日(cloudy day): 13.0%
+夕焼けの海(sunset sea): 28.5%
+大雨の景色(Scenery of heavy rain): 17.3%
+曇りの日(cloudy day): 11.5%
 =============
 IMG_6737.jpg
-夕焼けの海(sunset sea): 54.9%
-雲ひとつない快晴(cloudless clear sky): 10.6%
-曇りの日(cloudy day): 8.8%
+夕焼けの海(sunset sea): 52.7%
+雲ひとつない快晴(cloudless clear sky): 9.9%
+飛行機(plane): 8.7%
 =============
 IMG_6747.jpg
-夕焼けの海(sunset sea): 39.8%
-曇りの日(cloudy day): 14.4%
-綺麗な夜景(beautiful night view): 10.7%
+夕焼けの海(sunset sea): 32.0%
+昭和漂う町(Showa drifting town): 14.4%
+曇りの日(cloudy day): 11.6%
 =============
 IMG_6757.jpg
-夕焼けの海(sunset sea): 69.2%
-綺麗な夜景(beautiful night view): 8.0%
-朝方の海(morning sea): 6.5%
+夕焼けの海(sunset sea): 68.1%
+綺麗な夜景(beautiful night view): 7.6%
+朝方の海(morning sea): 6.3%
 =============
 IMG_6758.jpg
-夕焼けの海(sunset sea): 70.0%
-綺麗な夜景(beautiful night view): 6.6%
-朝方の海(morning sea): 5.3%
+夕焼けの海(sunset sea): 69.5%
+綺麗な夜景(beautiful night view): 6.5%
+朝方の海(morning sea): 5.2%
 =============
 IMG_6793.jpg
-朝方の海(morning sea): 28.1%
-雲ひとつない快晴(cloudless clear sky): 20.8%
-大きな公園(big park): 8.7%
+朝方の海(morning sea): 25.6%
+雲ひとつない快晴(cloudless clear sky): 18.7%
+昭和漂う町(Showa drifting town): 8.6%
 =============
 IMG_6861.jpg
-朝方の海(morning sea): 51.3%
-海に浮かんでいる(floating in the sea): 34.7%
-雲ひとつない快晴(cloudless clear sky): 3.9%
-=============
-GPTempDownload 3.JPG
-砂場(sandbox): 50.3%
-朝方の海(morning sea): 16.9%
-曇りの日(cloudy day): 6.6%
-=============
-GPTempDownload 4.JPG
-雲ひとつない快晴(cloudless clear sky): 26.2%
-晴れの湖(sunny lake): 19.1%
-海に浮かんでいる(floating in the sea): 18.8%
+朝方の海(morning sea): 50.4%
+海に浮かんでいる(floating in the sea): 33.6%
+雲ひとつない快晴(cloudless clear sky): 3.8%
 =============
 IMG_6915.jpg
-大きな公園(big park): 25.7%
-綺麗な神社(beautiful shrine): 21.7%
-田園風景(rural scenery): 17.4%
+大きな公園(big park): 24.3%
+綺麗な神社(beautiful shrine): 20.5%
+田園風景(rural scenery): 16.4%
 =============
 IMG_6916.jpg
-大雨の景色(Scenery of heavy rain): 34.0%
-朝方の海(morning sea): 27.3%
-曇りの日(cloudy day): 22.0%
+昭和漂う町(Showa drifting town): 44.7%
+大雨の景色(Scenery of heavy rain): 18.1%
+朝方の海(morning sea): 14.7%
 =============
 IMG_6920.jpg
-田舎道(country road): 73.0%
+田舎道(country road): 71.8%
 田園風景(rural scenery): 16.3%
 曇りの日(cloudy day): 5.7%
 =============
 IMG_6921.jpg
-田園風景(rural scenery): 49.3%
-田舎道(country road): 27.7%
-曇りの日(cloudy day): 9.1%
+田園風景(rural scenery): 48.5%
+田舎道(country road): 26.8%
+曇りの日(cloudy day): 9.0%
 =============
 IMG_6922.jpg
-田園風景(rural scenery): 30.0%
-曇りの日(cloudy day): 15.3%
-田舎道(country road): 9.6%
+田園風景(rural scenery): 27.7%
+曇りの日(cloudy day): 14.2%
+田舎道(country road): 8.9%
 =============
 IMG_6925.jpg
-朝方の海(morning sea): 43.7%
-曇りの日(cloudy day): 40.4%
-雨の日(Wet day): 3.4%
+朝方の海(morning sea): 42.7%
+曇りの日(cloudy day): 39.5%
+雨の日(Wet day): 3.2%
 =============
 IMG_6926.jpg
-田園風景(rural scenery): 58.5%
-大雨の景色(Scenery of heavy rain): 6.3%
-田舎道(country road): 5.6%
+住宅街(Residential area): 38.9%
+田園風景(rural scenery): 22.9%
+昭和漂う町(Showa drifting town): 21.8%
 =============
 IMG_6929.jpg
-朝方の海(morning sea): 46.8%
-曇りの日(cloudy day): 24.7%
-大雨の景色(Scenery of heavy rain): 10.6%
+朝方の海(morning sea): 45.6%
+曇りの日(cloudy day): 24.4%
+大雨の景色(Scenery of heavy rain): 10.0%
 =============
 IMG_6932.jpg
-電車が映っている(train is visible): 33.7%
-朝方の海(morning sea): 28.0%
-雨の日(Wet day): 9.2%
+電車が映っている(train is visible): 32.9%
+朝方の海(morning sea): 27.7%
+雨の日(Wet day): 9.0%
 =============
 IMG_6933.jpg
-田舎道(country road): 82.2%
-田園風景(rural scenery): 13.8%
-大雨の景色(Scenery of heavy rain): 1.0%
+田舎道(country road): 62.0%
+昭和漂う町(Showa drifting town): 23.5%
+田園風景(rural scenery): 10.6%
 =============
 IMG_6943.jpg
-田舎道(country road): 28.0%
-朝方の海(morning sea): 18.7%
-大きな公園(big park): 13.2%
+田舎道(country road): 24.1%
+朝方の海(morning sea): 16.3%
+大きな公園(big park): 11.6%
 =============
 IMG_6944.jpg
-朝方の海(morning sea): 44.1%
-大雨の景色(Scenery of heavy rain): 20.8%
-曇りの日(cloudy day): 14.1%
+朝方の海(morning sea): 38.8%
+大雨の景色(Scenery of heavy rain): 18.1%
+曇りの日(cloudy day): 12.4%
 =============
 IMG_6947.jpg
-朝方の海(morning sea): 64.0%
-曇りの日(cloudy day): 11.5%
-大雨の景色(Scenery of heavy rain): 9.1%
+朝方の海(morning sea): 59.2%
+曇りの日(cloudy day): 10.6%
+大雨の景色(Scenery of heavy rain): 8.3%
 =============
 IMG_6949.jpg
-田園風景(rural scenery): 78.2%
-田舎道(country road): 17.7%
-曇りの日(cloudy day): 1.2%
+田園風景(rural scenery): 77.3%
+田舎道(country road): 17.5%
+昭和漂う町(Showa drifting town): 1.2%
 =============
 IMG_6954.jpg
-雲ひとつない快晴(cloudless clear sky): 29.5%
-晴れの湖(sunny lake): 14.4%
-海に浮かんでいる(floating in the sea): 12.9%
+雲ひとつない快晴(cloudless clear sky): 26.6%
+晴れの湖(sunny lake): 13.0%
+海に浮かんでいる(floating in the sea): 11.6%
 =============
 IMG_6989.jpg
-朝方の海(morning sea): 26.4%
-田園風景(rural scenery): 14.6%
-雲ひとつない快晴(cloudless clear sky): 12.9%
+朝方の海(morning sea): 24.3%
+田園風景(rural scenery): 13.6%
+雲ひとつない快晴(cloudless clear sky): 11.8%
 =============
 IMG_6992.jpg
-田園風景(rural scenery): 43.9%
-雲ひとつない快晴(cloudless clear sky): 11.6%
-大雨の景色(Scenery of heavy rain): 10.4%
+田園風景(rural scenery): 41.6%
+雲ひとつない快晴(cloudless clear sky): 10.8%
+大雨の景色(Scenery of heavy rain): 9.7%
 =============
 IMG_7127.jpg
-雲ひとつない快晴(cloudless clear sky): 50.4%
-朝方の海(morning sea): 25.4%
-海に浮かんでいる(floating in the sea): 6.4%
+雲ひとつない快晴(cloudless clear sky): 49.2%
+朝方の海(morning sea): 25.1%
+海に浮かんでいる(floating in the sea): 6.2%
 =============
 IMG_7131.jpg
-雲ひとつない快晴(cloudless clear sky): 51.2%
+雲ひとつない快晴(cloudless clear sky): 50.1%
 朝方の海(morning sea): 15.1%
-砂場(sandbox): 8.2%
+砂場(sandbox): 8.1%
 =============
 IMG_7208.jpg
-大雨の景色(Scenery of heavy rain): 30.8%
-朝方の海(morning sea): 20.5%
-曇りの日(cloudy day): 19.3%
+大雨の景色(Scenery of heavy rain): 30.1%
+朝方の海(morning sea): 20.3%
+曇りの日(cloudy day): 19.1%
 =============
 IMG_7225.JPG
-海に浮かんでいる(floating in the sea): 18.2%
-風情のある街(town with atmosphere): 16.8%
-砂場(sandbox): 13.7%
+昭和漂う町(Showa drifting town): 22.8%
+海に浮かんでいる(floating in the sea): 13.4%
+風情のある街(town with atmosphere): 12.6%
 =============
 IMG_7254.jpg
-朝方の海(morning sea): 70.7%
-夕焼けの海(sunset sea): 5.1%
-曇りの日(cloudy day): 3.5%
+朝方の海(morning sea): 60.0%
+昭和漂う町(Showa drifting town): 13.6%
+夕焼けの海(sunset sea): 4.4%
 =============
 IMG_7273.jpg
-木とガラスが写った美術館(Museum of wood and glass): 41.1%
-綺麗な神社(beautiful shrine): 16.1%
-汚い神社(dirty shrine): 10.1%
+木とガラスが写った美術館(Museum of wood and glass): 38.8%
+綺麗な神社(beautiful shrine): 15.2%
+汚い神社(dirty shrine): 9.6%
 =============
 IMG_7283.JPG
-汚い神社(dirty shrine): 30.5%
-綺麗な夜景(beautiful night view): 16.9%
-綺麗な神社(beautiful shrine): 14.4%
+汚い神社(dirty shrine): 25.6%
+住宅街(Residential area): 14.8%
+綺麗な夜景(beautiful night view): 13.7%
 =============
 IMG_7319.jpg
-大きな公園(big park): 75.1%
-雲ひとつない快晴(cloudless clear sky): 4.1%
+大きな公園(big park): 73.8%
+雲ひとつない快晴(cloudless clear sky): 4.0%
 砂場(sandbox): 3.5%
 =============
 IMG_7320.jpg
-雲ひとつない快晴(cloudless clear sky): 25.8%
-朝方の海(morning sea): 14.3%
-風情のある街(town with atmosphere): 10.3%
+雲ひとつない快晴(cloudless clear sky): 20.9%
+昭和漂う町(Showa drifting town): 11.9%
+朝方の海(morning sea): 11.5%
 =============
 IMG_7532.jpg
-汚い神社(dirty shrine): 34.5%
-綺麗な神社(beautiful shrine): 31.4%
-大雨の景色(Scenery of heavy rain): 7.9%
+昭和漂う町(Showa drifting town): 46.8%
+汚い神社(dirty shrine): 18.6%
+綺麗な神社(beautiful shrine): 16.4%
 =============
 IMG_7548.jpg
-大きな建物(big building): 19.6%
-綺麗な夜景(beautiful night view): 16.0%
-風情のある街(town with atmosphere): 12.7%
+昭和漂う町(Showa drifting town): 21.8%
+大きな建物(big building): 15.2%
+綺麗な夜景(beautiful night view): 12.4%
 =============
 IMG_7609.jpg
-朝方の海(morning sea): 58.4%
-海に浮かんでいる(floating in the sea): 21.5%
-曇りの日(cloudy day): 6.3%
+朝方の海(morning sea): 50.7%
+海に浮かんでいる(floating in the sea): 18.4%
+昭和漂う町(Showa drifting town): 12.4%
 =============
 IMG_7610.jpg
-海に浮かんでいる(floating in the sea): 45.7%
-朝方の海(morning sea): 28.2%
-雲ひとつない快晴(cloudless clear sky): 6.7%
+海に浮かんでいる(floating in the sea): 42.2%
+朝方の海(morning sea): 26.0%
+昭和漂う町(Showa drifting town): 7.2%
 =============
 IMG_7611.jpg
-雲ひとつない快晴(cloudless clear sky): 20.6%
-朝方の海(morning sea): 19.4%
-海に浮かんでいる(floating in the sea): 19.1%
+昭和漂う町(Showa drifting town): 20.1%
+雲ひとつない快晴(cloudless clear sky): 16.1%
+朝方の海(morning sea): 15.4%
 =============
-IMG_7107.jpg
-雲ひとつない快晴(cloudless clear sky): 49.3%
-大きな建物(big building): 11.0%
-風情のある街(town with atmosphere): 9.4%
+IMG_8229.jpg
+綺麗な神社(beautiful shrine): 60.8%
+木とガラスが写った美術館(Museum of wood and glass): 18.8%
+汚い神社(dirty shrine): 7.6%
+=============
+IMG_8242.jpg
+昭和漂う町(Showa drifting town): 42.0%
+風情のある街(town with atmosphere): 27.1%
+住宅街(Residential area): 5.4%
+=============
+IMG_8390.jpg
+田舎道(country road): 66.3%
+田園風景(rural scenery): 25.5%
+昭和漂う町(Showa drifting town): 3.2%
+=============
+IMG_8409.jpg
+綺麗な神社(beautiful shrine): 47.9%
+雲ひとつない快晴(cloudless clear sky): 29.1%
+大きな公園(big park): 6.5%
+=============
+IMG_8448.jpg
+昭和漂う町(Showa drifting town): 40.5%
+大きな公園(big park): 10.9%
+雲ひとつない快晴(cloudless clear sky): 10.2%
+=============
+IMG_8505.jpg
+綺麗な神社(beautiful shrine): 40.5%
+雲ひとつない快晴(cloudless clear sky): 39.3%
+昭和漂う町(Showa drifting town): 4.5%
+=============
+IMG_8526.jpg
+昭和漂う町(Showa drifting town): 53.2%
+汚い神社(dirty shrine): 9.5%
+砂場(sandbox): 7.2%
+=============
+IMG_8573.jpg
+綺麗な神社(beautiful shrine): 65.0%
+汚い神社(dirty shrine): 15.7%
+赤い建物(red building): 11.7%
+=============
+IMG_8619.jpg
+昭和漂う町(Showa drifting town): 46.4%
+風情のある街(town with atmosphere): 38.5%
+住宅街(Residential area): 6.9%
+=============
+IMG_8621.jpg
+綺麗な神社(beautiful shrine): 83.8%
+汚い神社(dirty shrine): 7.2%
+大きな公園(big park): 6.2%
+=============
+IMG_8715.JPG
+綺麗な神社(beautiful shrine): 30.2%
+風情のある街(town with atmosphere): 30.2%
+昭和漂う町(Showa drifting town): 18.9%
+=============
+IMG_8727.jpg
+昭和漂う町(Showa drifting town): 56.3%
+大きな公園(big park): 26.6%
+晴天の日(sunny day): 3.1%
+=============
+IMG_9576.jpg
+電車(Electric train): 42.9%
+田園風景(rural scenery): 12.7%
+昭和漂う町(Showa drifting town): 10.4%
+=============
+IMG_9603.png
+綺麗な神社(beautiful shrine): 32.7%
+大きな公園(big park): 25.9%
+汚い神社(dirty shrine): 8.9%
+=============
+IMG_9657.jpg
+昭和漂う町(Showa drifting town): 66.2%
+夕焼けの海(sunset sea): 12.8%
+雲ひとつない快晴(cloudless clear sky): 7.9%
+=============
+sample.jpg
+綺麗な夜景(beautiful night view): 73.4%
+昭和漂う町(Showa drifting town): 18.8%
+風情のある街(town with atmosphere): 5.9%
+=============
+F148BEB3-BCD3-463C-A1FE-8CEA5AA54838.JPG
+朝方の海(morning sea): 58.0%
+昭和漂う町(Showa drifting town): 27.0%
+船(ship): 2.6%
+=============
+GPTempDownload 2.JPG
+住宅街(Residential area): 32.0%
+車が映っている(car is reflected): 15.3%
+昭和漂う町(Showa drifting town): 8.6%
+=============
+GPTempDownload.JPG
+雲ひとつない快晴(cloudless clear sky): 24.2%
+晴れの湖(sunny lake): 17.7%
+海に浮かんでいる(floating in the sea): 17.7%
 =============
 IMG_0811.jpg
-雲ひとつない快晴(cloudless clear sky): 59.0%
-大きな公園(big park): 9.2%
-朝方の海(morning sea): 7.4%
+雲ひとつない快晴(cloudless clear sky): 56.3%
+大きな公園(big park): 8.9%
+朝方の海(morning sea): 7.2%
 =============
-IMG_2102.jpg
-風情のある街(town with atmosphere): 43.0%
-大きな公園(big park): 24.5%
-都会の建物(urban building): 12.1%
-=============
-IMG_6917.jpg
-風情のある街(town with atmosphere): 26.7%
-大雨の景色(Scenery of heavy rain): 19.8%
-曇りの日(cloudy day): 15.0%
-=============
-IMG_7211.jpg
-朝方の海(morning sea): 33.2%
-大きな公園(big park): 16.1%
-雲ひとつない快晴(cloudless clear sky): 14.9%
-=============
-IMG_7253.jpg
-朝方の海(morning sea): 77.2%
-曇りの日(cloudy day): 5.2%
-雲ひとつない快晴(cloudless clear sky): 4.3%
-=============
-IMG_5604.jpg
-大雨の景色(Scenery of heavy rain): 41.9%
-大きな公園(big park): 16.9%
-風情のある街(town with atmosphere): 9.5%
-=============
-IMG_6850.jpg
-朝方の海(morning sea): 58.7%
-曇りの日(cloudy day): 24.5%
-大雨の景色(Scenery of heavy rain): 9.7%
-=============
-IMG_3864.jpg
-都会の建物(urban building): 27.0%
-雲ひとつない快晴(cloudless clear sky): 25.0%
-大きな建物(big building): 20.4%
-=============
-IMG_6955.jpg
-海に浮かんでいる(floating in the sea): 34.6%
-雲ひとつない快晴(cloudless clear sky): 23.8%
-晴れの湖(sunny lake): 13.8%
-=============
-IMG_7213.jpg
-海に浮かんでいる(floating in the sea): 35.4%
-朝方の海(morning sea): 28.5%
-電車が映っている(train is visible): 8.8%
-=============
-IMG_1033.jpg
-夕焼けの海(sunset sea): 22.1%
-綺麗な夜景(beautiful night view): 14.7%
-雲ひとつない快晴(cloudless clear sky): 14.5%
-=============
-IMG_6137.JPG
-田園風景(rural scenery): 77.8%
-田舎道(country road): 18.5%
-大雨の景色(Scenery of heavy rain): 2.2%
-=============
-IMG_6794.jpg
-朝方の海(morning sea): 38.8%
-雲ひとつない快晴(cloudless clear sky): 35.9%
-晴天の日(sunny day): 3.8%
-=============
-IMG_6454.jpg
-船(ship): 23.6%
-朝方の海(morning sea): 16.5%
-大きな公園(big park): 11.7%
-=============
-IMG_5492.JPG
-大きな公園(big park): 44.2%
-雲ひとつない快晴(cloudless clear sky): 39.6%
-高層ビル(skyscraper): 5.0%
-=============
-IMG_1852.jpg
-雲ひとつない快晴(cloudless clear sky): 58.9%
-船(ship): 15.6%
-朝方の海(morning sea): 9.5%
-=============
-IMG_1175.JPG
-大きな公園(big park): 30.5%
-大雨の景色(Scenery of heavy rain): 29.6%
-綺麗な神社(beautiful shrine): 10.4%
-=============
-IMG_1860.jpg
-赤い建物(red building): 38.3%
-風情のある街(town with atmosphere): 19.3%
-晴天の日(sunny day): 15.0%
-=============
-IMG_7005.jpg
-晴天の日(sunny day): 57.6%
-曇りの日(cloudy day): 26.4%
-雲ひとつない快晴(cloudless clear sky): 3.9%
-=============
-IMG_1203.JPG
-高層ビル(skyscraper): 24.5%
-風情のある街(town with atmosphere): 14.9%
-雲ひとつない快晴(cloudless clear sky): 14.2%
+IMG_0836.jpg
+雲ひとつない快晴(cloudless clear sky): 55.1%
+大きな建物(big building): 27.3%
+大きな公園(big park): 9.7%
 =============
 IMG_0846.jpg
-大きな公園(big park): 61.5%
-雲ひとつない快晴(cloudless clear sky): 25.6%
+大きな公園(big park): 60.9%
+雲ひとつない快晴(cloudless clear sky): 25.0%
 都会の建物(urban building): 2.2%
 =============
-IMG_8545.jpg
-綺麗な神社(beautiful shrine): 41.1%
-大雨の景色(Scenery of heavy rain): 31.0%
-汚い神社(dirty shrine): 12.9%
-=============
 IMG_0847.jpg
-雲ひとつない快晴(cloudless clear sky): 63.9%
-大きな公園(big park): 24.6%
+雲ひとつない快晴(cloudless clear sky): 63.0%
+大きな公園(big park): 24.7%
 都会の建物(urban building): 1.9%
 =============
-IMG_7207.jpg
-海に浮かんでいる(floating in the sea): 27.9%
-大雨の景色(Scenery of heavy rain): 23.9%
-朝方の海(morning sea): 20.1%
+IMG_0862.jpg
+雲ひとつない快晴(cloudless clear sky): 46.7%
+都会の建物(urban building): 9.2%
+大きな建物(big building): 8.5%
 =============
-IMG_8496.jpg
-夕焼けの海(sunset sea): 83.0%
-朝方の海(morning sea): 7.4%
-晴れの湖(sunny lake): 3.2%
+IMG_0870.jpg
+船(ship): 17.7%
+昭和漂う町(Showa drifting town): 15.9%
+大雨の景色(Scenery of heavy rain): 15.1%
+=============
+IMG_1033.jpg
+夕焼けの海(sunset sea): 20.3%
+綺麗な夜景(beautiful night view): 13.5%
+雲ひとつない快晴(cloudless clear sky): 13.1%
+=============
+IMG_1034.jpg
+昭和漂う町(Showa drifting town): 59.9%
+夕焼けの海(sunset sea): 12.8%
+風情のある街(town with atmosphere): 9.9%
+=============
+IMG_1175.JPG
+昭和漂う町(Showa drifting town): 81.2%
+大きな公園(big park): 5.3%
+大雨の景色(Scenery of heavy rain): 5.0%
+=============
+IMG_1190.jpg
+高層ビル(skyscraper): 19.9%
+昭和漂う町(Showa drifting town): 18.7%
+曇りの日(cloudy day): 12.9%
+=============
+IMG_1202.JPG
+昭和漂う町(Showa drifting town): 34.7%
+高層ビル(skyscraper): 28.3%
+都会の建物(urban building): 10.4%
+=============
+IMG_1203.JPG
+高層ビル(skyscraper): 20.5%
+昭和漂う町(Showa drifting town): 14.5%
+風情のある街(town with atmosphere): 12.4%
+=============
+IMG_1640.jpg
+雲ひとつない快晴(cloudless clear sky): 26.8%
+夕焼けの海(sunset sea): 22.6%
+昭和漂う町(Showa drifting town): 21.9%
+=============
+IMG_1757.JPG
+昭和漂う町(Showa drifting town): 92.9%
+大きな公園(big park): 2.1%
+住宅街(Residential area): 1.3%
+=============
+IMG_1819.jpg
+飛行機(plane): 72.6%
+夕焼けの海(sunset sea): 9.5%
+綺麗な夜景(beautiful night view): 7.2%
+=============
+IMG_1851.jpg
+雲ひとつない快晴(cloudless clear sky): 28.6%
+海に浮かんでいる(floating in the sea): 25.7%
+朝方の海(morning sea): 20.9%
+=============
+IMG_1852.jpg
+雲ひとつない快晴(cloudless clear sky): 53.1%
+船(ship): 14.3%
+昭和漂う町(Showa drifting town): 9.1%
+=============
+IMG_1853.jpg
+船(ship): 39.7%
+雲ひとつない快晴(cloudless clear sky): 15.5%
+朝方の海(morning sea): 11.0%
+=============
+IMG_1855.jpg
+大きな建物(big building): 50.0%
+都会の建物(urban building): 34.4%
+住宅街(Residential area): 5.7%
+=============
+IMG_1856.jpg
+雲ひとつない快晴(cloudless clear sky): 29.1%
+昭和漂う町(Showa drifting town): 17.9%
+綺麗な神社(beautiful shrine): 11.4%
+=============
+IMG_1860.jpg
+赤い建物(red building): 29.1%
+昭和漂う町(Showa drifting town): 20.0%
+風情のある街(town with atmosphere): 14.6%
 =============
 IMG_2094.jpg
-都会の建物(urban building): 42.3%
-風情のある街(town with atmosphere): 20.9%
-大きな建物(big building): 17.9%
+昭和漂う町(Showa drifting town): 28.1%
+都会の建物(urban building): 25.2%
+風情のある街(town with atmosphere): 12.5%
+=============
+IMG_2101.jpg
+都会の建物(urban building): 38.3%
+昭和漂う町(Showa drifting town): 16.0%
+住宅街(Residential area): 11.0%
+=============
+IMG_2102.jpg
+昭和漂う町(Showa drifting town): 62.7%
+風情のある街(town with atmosphere): 12.7%
+住宅街(Residential area): 7.7%
+=============
+IMG_2103.jpg
+都会の建物(urban building): 28.2%
+住宅街(Residential area): 16.3%
+風情のある街(town with atmosphere): 15.8%
+=============
+IMG_3808.jpg
+綺麗な夜景(beautiful night view): 45.0%
+大きな建物(big building): 7.5%
+高層ビル(skyscraper): 7.3%
+=============
+IMG_3838.jpg
+綺麗な夜景(beautiful night view): 81.7%
+雲ひとつない快晴(cloudless clear sky): 10.9%
+昭和漂う町(Showa drifting town): 3.9%
+=============
+IMG_3864.jpg
+都会の建物(urban building): 24.2%
+雲ひとつない快晴(cloudless clear sky): 22.3%
+大きな建物(big building): 18.5%
+=============
+IMG_3902.jpg
+綺麗な夜景(beautiful night view): 31.9%
+夕焼けの海(sunset sea): 23.0%
+大雨の景色(Scenery of heavy rain): 13.7%
+=============
+IMG_4453.jpg
+雲ひとつない快晴(cloudless clear sky): 70.5%
+昭和漂う町(Showa drifting town): 11.0%
+大きな建物(big building): 8.4%
+=============
+IMG_4455.jpg
+高層ビル(skyscraper): 93.5%
+大きな建物(big building): 3.4%
+都会の建物(urban building): 1.3%
+=============
+IMG_4474.JPG
+高層ビル(skyscraper): 60.6%
+大きな建物(big building): 23.0%
+綺麗な夜景(beautiful night view): 11.4%
+=============
+IMG_5489.JPG
+大きな公園(big park): 52.8%
+木とガラスが写った美術館(Museum of wood and glass): 14.9%
+雲ひとつない快晴(cloudless clear sky): 5.5%
+=============
+IMG_5492.JPG
+大きな公園(big park): 40.7%
+雲ひとつない快晴(cloudless clear sky): 35.9%
+昭和漂う町(Showa drifting town): 6.4%
+=============
+IMG_5494.JPG
+大きな公園(big park): 42.2%
+雲ひとつない快晴(cloudless clear sky): 26.8%
+昭和漂う町(Showa drifting town): 7.6%
+=============
+IMG_5497.JPG
+大きな公園(big park): 42.2%
+雲ひとつない快晴(cloudless clear sky): 21.2%
+昭和漂う町(Showa drifting town): 9.4%
+=============
+IMG_5497.jpg
+飛行機(plane): 79.4%
+田園風景(rural scenery): 11.1%
+昭和漂う町(Showa drifting town): 3.0%
+=============
+IMG_5579.jpg
+赤い建物(red building): 22.3%
+晴天の日(sunny day): 19.7%
+木とガラスが写った美術館(Museum of wood and glass): 14.4%
+=============
+IMG_5589.jpg
+大雨の景色(Scenery of heavy rain): 33.4%
+昭和漂う町(Showa drifting town): 24.8%
+綺麗な夜景(beautiful night view): 23.7%
+=============
+IMG_5597.jpg
+昭和漂う町(Showa drifting town): 28.9%
+住宅街(Residential area): 10.5%
+朝方の海(morning sea): 8.0%
+=============
+IMG_5604.jpg
+昭和漂う町(Showa drifting town): 40.8%
+大雨の景色(Scenery of heavy rain): 22.5%
+大きな公園(big park): 9.2%
+=============
+IMG_6137.JPG
+田園風景(rural scenery): 75.9%
+田舎道(country road): 18.0%
+大雨の景色(Scenery of heavy rain): 2.1%
+=============
+IMG_6454.jpg
+船(ship): 22.2%
+朝方の海(morning sea): 15.5%
+大きな公園(big park): 11.0%
 =============
 IMG_6623.jpg
-夕焼けの海(sunset sea): 51.0%
-雲ひとつない快晴(cloudless clear sky): 17.3%
-綺麗な夜景(beautiful night view): 9.7%
+夕焼けの海(sunset sea): 44.4%
+雲ひとつない快晴(cloudless clear sky): 14.6%
+昭和漂う町(Showa drifting town): 12.5%
+=============
+IMG_6659.jpg
+大雨の景色(Scenery of heavy rain): 49.0%
+昭和漂う町(Showa drifting town): 15.6%
+曇りの日(cloudy day): 11.5%
+=============
+IMG_6730.jpg
+朝方の海(morning sea): 26.9%
+夕焼けの海(sunset sea): 24.8%
+海に浮かんでいる(floating in the sea): 10.4%
+=============
+IMG_6734.jpg
+朝方の海(morning sea): 21.3%
+雲ひとつない快晴(cloudless clear sky): 18.8%
+晴れの湖(sunny lake): 8.2%
+=============
+IMG_6773.jpg
+田園風景(rural scenery): 34.3%
+大雨の景色(Scenery of heavy rain): 19.8%
+昭和漂う町(Showa drifting town): 15.0%
+=============
+IMG_6794.jpg
+朝方の海(morning sea): 38.0%
+雲ひとつない快晴(cloudless clear sky): 34.6%
+晴天の日(sunny day): 3.8%
+=============
+IMG_6796.jpg
+海に浮かんでいる(floating in the sea): 53.8%
+朝方の海(morning sea): 21.7%
+晴れの湖(sunny lake): 12.4%
+=============
+IMG_6850.jpg
+朝方の海(morning sea): 57.7%
+曇りの日(cloudy day): 24.0%
+大雨の景色(Scenery of heavy rain): 9.4%
+=============
+IMG_6855.jpg
+雲ひとつない快晴(cloudless clear sky): 56.3%
+飛行機(plane): 32.6%
+朝方の海(morning sea): 1.8%
+=============
+IMG_6858.jpg
+朝方の海(morning sea): 60.1%
+雲ひとつない快晴(cloudless clear sky): 10.9%
+昭和漂う町(Showa drifting town): 9.7%
+=============
+IMG_6859.jpg
+雲ひとつない快晴(cloudless clear sky): 21.3%
+大きな公園(big park): 17.7%
+朝方の海(morning sea): 15.8%
+=============
+IMG_6917.jpg
+昭和漂う町(Showa drifting town): 81.9%
+風情のある街(town with atmosphere): 4.3%
+大雨の景色(Scenery of heavy rain): 3.1%
+=============
+IMG_6919.jpg
+田舎道(country road): 42.7%
+昭和漂う町(Showa drifting town): 27.5%
+大雨の景色(Scenery of heavy rain): 9.7%
+=============
+IMG_6923.jpg
+田舎道(country road): 74.3%
+田園風景(rural scenery): 13.5%
+曇りの日(cloudy day): 3.6%
+=============
+IMG_6928.jpg
+田舎道(country road): 85.1%
+田園風景(rural scenery): 10.0%
+昭和漂う町(Showa drifting town): 2.7%
+=============
+IMG_6931.jpg
+朝方の海(morning sea): 40.4%
+曇りの日(cloudy day): 38.5%
+田園風景(rural scenery): 5.1%
+=============
+IMG_6946.jpg
+朝方の海(morning sea): 43.6%
+曇りの日(cloudy day): 12.9%
+田園風景(rural scenery): 10.0%
+=============
+IMG_6948.jpg
+朝方の海(morning sea): 38.7%
+田園風景(rural scenery): 17.7%
+曇りの日(cloudy day): 10.8%
+=============
+IMG_6955.jpg
+海に浮かんでいる(floating in the sea): 33.3%
+雲ひとつない快晴(cloudless clear sky): 22.5%
+晴れの湖(sunny lake): 13.0%
+=============
+IMG_6990.jpg
+田園風景(rural scenery): 28.5%
+大雨の景色(Scenery of heavy rain): 8.4%
+砂場(sandbox): 8.1%
+=============
+IMG_7001.jpg
+朝方の海(morning sea): 60.0%
+昭和漂う町(Showa drifting town): 11.8%
+曇りの日(cloudy day): 7.5%
+=============
+IMG_7002.jpg
+昭和漂う町(Showa drifting town): 27.5%
+朝方の海(morning sea): 26.6%
+船(ship): 11.1%
+=============
+IMG_7005.jpg
+晴天の日(sunny day): 56.4%
+曇りの日(cloudy day): 25.4%
+雲ひとつない快晴(cloudless clear sky): 3.7%
+=============
+IMG_7107.jpg
+雲ひとつない快晴(cloudless clear sky): 37.0%
+住宅街(Residential area): 20.5%
+大きな建物(big building): 8.4%
+=============
+IMG_7185.jpg
+曇りの日(cloudy day): 37.9%
+朝方の海(morning sea): 17.6%
+綺麗な神社(beautiful shrine): 10.4%
+=============
+IMG_7188.jpg
+朝方の海(morning sea): 51.0%
+田園風景(rural scenery): 10.5%
+曇りの日(cloudy day): 9.1%
+=============
+IMG_7206.jpg
+大雨の景色(Scenery of heavy rain): 27.1%
+曇りの日(cloudy day): 23.2%
+朝方の海(morning sea): 13.4%
+=============
+IMG_7207.jpg
+海に浮かんでいる(floating in the sea): 27.4%
+大雨の景色(Scenery of heavy rain): 23.4%
+朝方の海(morning sea): 20.0%
+=============
+IMG_7211.jpg
+朝方の海(morning sea): 30.1%
+大きな公園(big park): 14.9%
+雲ひとつない快晴(cloudless clear sky): 13.6%
+=============
+IMG_7212.jpg
+朝方の海(morning sea): 27.2%
+海に浮かんでいる(floating in the sea): 18.4%
+雲ひとつない快晴(cloudless clear sky): 14.6%
+=============
+IMG_7213.jpg
+海に浮かんでいる(floating in the sea): 32.7%
+朝方の海(morning sea): 26.7%
+電車が映っている(train is visible): 8.3%
+=============
+IMG_7214.jpg
+朝方の海(morning sea): 26.9%
+曇りの日(cloudy day): 23.0%
+海に浮かんでいる(floating in the sea): 10.7%
+=============
+IMG_7251.jpg
+朝方の海(morning sea): 54.2%
+夕焼けの海(sunset sea): 27.7%
+雲ひとつない快晴(cloudless clear sky): 6.4%
+=============
+IMG_7252.jpg
+夕焼けの海(sunset sea): 67.2%
+朝方の海(morning sea): 23.2%
+昭和漂う町(Showa drifting town): 2.6%
+=============
+IMG_7253.jpg
+朝方の海(morning sea): 75.5%
+曇りの日(cloudy day): 5.1%
+雲ひとつない快晴(cloudless clear sky): 4.1%
+=============
+IMG_7255.jpg
+朝方の海(morning sea): 47.3%
+夕焼けの海(sunset sea): 32.0%
+曇りの日(cloudy day): 8.5%
+=============
+IMG_7513.jpg
+木とガラスが写った美術館(Museum of wood and glass): 41.2%
+砂場(sandbox): 14.2%
+水溜まりのある(puddle): 7.2%
+=============
+IMG_7546.jpg
+昭和漂う町(Showa drifting town): 31.6%
+風情のある街(town with atmosphere): 18.0%
+綺麗な夜景(beautiful night view): 9.5%
+=============
+IMG_7549.jpg
+昭和漂う町(Showa drifting town): 42.4%
+風情のある街(town with atmosphere): 32.0%
+綺麗な夜景(beautiful night view): 8.5%
+=============
+IMG_7870.jpg
+朝方の海(morning sea): 24.0%
+海に浮かんでいる(floating in the sea): 12.7%
+曇りの日(cloudy day): 10.7%
+=============
+IMG_8254.jpg
+綺麗な夜景(beautiful night view): 72.3%
+昭和漂う町(Showa drifting town): 18.8%
+風情のある街(town with atmosphere): 6.8%
+=============
+IMG_8404.jpg
+大きな公園(big park): 34.5%
+綺麗な神社(beautiful shrine): 26.4%
+雲ひとつない快晴(cloudless clear sky): 12.9%
+=============
+IMG_8449.jpg
+昭和漂う町(Showa drifting town): 20.8%
+雲ひとつない快晴(cloudless clear sky): 17.0%
+綺麗な神社(beautiful shrine): 11.0%
+=============
+IMG_8466.jpg
+綺麗な神社(beautiful shrine): 43.1%
+大きな公園(big park): 25.3%
+昭和漂う町(Showa drifting town): 11.1%
+=============
+IMG_8496.jpg
+夕焼けの海(sunset sea): 82.8%
+朝方の海(morning sea): 7.3%
+晴れの湖(sunny lake): 3.2%
+=============
+IMG_8527.jpg
+昭和漂う町(Showa drifting town): 64.0%
+大きな公園(big park): 22.1%
+汚い神社(dirty shrine): 4.9%
+=============
+IMG_8532.jpg
+砂場(sandbox): 79.2%
+汚い神社(dirty shrine): 4.1%
+大きな公園(big park): 2.2%
+=============
+IMG_8545.jpg
+昭和漂う町(Showa drifting town): 48.1%
+綺麗な神社(beautiful shrine): 21.4%
+大雨の景色(Scenery of heavy rain): 15.9%
+=============
+IMG_8571.jpg
+綺麗な神社(beautiful shrine): 65.4%
+赤い建物(red building): 14.6%
+昭和漂う町(Showa drifting town): 6.5%
 =============
 IMG_8625.jpg
-綺麗な神社(beautiful shrine): 72.9%
-汚い神社(dirty shrine): 20.9%
-大きな建物(big building): 1.6%
+綺麗な神社(beautiful shrine): 69.5%
+汚い神社(dirty shrine): 20.6%
+昭和漂う町(Showa drifting town): 3.9%
+=============
+IMG_8626.jpg
+綺麗な神社(beautiful shrine): 47.3%
+汚い神社(dirty shrine): 16.1%
+昭和漂う町(Showa drifting town): 14.9%
+=============
+IMG_8786.jpg
+船(ship): 90.0%
+昭和漂う町(Showa drifting town): 2.7%
+大きな建物(big building): 2.6%
 =============
 IMG_9615.png
 木とガラスが写った美術館(Museum of wood and glass): 100.0%
 砂場(sandbox): 0.0%
 都会の建物(urban building): 0.0%
 =============
-IMG_5497.JPG
-大きな公園(big park): 47.3%
-雲ひとつない快晴(cloudless clear sky): 24.1%
-高層ビル(skyscraper): 9.3%
-=============
-IMG_5497.jpg
-飛行機(airplane): 66.6%
-田園風景(rural scenery): 21.6%
-晴天の日(sunny day): 2.6%
-=============
-IMG_1856.jpg
-雲ひとつない快晴(cloudless clear sky): 37.7%
-綺麗な神社(beautiful shrine): 14.8%
-大きな公園(big park): 8.8%
-=============
-IMG_6919.jpg
-田舎道(country road): 60.5%
-大雨の景色(Scenery of heavy rain): 13.5%
-田園風景(rural scenery): 10.2%
-=============
-IMG_7251.jpg
-朝方の海(morning sea): 54.3%
-夕焼けの海(sunset sea): 27.8%
-雲ひとつない快晴(cloudless clear sky): 6.5%
-=============
-IMG_5494.JPG
-大きな公園(big park): 47.5%
-雲ひとつない快晴(cloudless clear sky): 30.7%
-田園風景(rural scenery): 7.8%
-=============
-IMG_1190.jpg
-高層ビル(skyscraper): 24.5%
-曇りの日(cloudy day): 16.3%
-都会の建物(urban building): 12.9%
-=============
-IMG_1855.jpg
-大きな建物(big building): 54.0%
-都会の建物(urban building): 37.7%
-赤い建物(red building): 2.2%
-=============
-IMG_4455.jpg
-高層ビル(skyscraper): 93.6%
-大きな建物(big building): 3.4%
-都会の建物(urban building): 1.3%
-=============
-F148BEB3-BCD3-463C-A1FE-8CEA5AA54838.JPG
-朝方の海(morning sea): 79.8%
-船(ship): 3.6%
-大きな公園(big park): 3.0%
-=============
-IMG_8449.jpg
-雲ひとつない快晴(cloudless clear sky): 21.9%
-綺麗な神社(beautiful shrine): 13.9%
-田園風景(rural scenery): 13.1%
-=============
-IMG_1640.jpg
-雲ひとつない快晴(cloudless clear sky): 35.8%
-夕焼けの海(sunset sea): 29.7%
-綺麗な夜景(beautiful night view): 7.9%
-=============
-IMG_6734.jpg
-朝方の海(morning sea): 22.9%
-雲ひとつない快晴(cloudless clear sky): 20.5%
-晴れの湖(sunny lake): 8.9%
-=============
-IMG_7255.jpg
-朝方の海(morning sea): 47.8%
-夕焼けの海(sunset sea): 32.3%
-曇りの日(cloudy day): 8.6%
-=============
-IMG_5589.jpg
-大雨の景色(Scenery of heavy rain): 45.4%
-綺麗な夜景(beautiful night view): 31.7%
-風情のある街(town with atmosphere): 9.8%
-=============
-IMG_7870.jpg
-朝方の海(morning sea): 24.5%
-海に浮かんでいる(floating in the sea): 12.9%
-曇りの日(cloudy day): 10.9%
-=============
-IMG_8786.jpg
-船(ship): 92.7%
-大きな建物(big building): 2.7%
-汚い神社(dirty shrine): 0.9%
-=============
-IMG_6855.jpg
-雲ひとつない快晴(cloudless clear sky): 81.0%
-飛行機(airplane): 5.4%
-朝方の海(morning sea): 2.6%
-=============
 IMG_9649.png
 木とガラスが写った美術館(Museum of wood and glass): 96.4%
 砂場(sandbox): 1.3%
 様々な色のガラス(different colored glasses): 0.4%
-=============
-IMG_8571.jpg
-綺麗な神社(beautiful shrine): 70.2%
-赤い建物(red building): 15.4%
-汚い神社(dirty shrine): 4.3%
-=============
-IMG_6858.jpg
-朝方の海(morning sea): 66.9%
-雲ひとつない快晴(cloudless clear sky): 12.4%
-海に浮かんでいる(floating in the sea): 3.7%
-=============
-IMG_6948.jpg
-朝方の海(morning sea): 40.7%
-田園風景(rural scenery): 18.7%
-曇りの日(cloudy day): 11.3%
-=============
-IMG_4453.jpg
-雲ひとつない快晴(cloudless clear sky): 80.0%
-大きな建物(big building): 9.3%
-高層ビル(skyscraper): 2.7%
-=============
-IMG_7206.jpg
-大雨の景色(Scenery of heavy rain): 29.9%
-曇りの日(cloudy day): 25.2%
-朝方の海(morning sea): 14.6%
-=============
-IMG_8532.jpg
-砂場(sandbox): 80.7%
-汚い神社(dirty shrine): 4.1%
-大きな公園(big park): 2.2%
-=============
-IMG_7252.jpg
-夕焼けの海(sunset sea): 69.1%
-朝方の海(morning sea): 23.9%
-田園風景(rural scenery): 1.2%
-=============
-IMG_7001.jpg
-朝方の海(morning sea): 68.4%
-曇りの日(cloudy day): 8.4%
-海に浮かんでいる(floating in the sea): 7.7%
-=============
-IMG_1851.jpg
-雲ひとつない快晴(cloudless clear sky): 30.1%
-海に浮かんでいる(floating in the sea): 26.6%
-朝方の海(morning sea): 21.7%
-=============
-IMG_5489.JPG
-大きな公園(big park): 53.5%
-木とガラスが写った美術館(Museum of wood and glass): 15.1%
-雲ひとつない快晴(cloudless clear sky): 5.6%
-=============
-IMG_2103.jpg
-都会の建物(urban building): 39.1%
-風情のある街(town with atmosphere): 21.6%
-木とガラスが写った美術館(Museum of wood and glass): 20.6%
-=============
-IMG_6990.jpg
-田園風景(rural scenery): 31.2%
-大雨の景色(Scenery of heavy rain): 9.4%
-砂場(sandbox): 8.8%
-=============
-IMG_3902.jpg
-綺麗な夜景(beautiful night view): 33.4%
-夕焼けの海(sunset sea): 24.1%
-大雨の景色(Scenery of heavy rain): 14.6%
-=============
-IMG_0870.jpg
-船(ship): 22.2%
-大雨の景色(Scenery of heavy rain): 19.3%
-綺麗な神社(beautiful shrine): 7.3%
-=============
-IMG_6931.jpg
-朝方の海(morning sea): 40.6%
-曇りの日(cloudy day): 38.8%
-田園風景(rural scenery): 5.1%
-=============
-IMG_8626.jpg
-綺麗な神社(beautiful shrine): 55.9%
-汚い神社(dirty shrine): 18.7%
-木とガラスが写った美術館(Museum of wood and glass): 13.7%
-=============
-IMG_6730.jpg
-朝方の海(morning sea): 27.7%
-夕焼けの海(sunset sea): 25.2%
-海に浮かんでいる(floating in the sea): 10.7%
-=============
-IMG_7002.jpg
-朝方の海(morning sea): 42.0%
-船(ship): 17.5%
-雲ひとつない快晴(cloudless clear sky): 8.7%
-=============
-IMG_5579.jpg
-赤い建物(red building): 25.0%
-晴天の日(sunny day): 21.8%
-木とガラスが写った美術館(Museum of wood and glass): 16.2%
-=============
-IMG_6859.jpg
-雲ひとつない快晴(cloudless clear sky): 25.2%
-大きな公園(big park): 20.9%
-朝方の海(morning sea): 18.7%
-=============
-IMG_1034.jpg
-夕焼けの海(sunset sea): 32.8%
-風情のある街(town with atmosphere): 25.5%
-綺麗な夜景(beautiful night view): 6.1%
-=============
-IMG_6946.jpg
-朝方の海(morning sea): 48.6%
-曇りの日(cloudy day): 14.4%
-田園風景(rural scenery): 11.2%
-=============
-IMG_1819.jpg
-飛行機(airplane): 57.6%
-夕焼けの海(sunset sea): 14.6%
-綺麗な夜景(beautiful night view): 11.2%
-=============
-IMG_0836.jpg
-雲ひとつない快晴(cloudless clear sky): 56.2%
-大きな建物(big building): 27.8%
-大きな公園(big park): 9.8%
-=============
-IMG_4474.JPG
-高層ビル(skyscraper): 60.7%
-大きな建物(big building): 23.0%
-綺麗な夜景(beautiful night view): 11.4%
-=============
-IMG_7214.jpg
-朝方の海(morning sea): 29.7%
-曇りの日(cloudy day): 25.4%
-海に浮かんでいる(floating in the sea): 11.8%
-=============
-IMG_8527.jpg
-大きな公園(big park): 62.6%
-汚い神社(dirty shrine): 13.8%
-綺麗な神社(beautiful shrine): 11.8%
-=============
-IMG_6928.jpg
-田舎道(country road): 87.8%
-田園風景(rural scenery): 10.2%
-大雨の景色(Scenery of heavy rain): 0.8%
-=============
-IMG_7185.jpg
-曇りの日(cloudy day): 38.8%
-朝方の海(morning sea): 18.1%
-綺麗な神社(beautiful shrine): 10.6%
-=============
-IMG_1853.jpg
-船(ship): 42.5%
-雲ひとつない快晴(cloudless clear sky): 16.9%
-海に浮かんでいる(floating in the sea): 11.8%
-=============
-GPTempDownload 2.JPG
-車が映っている(car is reflected): 26.1%
-風情のある街(town with atmosphere): 13.5%
-都会の建物(urban building): 11.8%
-=============
-IMG_8404.jpg
-大きな公園(big park): 35.6%
-綺麗な神社(beautiful shrine): 27.3%
-雲ひとつない快晴(cloudless clear sky): 13.5%
-=============
-IMG_7188.jpg
-朝方の海(morning sea): 52.0%
-田園風景(rural scenery): 10.7%
-曇りの日(cloudy day): 9.2%
-=============
-GPTempDownload.JPG
-雲ひとつない快晴(cloudless clear sky): 26.2%
-晴れの湖(sunny lake): 19.1%
-海に浮かんでいる(floating in the sea): 18.8%
-=============
-IMG_7212.jpg
-朝方の海(morning sea): 28.2%
-海に浮かんでいる(floating in the sea): 19.1%
-晴れの湖(sunny lake): 15.3%
-=============
-IMG_0862.jpg
-雲ひとつない快晴(cloudless clear sky): 53.3%
-都会の建物(urban building): 10.3%
-大きな建物(big building): 9.6%
-=============
-IMG_2101.jpg
-都会の建物(urban building): 52.7%
-大きな建物(big building): 12.5%
-風情のある街(town with atmosphere): 10.7%
-=============
-IMG_6923.jpg
-田舎道(country road): 76.0%
-田園風景(rural scenery): 13.9%
-曇りの日(cloudy day): 3.7%
-=============
-IMG_3838.jpg
-綺麗な夜景(beautiful night view): 79.5%
-雲ひとつない快晴(cloudless clear sky): 10.9%
-飛行機(airplane): 6.3%
-=============
-IMG_6659.jpg
-大雨の景色(Scenery of heavy rain): 58.5%
-曇りの日(cloudy day): 13.5%
-雨の日(Wet day): 10.2%
-=============
-IMG_3808.jpg
-綺麗な夜景(beautiful night view): 51.4%
-大きな建物(big building): 8.6%
-高層ビル(skyscraper): 8.4%
-=============
-IMG_8466.jpg
-綺麗な神社(beautiful shrine): 48.8%
-大きな公園(big park): 29.1%
-大雨の景色(Scenery of heavy rain): 6.3%
-=============
-IMG_6773.jpg
-田園風景(rural scenery): 41.8%
-大雨の景色(Scenery of heavy rain): 24.6%
-田舎道(country road): 10.9%
-=============
-IMG_8254.jpg
-綺麗な夜景(beautiful night view): 89.2%
-風情のある街(town with atmosphere): 8.4%
-大雨の景色(Scenery of heavy rain): 0.5%
-=============
-IMG_6796.jpg
-海に浮かんでいる(floating in the sea): 54.0%
-朝方の海(morning sea): 21.5%
-晴れの湖(sunny lake): 12.4%
-=============
-IMG_1757.JPG
-大きな公園(big park): 36.6%
-曇りの日(cloudy day): 12.1%
-車が映っている(car is reflected): 10.2%
-=============
-IMG_5597.jpg
-雲ひとつない快晴(cloudless clear sky): 13.5%
-朝方の海(morning sea): 13.3%
-風情のある街(town with atmosphere): 10.7%
-=============
-IMG_1202.JPG
-高層ビル(skyscraper): 45.3%
-都会の建物(urban building): 17.2%
-大きな建物(big building): 10.3%
-=============
-IMG_7513.jpg
-木とガラスが写った美術館(Museum of wood and glass): 40.7%
-砂場(sandbox): 14.1%
-水溜まりのある(puddle): 7.1%
-=============
-IMG_7546.jpg
-風情のある街(town with atmosphere): 27.1%
-綺麗な夜景(beautiful night view): 14.3%
-都会の建物(urban building): 12.8%
-=============
-IMG_7549.jpg
-風情のある街(town with atmosphere): 56.9%
-綺麗な夜景(beautiful night view): 15.1%
-大雨の景色(Scenery of heavy rain): 10.4%
