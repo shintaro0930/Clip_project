@@ -27,3 +27,6 @@ for line in lines:
 for out in line_list_list:
     print("入ってない")
     print(out)
+
+
+print("hello")
