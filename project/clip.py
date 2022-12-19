@@ -7,12 +7,6 @@ import torch
 from CLIP import clip
 from PIL import Image
 from googletrans import Translator
-from janome.tokenizer import Tokenizer
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
-
-from pathlib import Path
-import glob
 import numpy as np 
 
 
@@ -84,7 +78,7 @@ for i, image in enumerate(images):
       f.write(f'{save_image}\n')
       print("=============")
       print(save_image)
-      for i in reversed(range(sorted_probs.shape[-1] - 3, sorted_probs.shape[-1])):
+      for i in reversed(range(sorted_probs.shape[-1] - 1, sorted_probs.shape[-1])):
           clip_text.append(texts_jp[index[0, i]])
           f.write(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%\n')
 
@@ -93,4 +87,5 @@ for i, image in enumerate(images):
       shutil.move(image_base_dir + save_image, '/work/used_pictures/')
 
   except Exception as e:
+    print(e)
     continue

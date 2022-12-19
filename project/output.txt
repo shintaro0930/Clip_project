@@ -494,11 +494,6 @@ IMG_9657.jpg
 夕焼けの海(sunset sea): 12.8%
 雲ひとつない快晴(cloudless clear sky): 7.9%
 =============
-sample.jpg
-綺麗な夜景(beautiful night view): 73.4%
-昭和漂う町(Showa drifting town): 18.8%
-風情のある街(town with atmosphere): 5.9%
-=============
 F148BEB3-BCD3-463C-A1FE-8CEA5AA54838.JPG
 朝方の海(morning sea): 58.0%
 昭和漂う町(Showa drifting town): 27.0%
