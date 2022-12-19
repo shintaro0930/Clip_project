@@ -17,7 +17,6 @@ model, preprocess = clip.load("ViT-B/32", device=device)
 # initialize base directory
 text_base_dir = '/work/texts/'
 image_base_dir = '/work/pictures/'
-# image_base_dir = '/work/light_pictures/'
 
 
 # remove '\r' or '\r\n' and punctuations

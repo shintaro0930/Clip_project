@@ -4,6 +4,10 @@ from sklearn.metrics.pairwise import cosine_similarity
 from janome.tokenizer import Tokenizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 
+# ReLU function
+def relu(x:int)->int:
+    return x * (x > 0.0)
+
 # remove '\r' or '\r\n' and punctuations
 def remove_punctuation(input):
     output = re.sub(r'[^\w\s]','',input)
@@ -27,6 +31,7 @@ def vecs_array(documents):
 
 # ========================================
 input_text = input("input:")
+# input_text = "夜景"
 input_text = remove_punctuation(input_text)
 
 with open('output.txt') as f:
@@ -47,7 +52,8 @@ for line in lines:
     line_list.append(line)
     prob = prob.split(' ')[-1]
     prob_list.append(prob)
-    if(count % 4 == 0):
+    if(count % 2 == 0):
+    # if(count % 4 == 0):
         line_list_list.append(line_list)
         prob_list_list.append(prob_list)
         line_list = []
@@ -59,7 +65,7 @@ save_images = []
 #print(line_list_list)
 for (line_list,prob_list) in zip(line_list_list, prob_list_list):
     image_name = line_list.pop(0)
-    line_list.append(input_text)
+    line_list.append(input_text)    
     cos_sim = np.round(cosine_similarity(vecs_array(line_list), vecs_array(line_list)), len(line_list))
     cos_list = cos_sim[-1].tolist()           # .tolist()で numpy.ndarray --> list
     cos_list.pop(-1)
