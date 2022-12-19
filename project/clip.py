@@ -77,7 +77,7 @@ for i, image in enumerate(images):
       f.write(f'{save_image}\n')
       print("=============")
       print(save_image)
-      for i in reversed(range(sorted_probs.shape[-1] - 1, sorted_probs.shape[-1])):
+      for i in reversed(range(sorted_probs.shape[-1] - 3, sorted_probs.shape[-1])):
           clip_text.append(texts_jp[index[0, i]])
           f.write(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%\n')
 
