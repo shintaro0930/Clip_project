@@ -18,7 +18,7 @@ def remove_punctuation(input):
 def wakachi(text)->list:
     t = Tokenizer()
     tokens = t.tokenize(text)
-    docs = []
+    docs:list = []
     for token in tokens:
         docs.append(token.surface)
     return docs
@@ -52,8 +52,7 @@ for line in lines:
     line_list.append(line)
     prob = prob.split(' ')[-1]
     prob_list.append(prob)
-    if(count % 2 == 0):
-    # if(count % 4 == 0):
+    if(count % 4 == 0):
         line_list_list.append(line_list)
         prob_list_list.append(prob_list)
         line_list = []
