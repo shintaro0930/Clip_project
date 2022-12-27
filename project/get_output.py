@@ -60,7 +60,7 @@ for line in lines:
 
 
 max_prob = 0
-save_images = []
+save_images = []        # 最終的にoutputする画像を保持
 #print(line_list_list)
 for (line_list,prob_list) in zip(line_list_list, prob_list_list):
     image_name = line_list.pop(0)
@@ -68,13 +68,14 @@ for (line_list,prob_list) in zip(line_list_list, prob_list_list):
     cos_sim = np.round(cosine_similarity(vecs_array(line_list), vecs_array(line_list)), len(line_list))
     cos_list = cos_sim[-1].tolist()           # .tolist()で numpy.ndarray --> list
     cos_list.pop(-1)
-    avg = sum(cos_list)/ len(cos_list) * 100      # %表示
-    print(f'{image_name}と{input_text}の類似度: {avg}%')
-    if(avg > max_prob):
+    output_avg = sum(cos_list)/ len(cos_list) * 100      # %表示
+    output_avg = np.round(output_avg, decimals=2)
+    print(f'{image_name}と{input_text}の類似度: {output_avg}%')
+    if(output_avg > max_prob):
         save_images.clear()
         save_images.append(image_name)
-        max_prob = avg
-    elif (avg == max_prob):
+        max_prob = output_avg
+    elif (output_avg == max_prob):
         save_images.append(image_name)
 
 if(max_prob == 0):

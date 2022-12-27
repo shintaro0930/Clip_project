@@ -29,7 +29,8 @@ def remove_punctuation(input):
 # initialize text lists and designate the full path
 texts_jp:list = []
 texts_dir = os.listdir(text_base_dir)
-text_file = text_base_dir + 'text.txt'
+# text_file = text_base_dir + 'text.txt'
+text_file = text_base_dir + 'text2.txt'
 
 with open(text_file) as texts:
   for text in texts:
