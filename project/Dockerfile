@@ -1,6 +1,5 @@
 ARG nvidia_cuda_version=11.4.0-cudnn8-devel-ubuntu20.04
 
-
 FROM nvidia/cuda:${nvidia_cuda_version}
 
 RUN apt-get update && \
