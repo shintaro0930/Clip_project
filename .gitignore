@@ -9,9 +9,6 @@
 /.vscode-server
 /.wget-hsts
 /__pycache__
-/data
-/gpt
-/tensorflow
 /project/CLIP/
 /project/experiment/
 /project/used_pictures/

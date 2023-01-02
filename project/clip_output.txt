@@ -1,0 +1,995 @@
+=============
+GPTempDownload 3.JPG
+白い砂浜(white sand beach): 70.8%
+砂場(sandbox): 13.3%
+朝の海(morning sea): 4.5%
+=============
+GPTempDownload 4.JPG
+綺麗な湖(beautiful lake): 24.3%
+浮かんでいる(floating): 15.0%
+白い砂浜(white sand beach): 14.3%
+=============
+IMG_0020.jpg
+綺麗な夜景(beautiful night view): 84.6%
+昭和漂う町(Showa drifting town): 6.0%
+飛行機飛んでいる(airplane flying): 2.0%
+=============
+IMG_0024.JPG
+綺麗な夜景(beautiful night view): 68.9%
+昭和漂う町(Showa drifting town): 23.1%
+風情のある街(town with atmosphere): 4.0%
+=============
+IMG_0171.jpg
+高層ビルの建物(skyscraper building): 27.2%
+綺麗な夜景(beautiful night view): 26.8%
+都会の風景(urban landscape): 10.7%
+=============
+IMG_0172.jpg
+綺麗な夜景(beautiful night view): 48.3%
+凍った池(frozen pond): 13.4%
+川が流れている(the river is flowing): 6.3%
+=============
+IMG_0305.jpg
+昭和漂う町(Showa drifting town): 84.2%
+風情のある街(town with atmosphere): 6.0%
+汚い神社の景色(View of the dirty shrine): 2.9%
+=============
+IMG_0306.jpg
+昭和漂う町(Showa drifting town): 82.7%
+汚い神社の景色(View of the dirty shrine): 5.5%
+風情のある街(town with atmosphere): 5.3%
+=============
+IMG_0309.jpg
+昭和漂う町(Showa drifting town): 44.6%
+曇り(cloudy): 16.7%
+風情のある街(town with atmosphere): 16.4%
+=============
+IMG_0837.jpg
+汚い神社の景色(View of the dirty shrine): 31.3%
+一面の野原や原っぱ(a field or field): 13.2%
+美術館(museum): 10.6%
+=============
+IMG_0840.jpg
+汚い神社の景色(View of the dirty shrine): 61.8%
+美術館(museum): 11.1%
+綺麗な神社(beautiful shrine): 9.5%
+=============
+IMG_0845.jpg
+汚い神社の景色(View of the dirty shrine): 65.3%
+都会の風景(urban landscape): 8.4%
+高層ビルの建物(skyscraper building): 7.9%
+=============
+IMG_0848.jpg
+汚い神社の景色(View of the dirty shrine): 22.1%
+公園(park): 21.8%
+木がたくさん(lots of trees): 13.2%
+=============
+IMG_0849.jpg
+汚い神社の景色(View of the dirty shrine): 29.3%
+公園(park): 15.7%
+都会の風景(urban landscape): 10.1%
+=============
+IMG_0872.jpg
+朝の海(morning sea): 29.2%
+曇り(cloudy): 19.8%
+綺麗な湖(beautiful lake): 7.9%
+=============
+IMG_0887.jpg
+風情のある街(town with atmosphere): 26.4%
+都会の風景(urban landscape): 12.9%
+曇り(cloudy): 12.1%
+=============
+IMG_1035.jpg
+夕焼けの海(sunset sea): 20.9%
+綺麗な夜景(beautiful night view): 19.1%
+都会の風景(urban landscape): 8.0%
+=============
+IMG_1204.JPG
+昭和漂う町(Showa drifting town): 53.4%
+高層ビルの建物(skyscraper building): 25.2%
+都会の風景(urban landscape): 8.2%
+=============
+IMG_1205.JPG
+昭和漂う町(Showa drifting town): 36.5%
+汚い神社の景色(View of the dirty shrine): 22.5%
+曇り(cloudy): 14.3%
+=============
+IMG_1854.jpg
+美術館(museum): 27.4%
+汚い神社の景色(View of the dirty shrine): 22.4%
+電車が映っている(train is visible): 8.9%
+=============
+IMG_1857.jpg
+汚い神社の景色(View of the dirty shrine): 36.9%
+昭和漂う町(Showa drifting town): 17.4%
+都会の風景(urban landscape): 14.7%
+=============
+IMG_2091.jpg
+高層ビルの建物(skyscraper building): 87.5%
+都会の風景(urban landscape): 8.1%
+曇り(cloudy): 1.5%
+=============
+IMG_2092.jpg
+高層ビルの建物(skyscraper building): 93.0%
+都会の風景(urban landscape): 2.5%
+曇り(cloudy): 1.2%
+=============
+IMG_2098.jpg
+風情のある街(town with atmosphere): 89.7%
+住宅街(Residential area): 5.0%
+都会の風景(urban landscape): 1.9%
+=============
+IMG_2099.jpg
+晴天の日(sunny day): 34.6%
+公園(park): 24.6%
+風情のある街(town with atmosphere): 13.8%
+=============
+IMG_2100.jpg
+公園(park): 46.8%
+風情のある街(town with atmosphere): 16.7%
+晴天の日(sunny day): 15.4%
+=============
+IMG_3733.jpg
+綺麗な夜景(beautiful night view): 32.9%
+都会の風景(urban landscape): 25.6%
+電車が映っている(train is visible): 8.1%
+=============
+IMG_3807.jpg
+綺麗な夜景(beautiful night view): 33.8%
+都会の風景(urban landscape): 27.6%
+昭和漂う町(Showa drifting town): 8.1%
+=============
+IMG_3837.JPG
+綺麗な夜景(beautiful night view): 96.7%
+都会の風景(urban landscape): 0.7%
+船が進んでいる(ship is going): 0.4%
+=============
+IMG_4098.jpg
+都会の風景(urban landscape): 36.2%
+高層ビルの建物(skyscraper building): 17.9%
+昭和漂う町(Showa drifting town): 16.8%
+=============
+IMG_4099.jpg
+都会の風景(urban landscape): 30.8%
+昭和漂う町(Showa drifting town): 22.5%
+高層ビルの建物(skyscraper building): 17.0%
+=============
+IMG_4452.jpg
+白い砂浜(white sand beach): 21.8%
+朝の海(morning sea): 17.2%
+汚い神社の景色(View of the dirty shrine): 14.5%
+=============
+IMG_4460.JPG
+昭和漂う町(Showa drifting town): 31.9%
+都会の風景(urban landscape): 12.7%
+高層ビルの建物(skyscraper building): 11.9%
+=============
+IMG_4583.jpg
+昭和漂う町(Showa drifting town): 26.6%
+小さい(small): 21.0%
+船が進んでいる(ship is going): 12.0%
+=============
+IMG_4591.JPG
+船が進んでいる(ship is going): 18.8%
+公園(park): 13.7%
+昭和漂う町(Showa drifting town): 13.1%
+=============
+IMG_5483.jpg
+木がたくさん(lots of trees): 47.4%
+公園(park): 31.1%
+晴天の日(sunny day): 5.6%
+=============
+IMG_5490.JPG
+木がたくさん(lots of trees): 48.6%
+公園(park): 29.5%
+田舎道(country road): 8.7%
+=============
+IMG_5521.JPG
+自然豊かな畑(A field full of nature): 16.4%
+飛行機飛んでいる(airplane flying): 13.4%
+一面の野原や原っぱ(a field or field): 10.8%
+=============
+IMG_5588.jpg
+風情のある街(town with atmosphere): 27.8%
+昭和漂う町(Showa drifting town): 21.0%
+汚い神社の景色(View of the dirty shrine): 14.9%
+=============
+IMG_5590.jpg
+綺麗な夜景(beautiful night view): 37.6%
+昭和漂う町(Showa drifting town): 21.4%
+都会の風景(urban landscape): 18.9%
+=============
+IMG_5598.jpg
+昭和漂う町(Showa drifting town): 28.0%
+汚い神社の景色(View of the dirty shrine): 18.6%
+朝の海(morning sea): 12.4%
+=============
+IMG_5599.jpg
+昭和漂う町(Showa drifting town): 47.7%
+都会の風景(urban landscape): 16.5%
+風情のある街(town with atmosphere): 7.2%
+=============
+IMG_5600.jpg
+昭和漂う町(Showa drifting town): 28.1%
+朝の海(morning sea): 16.2%
+綺麗な湖(beautiful lake): 9.5%
+=============
+IMG_6136.JPG
+田舎道(country road): 76.1%
+昭和漂う町(Showa drifting town): 8.4%
+水溜まりのある道路(road with puddles): 4.2%
+=============
+IMG_6447.jpg
+飛行機飛んでいる(airplane flying): 33.4%
+一面の野原や原っぱ(a field or field): 23.3%
+電車が映っている(train is visible): 7.1%
+=============
+IMG_6476.jpg
+白い砂浜(white sand beach): 59.7%
+朝の海(morning sea): 11.9%
+曇り(cloudy): 9.7%
+=============
+IMG_6642.jpg
+夕焼けの海(sunset sea): 29.2%
+曇り(cloudy): 22.4%
+綺麗な夜景(beautiful night view): 10.4%
+=============
+IMG_6737.jpg
+夕焼けの海(sunset sea): 39.4%
+曇り(cloudy): 33.2%
+綺麗な夜景(beautiful night view): 4.6%
+=============
+IMG_6747.jpg
+夕焼けの海(sunset sea): 30.0%
+昭和漂う町(Showa drifting town): 13.7%
+都会の風景(urban landscape): 13.1%
+=============
+IMG_6757.jpg
+夕焼けの海(sunset sea): 67.9%
+綺麗な夜景(beautiful night view): 7.9%
+朝の海(morning sea): 6.4%
+=============
+IMG_6758.jpg
+夕焼けの海(sunset sea): 65.4%
+都会の風景(urban landscape): 7.5%
+綺麗な夜景(beautiful night view): 6.2%
+=============
+IMG_6793.jpg
+白い砂浜(white sand beach): 48.6%
+朝の海(morning sea): 18.2%
+昭和漂う町(Showa drifting town): 6.1%
+=============
+IMG_6861.jpg
+朝の海(morning sea): 59.9%
+白い砂浜(white sand beach): 16.6%
+綺麗な湖(beautiful lake): 7.3%
+=============
+IMG_6915.jpg
+汚い神社の景色(View of the dirty shrine): 61.9%
+綺麗な神社(beautiful shrine): 6.9%
+田園の風景(rural landscape): 6.2%
+=============
+IMG_6916.jpg
+昭和漂う町(Showa drifting town): 53.5%
+朝の海(morning sea): 17.6%
+曇り(cloudy): 11.7%
+=============
+IMG_6920.jpg
+田舎道(country road): 73.0%
+水溜まりのある道路(road with puddles): 7.1%
+一面の野原や原っぱ(a field or field): 4.5%
+=============
+IMG_6921.jpg
+田舎道(country road): 32.9%
+田園の風景(rural landscape): 23.3%
+田舎の風景(countryside landscape): 13.9%
+=============
+IMG_6922.jpg
+自然豊かな畑(A field full of nature): 18.7%
+田舎の風景(countryside landscape): 12.1%
+田舎道(country road): 7.9%
+=============
+IMG_6925.jpg
+白い砂浜(white sand beach): 38.0%
+朝の海(morning sea): 34.1%
+曇り(cloudy): 10.7%
+=============
+IMG_6926.jpg
+汚い神社の景色(View of the dirty shrine): 39.6%
+住宅街(Residential area): 22.9%
+昭和漂う町(Showa drifting town): 12.7%
+=============
+IMG_6929.jpg
+朝の海(morning sea): 51.4%
+曇り(cloudy): 18.3%
+汚い神社の景色(View of the dirty shrine): 7.1%
+=============
+IMG_6932.jpg
+電車が映っている(train is visible): 29.4%
+朝の海(morning sea): 24.4%
+汚い神社の景色(View of the dirty shrine): 17.6%
+=============
+IMG_6933.jpg
+田舎道(country road): 56.2%
+昭和漂う町(Showa drifting town): 21.0%
+水溜まりのある道路(road with puddles): 15.6%
+=============
+IMG_6943.jpg
+一面の野原や原っぱ(a field or field): 21.8%
+田舎道(country road): 18.9%
+朝の海(morning sea): 12.6%
+=============
+IMG_6944.jpg
+朝の海(morning sea): 37.6%
+白い砂浜(white sand beach): 15.9%
+昭和漂う町(Showa drifting town): 11.1%
+=============
+IMG_6947.jpg
+朝の海(morning sea): 58.2%
+曇り(cloudy): 9.6%
+白い砂浜(white sand beach): 7.0%
+=============
+IMG_6949.jpg
+田園の風景(rural landscape): 38.3%
+田舎の風景(countryside landscape): 30.3%
+田舎道(country road): 12.4%
+=============
+IMG_6954.jpg
+白い砂浜(white sand beach): 95.6%
+朝の海(morning sea): 0.7%
+綺麗な湖(beautiful lake): 0.7%
+=============
+IMG_6989.jpg
+白い砂浜(white sand beach): 15.9%
+朝の海(morning sea): 15.2%
+田舎の風景(countryside landscape): 11.6%
+=============
+IMG_6992.jpg
+田舎の風景(countryside landscape): 21.3%
+田園の風景(rural landscape): 19.1%
+一面の野原や原っぱ(a field or field): 18.2%
+=============
+IMG_7127.jpg
+白い砂浜(white sand beach): 56.2%
+朝の海(morning sea): 21.0%
+綺麗な湖(beautiful lake): 4.7%
+=============
+IMG_7131.jpg
+白い砂浜(white sand beach): 86.2%
+朝の海(morning sea): 4.6%
+砂場(sandbox): 2.5%
+=============
+IMG_7208.jpg
+朝の海(morning sea): 36.3%
+曇り(cloudy): 21.3%
+白い砂浜(white sand beach): 13.3%
+=============
+IMG_7225.JPG
+白い砂浜(white sand beach): 24.6%
+昭和漂う町(Showa drifting town): 19.5%
+風情のある街(town with atmosphere): 10.8%
+=============
+IMG_7254.jpg
+白い砂浜(white sand beach): 45.3%
+朝の海(morning sea): 34.7%
+昭和漂う町(Showa drifting town): 8.0%
+=============
+IMG_7273.jpg
+美術館(museum): 60.2%
+汚い神社の景色(View of the dirty shrine): 14.5%
+小さい家(small house): 8.3%
+=============
+IMG_7283.JPG
+小さい家(small house): 60.8%
+汚い神社の景色(View of the dirty shrine): 9.9%
+住宅街(Residential area): 5.4%
+=============
+IMG_7319.jpg
+公園(park): 69.2%
+美術館(museum): 6.0%
+砂場(sandbox): 3.4%
+=============
+IMG_7320.jpg
+白い砂浜(white sand beach): 66.8%
+昭和漂う町(Showa drifting town): 5.2%
+朝の海(morning sea): 5.1%
+=============
+IMG_7532.jpg
+汚い神社の景色(View of the dirty shrine): 58.0%
+昭和漂う町(Showa drifting town): 24.2%
+綺麗な神社(beautiful shrine): 8.5%
+=============
+IMG_7548.jpg
+美術館(museum): 28.5%
+汚い神社の景色(View of the dirty shrine): 28.1%
+昭和漂う町(Showa drifting town): 13.7%
+=============
+IMG_7609.jpg
+白い砂浜(white sand beach): 66.0%
+朝の海(morning sea): 19.8%
+昭和漂う町(Showa drifting town): 4.9%
+=============
+IMG_7610.jpg
+白い砂浜(white sand beach): 83.8%
+朝の海(morning sea): 6.4%
+綺麗な湖(beautiful lake): 2.7%
+=============
+IMG_7611.jpg
+白い砂浜(white sand beach): 86.9%
+昭和漂う町(Showa drifting town): 3.0%
+朝の海(morning sea): 2.3%
+=============
+IMG_8229.jpg
+汚い神社の景色(View of the dirty shrine): 39.0%
+綺麗な神社(beautiful shrine): 29.4%
+美術館(museum): 21.5%
+=============
+IMG_8242.jpg
+昭和漂う町(Showa drifting town): 42.2%
+風情のある街(town with atmosphere): 27.2%
+住宅街(Residential area): 5.5%
+=============
+IMG_8390.jpg
+田舎道(country road): 60.9%
+田園の風景(rural landscape): 15.6%
+田舎の風景(countryside landscape): 10.7%
+=============
+IMG_8409.jpg
+汚い神社の景色(View of the dirty shrine): 54.1%
+綺麗な神社(beautiful shrine): 27.6%
+山に囲まれた(surrounded by mountains): 9.7%
+=============
+IMG_8448.jpg
+昭和漂う町(Showa drifting town): 46.3%
+綺麗な神社(beautiful shrine): 8.6%
+田舎の風景(countryside landscape): 6.9%
+=============
+IMG_8505.jpg
+汚い神社の景色(View of the dirty shrine): 59.7%
+綺麗な神社(beautiful shrine): 27.8%
+昭和漂う町(Showa drifting town): 3.1%
+=============
+IMG_8526.jpg
+昭和漂う町(Showa drifting town): 45.5%
+汚い神社の景色(View of the dirty shrine): 18.4%
+砂場(sandbox): 6.2%
+=============
+IMG_8573.jpg
+綺麗な神社(beautiful shrine): 58.6%
+汚い神社の景色(View of the dirty shrine): 23.7%
+赤い建物(red building): 10.5%
+=============
+IMG_8619.jpg
+昭和漂う町(Showa drifting town): 47.3%
+風情のある街(town with atmosphere): 39.2%
+住宅街(Residential area): 7.0%
+=============
+IMG_8621.jpg
+綺麗な神社(beautiful shrine): 45.9%
+汚い神社の景色(View of the dirty shrine): 45.9%
+公園(park): 6.6%
+=============
+IMG_8715.JPG
+汚い神社の景色(View of the dirty shrine): 74.9%
+綺麗な神社(beautiful shrine): 8.4%
+風情のある街(town with atmosphere): 8.4%
+=============
+IMG_8727.jpg
+昭和漂う町(Showa drifting town): 42.4%
+美術館(museum): 41.7%
+公園(park): 4.0%
+=============
+IMG_9576.jpg
+一面の野原や原っぱ(a field or field): 18.1%
+昭和漂う町(Showa drifting town): 15.7%
+電車が映っている(train is visible): 14.5%
+=============
+IMG_9603.png
+綺麗な神社(beautiful shrine): 36.8%
+汚い神社の景色(View of the dirty shrine): 28.2%
+晴天の日(sunny day): 9.6%
+=============
+IMG_9657.jpg
+昭和漂う町(Showa drifting town): 64.7%
+夕焼けの海(sunset sea): 12.5%
+都会の風景(urban landscape): 8.9%
+=============
+F148BEB3-BCD3-463C-A1FE-8CEA5AA54838.JPG
+朝の海(morning sea): 58.2%
+昭和漂う町(Showa drifting town): 27.1%
+白い砂浜(white sand beach): 4.4%
+=============
+GPTempDownload 2.JPG
+住宅街(Residential area): 25.7%
+都会の風景(urban landscape): 17.7%
+車が映っている(car is reflected): 12.5%
+=============
+GPTempDownload.JPG
+綺麗な湖(beautiful lake): 24.3%
+浮かんでいる(floating): 15.0%
+白い砂浜(white sand beach): 14.3%
+=============
+IMG_0811.jpg
+朝の海(morning sea): 15.5%
+風情のある街(town with atmosphere): 11.9%
+一面の野原や原っぱ(a field or field): 11.2%
+=============
+IMG_0836.jpg
+美術館(museum): 18.6%
+大きい(big): 13.2%
+一面の野原や原っぱ(a field or field): 12.6%
+=============
+IMG_0846.jpg
+汚い神社の景色(View of the dirty shrine): 47.6%
+公園(park): 17.8%
+都会の風景(urban landscape): 9.2%
+=============
+IMG_0847.jpg
+汚い神社の景色(View of the dirty shrine): 23.0%
+公園(park): 21.6%
+都会の風景(urban landscape): 21.3%
+=============
+IMG_0862.jpg
+都会の風景(urban landscape): 18.3%
+風情のある街(town with atmosphere): 12.8%
+一面の野原や原っぱ(a field or field): 9.8%
+=============
+IMG_0870.jpg
+昭和漂う町(Showa drifting town): 16.4%
+船が進んでいる(ship is going): 13.6%
+汚い神社の景色(View of the dirty shrine): 10.1%
+=============
+IMG_1033.jpg
+都会の風景(urban landscape): 27.6%
+夕焼けの海(sunset sea): 16.7%
+綺麗な夜景(beautiful night view): 11.2%
+=============
+IMG_1034.jpg
+昭和漂う町(Showa drifting town): 57.8%
+夕焼けの海(sunset sea): 12.3%
+風情のある街(town with atmosphere): 9.6%
+=============
+IMG_1175.JPG
+昭和漂う町(Showa drifting town): 74.6%
+汚い神社の景色(View of the dirty shrine): 6.3%
+公園(park): 5.7%
+=============
+IMG_1190.jpg
+昭和漂う町(Showa drifting town): 21.3%
+都会の風景(urban landscape): 16.8%
+飛行機飛んでいる(airplane flying): 10.7%
+=============
+IMG_1202.JPG
+昭和漂う町(Showa drifting town): 39.3%
+高層ビルの建物(skyscraper building): 16.4%
+汚い神社の景色(View of the dirty shrine): 15.4%
+=============
+IMG_1203.JPG
+飛行機飛んでいる(airplane flying): 19.0%
+都会の風景(urban landscape): 18.4%
+昭和漂う町(Showa drifting town): 15.5%
+=============
+IMG_1640.jpg
+夕焼けの海(sunset sea): 23.3%
+昭和漂う町(Showa drifting town): 22.6%
+都会の風景(urban landscape): 16.3%
+=============
+IMG_1757.JPG
+昭和漂う町(Showa drifting town): 88.8%
+公園(park): 2.3%
+都会の風景(urban landscape): 1.8%
+=============
+IMG_1819.jpg
+飛行機飛んでいる(airplane flying): 79.2%
+夕焼けの海(sunset sea): 7.6%
+綺麗な夜景(beautiful night view): 5.8%
+=============
+IMG_1851.jpg
+朝の海(morning sea): 37.4%
+船が進んでいる(ship is going): 7.8%
+綺麗な神社(beautiful shrine): 6.8%
+=============
+IMG_1852.jpg
+昭和漂う町(Showa drifting town): 25.2%
+朝の海(morning sea): 24.0%
+綺麗な神社(beautiful shrine): 12.1%
+=============
+IMG_1853.jpg
+朝の海(morning sea): 22.1%
+船が進んでいる(ship is going): 15.7%
+昭和漂う町(Showa drifting town): 12.6%
+=============
+IMG_1855.jpg
+都会の風景(urban landscape): 50.4%
+住宅街(Residential area): 11.6%
+高層ビルの建物(skyscraper building): 10.6%
+=============
+IMG_1856.jpg
+汚い神社の景色(View of the dirty shrine): 37.9%
+昭和漂う町(Showa drifting town): 16.0%
+綺麗な神社(beautiful shrine): 10.4%
+=============
+IMG_1860.jpg
+赤い建物(red building): 31.6%
+昭和漂う町(Showa drifting town): 21.7%
+風情のある街(town with atmosphere): 15.9%
+=============
+IMG_2094.jpg
+昭和漂う町(Showa drifting town): 31.2%
+都会の風景(urban landscape): 29.8%
+風情のある街(town with atmosphere): 14.1%
+=============
+IMG_2101.jpg
+昭和漂う町(Showa drifting town): 25.0%
+都会の風景(urban landscape): 25.0%
+住宅街(Residential area): 17.5%
+=============
+IMG_2102.jpg
+昭和漂う町(Showa drifting town): 62.0%
+風情のある街(town with atmosphere): 12.6%
+住宅街(Residential area): 7.6%
+=============
+IMG_2103.jpg
+住宅街(Residential area): 22.6%
+風情のある街(town with atmosphere): 21.6%
+都会の風景(urban landscape): 19.9%
+=============
+IMG_3808.jpg
+綺麗な夜景(beautiful night view): 43.8%
+高層ビルの建物(skyscraper building): 14.4%
+都会の風景(urban landscape): 7.6%
+=============
+IMG_3838.jpg
+綺麗な夜景(beautiful night view): 88.6%
+昭和漂う町(Showa drifting town): 4.3%
+船が進んでいる(ship is going): 2.5%
+=============
+IMG_3864.jpg
+赤い建物(red building): 21.2%
+汚い神社の景色(View of the dirty shrine): 16.5%
+都会の風景(urban landscape): 14.8%
+=============
+IMG_3902.jpg
+綺麗な夜景(beautiful night view): 35.7%
+夕焼けの海(sunset sea): 25.7%
+朝の海(morning sea): 13.5%
+=============
+IMG_4453.jpg
+昭和漂う町(Showa drifting town): 42.1%
+汚い神社の景色(View of the dirty shrine): 13.7%
+高層ビルの建物(skyscraper building): 8.5%
+=============
+IMG_4455.jpg
+高層ビルの建物(skyscraper building): 98.3%
+大きい(big): 0.9%
+赤い建物(red building): 0.2%
+=============
+IMG_4474.JPG
+高層ビルの建物(skyscraper building): 85.9%
+綺麗な夜景(beautiful night view): 8.6%
+大きい(big): 4.3%
+=============
+IMG_5489.JPG
+木がたくさん(lots of trees): 75.0%
+一面の野原や原っぱ(a field or field): 9.8%
+大きい(big): 4.7%
+=============
+IMG_5492.JPG
+汚い神社の景色(View of the dirty shrine): 37.5%
+昭和漂う町(Showa drifting town): 12.2%
+公園(park): 11.6%
+=============
+IMG_5494.JPG
+汚い神社の景色(View of the dirty shrine): 27.7%
+木がたくさん(lots of trees): 22.3%
+公園(park): 9.4%
+=============
+IMG_5497.JPG
+汚い神社の景色(View of the dirty shrine): 34.1%
+昭和漂う町(Showa drifting town): 15.6%
+公園(park): 9.5%
+=============
+IMG_5497.jpg
+飛行機飛んでいる(airplane flying): 60.2%
+一面の野原や原っぱ(a field or field): 21.1%
+山に囲まれた(surrounded by mountains): 5.2%
+=============
+IMG_5579.jpg
+赤い建物(red building): 24.2%
+晴天の日(sunny day): 21.0%
+都会の風景(urban landscape): 17.4%
+=============
+IMG_5589.jpg
+昭和漂う町(Showa drifting town): 35.3%
+綺麗な夜景(beautiful night view): 33.7%
+風情のある街(town with atmosphere): 10.4%
+=============
+IMG_5597.jpg
+汚い神社の景色(View of the dirty shrine): 26.8%
+昭和漂う町(Showa drifting town): 21.2%
+住宅街(Residential area): 7.8%
+=============
+IMG_5604.jpg
+昭和漂う町(Showa drifting town): 47.1%
+汚い神社の景色(View of the dirty shrine): 10.3%
+風情のある街(town with atmosphere): 6.0%
+=============
+IMG_6137.JPG
+一面の野原や原っぱ(a field or field): 34.9%
+田舎の風景(countryside landscape): 28.0%
+田園の風景(rural landscape): 23.6%
+=============
+IMG_6454.jpg
+大きい(big): 21.0%
+朝の海(morning sea): 17.1%
+白い砂浜(white sand beach): 13.3%
+=============
+IMG_6623.jpg
+夕焼けの海(sunset sea): 44.4%
+都会の風景(urban landscape): 17.1%
+昭和漂う町(Showa drifting town): 12.7%
+=============
+IMG_6659.jpg
+昭和漂う町(Showa drifting town): 30.0%
+川が流れている(the river is flowing): 18.2%
+電車が映っている(train is visible): 12.3%
+=============
+IMG_6730.jpg
+白い砂浜(white sand beach): 77.7%
+朝の海(morning sea): 7.2%
+夕焼けの海(sunset sea): 6.6%
+=============
+IMG_6734.jpg
+白い砂浜(white sand beach): 36.2%
+朝の海(morning sea): 17.6%
+都会の風景(urban landscape): 7.5%
+=============
+IMG_6773.jpg
+昭和漂う町(Showa drifting town): 23.0%
+田舎道(country road): 13.7%
+水溜まりのある道路(road with puddles): 7.0%
+=============
+IMG_6794.jpg
+白い砂浜(white sand beach): 79.4%
+朝の海(morning sea): 12.2%
+晴天の日(sunny day): 1.2%
+=============
+IMG_6796.jpg
+朝の海(morning sea): 50.2%
+綺麗な湖(beautiful lake): 18.2%
+白い砂浜(white sand beach): 13.1%
+=============
+IMG_6850.jpg
+朝の海(morning sea): 74.5%
+曇り(cloudy): 9.3%
+白い砂浜(white sand beach): 2.7%
+=============
+IMG_6855.jpg
+飛行機飛んでいる(airplane flying): 74.0%
+朝の海(morning sea): 3.3%
+一面の野原や原っぱ(a field or field): 2.8%
+=============
+IMG_6858.jpg
+白い砂浜(white sand beach): 80.8%
+朝の海(morning sea): 13.0%
+昭和漂う町(Showa drifting town): 2.1%
+=============
+IMG_6859.jpg
+白い砂浜(white sand beach): 43.6%
+朝の海(morning sea): 11.7%
+昭和漂う町(Showa drifting town): 8.9%
+=============
+IMG_6917.jpg
+昭和漂う町(Showa drifting town): 82.0%
+風情のある街(town with atmosphere): 4.2%
+汚い神社の景色(View of the dirty shrine): 3.7%
+=============
+IMG_6919.jpg
+水溜まりのある道路(road with puddles): 72.6%
+田舎道(country road): 12.6%
+昭和漂う町(Showa drifting town): 8.1%
+=============
+IMG_6923.jpg
+田舎道(country road): 76.4%
+田園の風景(rural landscape): 5.0%
+水溜まりのある道路(road with puddles): 4.9%
+=============
+IMG_6928.jpg
+田舎道(country road): 89.5%
+昭和漂う町(Showa drifting town): 2.8%
+一面の野原や原っぱ(a field or field): 2.0%
+=============
+IMG_6931.jpg
+朝の海(morning sea): 47.9%
+曇り(cloudy): 26.5%
+田舎の風景(countryside landscape): 3.8%
+=============
+IMG_6946.jpg
+朝の海(morning sea): 41.7%
+曇り(cloudy): 9.3%
+昭和漂う町(Showa drifting town): 8.6%
+=============
+IMG_6948.jpg
+朝の海(morning sea): 28.0%
+田舎の風景(countryside landscape): 18.3%
+一面の野原や原っぱ(a field or field): 9.5%
+=============
+IMG_6955.jpg
+白い砂浜(white sand beach): 92.8%
+綺麗な湖(beautiful lake): 2.1%
+朝の海(morning sea): 1.3%
+=============
+IMG_6990.jpg
+白い砂浜(white sand beach): 16.6%
+一面の野原や原っぱ(a field or field): 15.6%
+田園の風景(rural landscape): 11.6%
+=============
+IMG_7001.jpg
+朝の海(morning sea): 54.4%
+船が進んでいる(ship is going): 12.5%
+昭和漂う町(Showa drifting town): 10.7%
+=============
+IMG_7002.jpg
+昭和漂う町(Showa drifting town): 23.1%
+朝の海(morning sea): 22.1%
+汚い神社の景色(View of the dirty shrine): 15.4%
+=============
+IMG_7005.jpg
+晴天の日(sunny day): 59.3%
+曇り(cloudy): 10.5%
+一面の野原や原っぱ(a field or field): 6.4%
+=============
+IMG_7107.jpg
+住宅街(Residential area): 28.6%
+公園(park): 22.3%
+風情のある街(town with atmosphere): 10.1%
+=============
+IMG_7185.jpg
+曇り(cloudy): 30.3%
+朝の海(morning sea): 18.4%
+綺麗な神社(beautiful shrine): 10.8%
+=============
+IMG_7188.jpg
+朝の海(morning sea): 55.9%
+田舎の風景(countryside landscape): 6.7%
+風情のある街(town with atmosphere): 5.1%
+=============
+IMG_7206.jpg
+白い砂浜(white sand beach): 89.3%
+朝の海(morning sea): 2.2%
+曇り(cloudy): 2.0%
+=============
+IMG_7207.jpg
+朝の海(morning sea): 35.5%
+白い砂浜(white sand beach): 22.6%
+曇り(cloudy): 16.8%
+=============
+IMG_7211.jpg
+白い砂浜(white sand beach): 88.5%
+朝の海(morning sea): 3.5%
+住宅街(Residential area): 0.9%
+=============
+IMG_7212.jpg
+白い砂浜(white sand beach): 94.7%
+朝の海(morning sea): 1.9%
+綺麗な湖(beautiful lake): 1.2%
+=============
+IMG_7213.jpg
+白い砂浜(white sand beach): 82.6%
+朝の海(morning sea): 5.1%
+一面の野原や原っぱ(a field or field): 1.6%
+=============
+IMG_7214.jpg
+白い砂浜(white sand beach): 90.6%
+朝の海(morning sea): 3.3%
+曇り(cloudy): 1.8%
+=============
+IMG_7251.jpg
+朝の海(morning sea): 54.2%
+夕焼けの海(sunset sea): 27.6%
+白い砂浜(white sand beach): 4.3%
+=============
+IMG_7252.jpg
+夕焼けの海(sunset sea): 67.5%
+朝の海(morning sea): 23.3%
+昭和漂う町(Showa drifting town): 2.7%
+=============
+IMG_7253.jpg
+朝の海(morning sea): 71.6%
+白い砂浜(white sand beach): 10.2%
+曇り(cloudy): 3.3%
+=============
+IMG_7255.jpg
+朝の海(morning sea): 49.3%
+夕焼けの海(sunset sea): 33.4%
+曇り(cloudy): 5.7%
+=============
+IMG_7513.jpg
+砂場(sandbox): 18.6%
+電車が走っている(the train is running): 13.6%
+一面の野原や原っぱ(a field or field): 9.5%
+=============
+IMG_7546.jpg
+汚い神社の景色(View of the dirty shrine): 63.0%
+昭和漂う町(Showa drifting town): 10.6%
+美術館(museum): 8.5%
+=============
+IMG_7549.jpg
+昭和漂う町(Showa drifting town): 42.7%
+風情のある街(town with atmosphere): 32.2%
+綺麗な夜景(beautiful night view): 8.5%
+=============
+IMG_7870.jpg
+一面の野原や原っぱ(a field or field): 22.4%
+綺麗な湖(beautiful lake): 18.8%
+白い砂浜(white sand beach): 14.9%
+=============
+IMG_8254.jpg
+綺麗な夜景(beautiful night view): 71.2%
+昭和漂う町(Showa drifting town): 18.6%
+風情のある街(town with atmosphere): 6.7%
+=============
+IMG_8404.jpg
+汚い神社の景色(View of the dirty shrine): 40.8%
+綺麗な神社(beautiful shrine): 21.9%
+公園(park): 11.3%
+=============
+IMG_8449.jpg
+白い砂浜(white sand beach): 21.3%
+田舎の風景(countryside landscape): 18.0%
+昭和漂う町(Showa drifting town): 15.4%
+=============
+IMG_8466.jpg
+汚い神社の景色(View of the dirty shrine): 38.0%
+綺麗な神社(beautiful shrine): 35.1%
+昭和漂う町(Showa drifting town): 9.0%
+=============
+IMG_8496.jpg
+夕焼けの海(sunset sea): 84.4%
+朝の海(morning sea): 7.5%
+綺麗な湖(beautiful lake): 1.9%
+=============
+IMG_8527.jpg
+昭和漂う町(Showa drifting town): 62.8%
+汚い神社の景色(View of the dirty shrine): 25.0%
+綺麗な神社(beautiful shrine): 4.0%
+=============
+IMG_8532.jpg
+砂場(sandbox): 71.7%
+汚い神社の景色(View of the dirty shrine): 13.5%
+凍った池(frozen pond): 1.4%
+=============
+IMG_8545.jpg
+汚い神社の景色(View of the dirty shrine): 43.0%
+昭和漂う町(Showa drifting town): 34.0%
+綺麗な神社(beautiful shrine): 15.1%
+=============
+IMG_8571.jpg
+綺麗な神社(beautiful shrine): 47.9%
+汚い神社の景色(View of the dirty shrine): 32.4%
+赤い建物(red building): 10.5%
+=============
+IMG_8625.jpg
+汚い神社の景色(View of the dirty shrine): 56.2%
+綺麗な神社(beautiful shrine): 39.3%
+昭和漂う町(Showa drifting town): 2.1%
+=============
+IMG_8626.jpg
+綺麗な神社(beautiful shrine): 49.3%
+汚い神社の景色(View of the dirty shrine): 20.6%
+昭和漂う町(Showa drifting town): 15.3%
+=============
+IMG_8786.jpg
+船が進んでいる(ship is going): 42.1%
+美術館(museum): 24.0%
+昭和漂う町(Showa drifting town): 12.4%
+=============
+IMG_9615.png
+美術館(museum): 55.8%
+一面の野原や原っぱ(a field or field): 15.3%
+砂場(sandbox): 8.7%
+=============
+IMG_9649.png
+美術館(museum): 43.8%
+一面の野原や原っぱ(a field or field): 23.1%
+砂場(sandbox): 10.7%
