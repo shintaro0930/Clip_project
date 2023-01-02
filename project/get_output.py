@@ -87,4 +87,4 @@ else:
         print(f'入力文に合う確率は{max_prob:0.2f}%です。その画像は\n')
         for image in save_images:
             print(image)
-            f.write(f'{image}')
+            f.write(f'{image}\n')
