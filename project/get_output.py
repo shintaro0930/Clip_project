@@ -6,9 +6,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 text_base_dir = '/work/texts/'
 
-# ReLU function
-def relu(x:int)->int:
-    return x * (x > 0.0)
 
 # remove '\r' or '\r\n' and punctuations
 def remove_punctuation(input):
@@ -73,11 +70,12 @@ for (line_list,prob_list) in zip(line_list_list, prob_list_list):
     prob_list.pop(0)
     output_avg = 0
     for (cos, prob) in zip(cos_list, prob_list):
-        int_prob = float(prob) / 100 + 1
-        tmp_avg = int_prob * cos
+        float_prob = float(prob) / 100 + 1
+        tmp_avg = float_prob * cos
         output_avg += tmp_avg
     output_avg = output_avg  * 100
-    print(output_avg)
+    if(output_avg == 0):
+        continue
     output_avg = np.round(output_avg, decimals=2)
     print(f'{image_name}と{input_text}の類似度: {output_avg}%')
     if(output_avg > max_prob):
@@ -87,8 +85,10 @@ for (line_list,prob_list) in zip(line_list_list, prob_list_list):
     elif (output_avg == max_prob):
         save_images.append(image_name)
 
+
+
 if(max_prob == 0):
-    print('入力文に合う画像はありません')え
+    print('入力文に合う画像はありません')
 else:
     with open(f'{text_base_dir}prob_output.txt', 'a', encoding='utf-8', newline='\n') as f:
         f.write('=============\n')
