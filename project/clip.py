@@ -73,7 +73,7 @@ for i, image in enumerate(images):
         index = np.argsort(probs)
     
     # ソートした上位3つのテキスト文章をlistに追加 
-    with open('clip_output.txt', 'a', encoding='utf-8', newline='\n') as f:
+    with open(f'{text_base_dir}clip_output.txt', 'a', encoding='utf-8', newline='\n') as f:
       f.write('=============\n')
       f.write(f'{save_image}\n')
       print("=============")

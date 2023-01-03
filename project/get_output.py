@@ -4,6 +4,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 from janome.tokenizer import Tokenizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 
+text_base_dir = '/work/texts/'
+
 # ReLU function
 def relu(x:int)->int:
     return x * (x > 0.0)
@@ -81,7 +83,7 @@ for (line_list,prob_list) in zip(line_list_list, prob_list_list):
 if(max_prob == 0):
     print('入力文に合う画像はありません')
 else:
-    with open('prob_output.txt', 'a', encoding='utf-8', newline='\n') as f:
+    with open(f'{text_base_dir}prob_output.txt', 'a', encoding='utf-8', newline='\n') as f:
         f.write('=============\n')
         f.write(f'入力文に合う確率は{max_prob:0.2f}%です。その画像は\n')
         print(f'入力文に合う確率は{max_prob:0.2f}%です。その画像は\n')
