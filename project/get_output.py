@@ -36,7 +36,7 @@ input_text = input("input:")
 # input_text = "夜景"
 input_text = remove_punctuation(input_text)
 
-with open('output.txt') as f:
+with open(f'{text_base_dir}clip_output.txt') as f:
     lines:list = f.readlines()
 
 line_list = []
@@ -88,5 +88,5 @@ else:
         f.write(f'入力文に合う確率は{max_prob:0.2f}%です。その画像は\n')
         print(f'入力文に合う確率は{max_prob:0.2f}%です。その画像は\n')
         for image in save_images:
-            print(image)
+            print(f'http://localhost:5500/project/used_pictures/{image}')
             f.write(f'{image}\n')
