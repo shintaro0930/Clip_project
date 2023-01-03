@@ -74,12 +74,12 @@ for i, image in enumerate(images):
     # ソートした上位3つのテキスト文章をlistに追加 
     with open(f'{text_base_dir}clip_output.txt', 'a', encoding='utf-8', newline='\n') as f:
       f.write('=============\n')
-      f.write(f'http://localhost:5500/project/used_pictures/{save_image}\n')
+      f.write(f'{save_image}\n')
       print("=============")
       print(f'http://localhost:5500/project/used_pictures/{save_image}')
       for i in reversed(range(sorted_probs.shape[-1] - 3, sorted_probs.shape[-1])):
           clip_text.append(texts_jp[index[0, i]])
-          f.write(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%\n')
+          f.write(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}\n')
 
           ## 写真にマッチするテキストとその確率
           print(f'{texts_jp[index[0, i]]}({texts_en[index[0, i]]}): {sorted_probs[0, i]*100:0.1f}%')

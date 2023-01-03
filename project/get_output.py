@@ -57,8 +57,8 @@ for line in lines:
     if(count % 4 == 0):
         line_list_list.append(line_list)
         prob_list_list.append(prob_list)
-        line_list = []
-        prob_list = []
+        line_list = []          # ['IMG_6921.jpg', '田舎道(country road)', '田園の風景(rural landscape)', '田舎の風景(countryside landscape)']
+        prob_list = []          # ['IMG_2092.jpg', '93.0%', '2.5%', '1.2%']
 
 
 max_prob = 0
@@ -70,7 +70,14 @@ for (line_list,prob_list) in zip(line_list_list, prob_list_list):
     cos_sim = np.round(cosine_similarity(vecs_array(line_list), vecs_array(line_list)), len(line_list))
     cos_list = cos_sim[-1].tolist()           # .tolist()で numpy.ndarray --> list
     cos_list.pop(-1)
-    output_avg = sum(cos_list)/ len(cos_list) * 100      # %表示
+    prob_list.pop(0)
+    output_avg = 0
+    for (cos, prob) in zip(cos_list, prob_list):
+        int_prob = float(prob) / 100 + 1
+        tmp_avg = int_prob * cos
+        output_avg += tmp_avg
+    output_avg = output_avg  * 100
+    print(output_avg)
     output_avg = np.round(output_avg, decimals=2)
     print(f'{image_name}と{input_text}の類似度: {output_avg}%')
     if(output_avg > max_prob):
@@ -81,7 +88,7 @@ for (line_list,prob_list) in zip(line_list_list, prob_list_list):
         save_images.append(image_name)
 
 if(max_prob == 0):
-    print('入力文に合う画像はありません')
+    print('入力文に合う画像はありません')え
 else:
     with open(f'{text_base_dir}prob_output.txt', 'a', encoding='utf-8', newline='\n') as f:
         f.write('=============\n')
