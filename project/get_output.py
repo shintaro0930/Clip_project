@@ -74,7 +74,7 @@ for (line_list,prob_list) in zip(line_list_list, prob_list_list):
         tmp_avg = float_prob * cos
         output_avg += tmp_avg
     output_avg = output_avg  * 100
-    if(output_avg == 0):
+    if(output_avg == 0):            # プロセスの高速化
         continue
     output_avg = np.round(output_avg, decimals=2)
     print(f'{image_name}と{input_text}の類似度: {output_avg}%')
