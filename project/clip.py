@@ -12,7 +12,8 @@ import numpy as np
 
 # choose the device 
 device = "cuda" if torch.cuda.is_available() else "cpu"
-model, preprocess = clip.load("ViT-B/32", device=device)
+# model, preprocess = clip.load("ViT-B/32", device=device)
+model, preprocess = clip.load("ViT-L/14", device=device)
 
 # initialize base directory
 text_base_dir = '/work/texts/'

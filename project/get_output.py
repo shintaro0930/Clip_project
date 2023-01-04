@@ -73,7 +73,7 @@ for (line_list,prob_list) in zip(line_list_list, prob_list_list):
         float_prob = float(prob) / 100 + 1
         tmp_avg = float_prob * cos
         output_avg += tmp_avg
-    output_avg = output_avg  * 100
+    output_avg = output_avg  * 100 / len(cos_list)
     if(output_avg == 0):            # プロセスの高速化
         continue
     output_avg = np.round(output_avg, decimals=2)

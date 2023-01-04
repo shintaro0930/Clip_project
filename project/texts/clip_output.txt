@@ -1,995 +1,995 @@
 =============
 GPTempDownload 3.JPG
-白い砂浜(white sand beach): 48.2
-砂浜に車がある(there is a car on the beach): 23.9
-海が遠くに見える(the sea looks far away): 7.9
+白い砂浜(white sand beach): 50.9
+朝方の海(morning sea): 20.6
+海が遠くに見える(the sea looks far away): 7.0
 =============
 GPTempDownload 4.JPG
-砂場が映っている(sandbox is reflected): 26.2
-港の景色(harbor view): 13.8
-湖が映っている(the lake is reflected): 11.3
+港の景色(harbor view): 19.3
+砂場が映っている(sandbox is reflected): 9.9
+湖が映っている(the lake is reflected): 9.1
 =============
 IMG_0020.jpg
-綺麗な夜景(beautiful night view): 67.4
-昭和漂う町(Showa drifting town): 5.0
-夜の空(night sky): 4.7
+綺麗な夜景(beautiful night view): 39.6
+京都のような(like Kyoto): 31.8
+昭和漂う町(Showa drifting town): 10.5
 =============
 IMG_0024.JPG
-綺麗な夜景(beautiful night view): 62.7
-昭和漂う町(Showa drifting town): 21.7
-風情のある街(town with atmosphere): 3.7
+昭和漂う町(Showa drifting town): 35.5
+京都のような(like Kyoto): 28.6
+綺麗な夜景(beautiful night view): 18.4
 =============
 IMG_0171.jpg
-大きい建物(big building): 43.7
-高層ビルの建物(skyscraper building): 9.4
-綺麗な夜景(beautiful night view): 9.2
+京都のような(like Kyoto): 19.1
+イルミネーションが映った(illumination was reflected): 16.1
+大きい建物(big building): 15.9
 =============
 IMG_0172.jpg
-広い公園(large park): 31.8
-綺麗な夜景(beautiful night view): 24.8
-イルミネーションが映った(illumination was reflected): 8.0
+綺麗な夜景(beautiful night view): 50.8
+イルミネーションが映った(illumination was reflected): 16.5
+都会の風景(urban landscape): 5.4
 =============
 IMG_0305.jpg
-昭和漂う町(Showa drifting town): 79.3
-風情のある街(town with atmosphere): 5.7
-港の景色(harbor view): 3.0
+昭和漂う町(Showa drifting town): 84.7
+京都のような(like Kyoto): 7.6
+温泉の湯けむり(Hot spring steam): 1.2
 =============
 IMG_0306.jpg
-昭和漂う町(Showa drifting town): 80.4
-風情のある街(town with atmosphere): 5.1
-曇りの日(cloudy day): 3.3
+昭和漂う町(Showa drifting town): 83.9
+京都のような(like Kyoto): 8.8
+温泉の湯けむり(Hot spring steam): 2.3
 =============
 IMG_0309.jpg
-昭和漂う町(Showa drifting town): 34.6
-曇りの日(cloudy day): 24.2
-風情のある街(town with atmosphere): 12.7
+京都のような(like Kyoto): 34.4
+昭和漂う町(Showa drifting town): 29.9
+曇りの日(cloudy day): 13.9
 =============
 IMG_0837.jpg
-空港のような建物(a building that looks like an airport): 32.5
-空港内(inside the airport): 17.7
-大きい建物(big building): 11.4
+河川敷が見える(You can see the riverbed): 16.5
+モニュメントの様(like a monument): 11.4
+木がたくさんある(there are a lot of trees): 10.8
 =============
 IMG_0840.jpg
-モニュメントの様(like a monument): 25.8
-大きい建物(big building): 20.7
-広い公園(large park): 9.9
+昼の空(daytime sky): 16.5
+綺麗な神社(beautiful shrine): 14.6
+大きい建物(big building): 13.3
 =============
 IMG_0845.jpg
-景色の良い(scenic): 31.5
-広い公園(large park): 10.4
-モニュメントの様(like a monument): 9.9
+綺麗な神社(beautiful shrine): 54.4
+景色の良い(scenic): 6.1
+汚い神社(dirty shrine): 5.1
 =============
 IMG_0848.jpg
-広い公園(large park): 34.8
-景色の良い(scenic): 25.5
-木がたくさんある(there are a lot of trees): 4.7
+木がたくさんある(there are a lot of trees): 26.3
+河川敷が見える(You can see the riverbed): 14.8
+ベンチが写っている(there is a bench): 10.0
 =============
 IMG_0849.jpg
-景色の良い(scenic): 30.0
-広い公園(large park): 19.3
-茶色の山(brown mountain): 5.7
+木がたくさんある(there are a lot of trees): 23.4
+景色の良い(scenic): 13.6
+河川敷が見える(You can see the riverbed): 12.7
 =============
 IMG_0872.jpg
-港の景色(harbor view): 48.7
-海が遠くに見える(the sea looks far away): 17.4
-管制塔が写っている(A control tower is visible): 5.6
+港の景色(harbor view): 24.9
+電車からの風景(Scenery from the train): 22.3
+曇りの日(cloudy day): 9.3
 =============
 IMG_0887.jpg
-曇りの日(cloudy day): 20.8
-風情のある街(town with atmosphere): 12.6
-湯けむりが立っている(the steam is standing): 10.8
+港の景色(harbor view): 29.0
+曇りの日(cloudy day): 15.0
+風情のある街(town with atmosphere): 11.0
 =============
 IMG_1035.jpg
-火山(volcano): 14.2
-夕焼けの海(sunset sea): 10.0
-昼の空(daytime sky): 9.7
+夕焼けの海(sunset sea): 71.3
+京都のような(like Kyoto): 3.5
+イルミネーションが映った(illumination was reflected): 2.9
 =============
 IMG_1204.JPG
-昭和漂う町(Showa drifting town): 49.3
-高層ビルの建物(skyscraper building): 23.3
-都会の風景(urban landscape): 7.6
+高層ビルの建物(skyscraper building): 25.8
+昼の空(daytime sky): 23.1
+京都のような(like Kyoto): 14.7
 =============
 IMG_1205.JPG
-昼の空(daytime sky): 27.7
-昭和漂う町(Showa drifting town): 25.2
-曇りの日(cloudy day): 16.0
+昼の空(daytime sky): 32.3
+京都のような(like Kyoto): 20.6
+曇りの日(cloudy day): 17.1
 =============
 IMG_1854.jpg
-モニュメントの様(like a monument): 28.4
-大きい建物(big building): 13.2
-美術館(museum): 10.1
+昭和漂う町(Showa drifting town): 70.7
+洋風な城がある(there is a western style castle): 15.1
+管制塔が写っている(A control tower is visible): 5.2
 =============
 IMG_1857.jpg
-昭和漂う町(Showa drifting town): 14.7
-都会の風景(urban landscape): 12.0
-景色の良い(scenic): 8.4
+昭和漂う町(Showa drifting town): 44.2
+洋風な城がある(there is a western style castle): 20.6
+大きな岩(big rock): 6.5
 =============
 IMG_2091.jpg
-高層ビルの建物(skyscraper building): 61.3
-大きい建物(big building): 15.7
-昼の空(daytime sky): 6.0
+大きい建物(big building): 36.8
+昼の空(daytime sky): 20.6
+高層ビルの建物(skyscraper building): 15.3
 =============
 IMG_2092.jpg
-高層ビルの建物(skyscraper building): 60.4
-大きい建物(big building): 19.6
-昼の空(daytime sky): 6.1
+大きい建物(big building): 39.1
+高層ビルの建物(skyscraper building): 31.9
+昼の空(daytime sky): 7.8
 =============
 IMG_2098.jpg
-風情のある街(town with atmosphere): 87.8
-住宅街(Residential area): 4.8
-都会の風景(urban landscape): 1.9
+昭和漂う町(Showa drifting town): 75.3
+京都のような(like Kyoto): 12.9
+風情のある街(town with atmosphere): 2.8
 =============
 IMG_2099.jpg
-広い公園(large park): 28.4
-晴天の日(sunny day): 25.0
-風情のある街(town with atmosphere): 9.8
+昭和漂う町(Showa drifting town): 25.1
+昼の空(daytime sky): 21.8
+京都のような(like Kyoto): 13.9
 =============
 IMG_2100.jpg
-広い公園(large park): 46.1
-風情のある街(town with atmosphere): 12.4
-晴天の日(sunny day): 11.7
+昭和漂う町(Showa drifting town): 39.7
+京都のような(like Kyoto): 21.9
+昼の空(daytime sky): 13.3
 =============
 IMG_3733.jpg
-イルミネーションが映った(illumination was reflected): 31.3
-綺麗な夜景(beautiful night view): 15.0
-都会の風景(urban landscape): 11.9
+イルミネーションが映った(illumination was reflected): 29.1
+京都のような(like Kyoto): 25.3
+綺麗な夜景(beautiful night view): 14.4
 =============
 IMG_3807.jpg
-イルミネーションが映った(illumination was reflected): 22.8
-綺麗な夜景(beautiful night view): 20.1
-都会の風景(urban landscape): 16.4
+綺麗な夜景(beautiful night view): 32.8
+イルミネーションが映った(illumination was reflected): 18.7
+大きい建物(big building): 14.1
 =============
 IMG_3837.JPG
-綺麗な夜景(beautiful night view): 69.3
-綺麗な夜空(beautiful night sky): 9.4
-流れ星が見えそうな(I can see a shooting star): 5.9
+綺麗な夜景(beautiful night view): 74.6
+イルミネーションが映った(illumination was reflected): 6.9
+港の景色(harbor view): 4.6
 =============
 IMG_4098.jpg
-港の景色(harbor view): 57.7
-都会の風景(urban landscape): 11.4
-大きい建物(big building): 6.2
+港の景色(harbor view): 48.2
+朝方の海(morning sea): 8.3
+昼の空(daytime sky): 7.5
 =============
 IMG_4099.jpg
-港の景色(harbor view): 40.8
-都会の風景(urban landscape): 13.5
-昭和漂う町(Showa drifting town): 10.2
+港の景色(harbor view): 41.9
+朝方の海(morning sea): 10.3
+昼の空(daytime sky): 6.0
 =============
 IMG_4452.jpg
-管制塔が写っている(A control tower is visible): 45.6
-港の景色(harbor view): 32.8
-モニュメントの様(like a monument): 3.5
+港の景色(harbor view): 19.5
+海が遠くに見える(the sea looks far away): 11.5
+管制塔が写っている(A control tower is visible): 10.3
 =============
 IMG_4460.JPG
-港の景色(harbor view): 36.4
-管制塔が写っている(A control tower is visible): 14.2
-昭和漂う町(Showa drifting town): 11.6
+港の景色(harbor view): 21.4
+昼の空(daytime sky): 15.2
+朝方の海(morning sea): 11.8
 =============
 IMG_4583.jpg
-昭和漂う町(Showa drifting town): 30.5
-イルミネーションが映った(illumination was reflected): 11.6
-温泉の湯けむり(Hot spring steam): 7.4
+京都のような(like Kyoto): 41.9
+昭和漂う町(Showa drifting town): 27.5
+和風の(Japanese style): 6.2
 =============
 IMG_4591.JPG
-昭和漂う町(Showa drifting town): 14.7
-晴天の日(sunny day): 10.1
-温泉の湯けむり(Hot spring steam): 7.4
+京都のような(like Kyoto): 33.9
+和風の(Japanese style): 11.0
+昭和漂う町(Showa drifting town): 10.0
 =============
 IMG_5483.jpg
-広い公園(large park): 40.0
-木がたくさんある(there are a lot of trees): 38.2
-大きい木(big tree): 3.9
+京都のような(like Kyoto): 73.0
+木がたくさんある(there are a lot of trees): 16.0
+広い公園(large park): 3.0
 =============
 IMG_5490.JPG
-広い公園(large park): 42.1
-木がたくさんある(there are a lot of trees): 33.3
-大きい木(big tree): 5.7
+京都のような(like Kyoto): 41.1
+木がたくさんある(there are a lot of trees): 31.0
+広い公園(large park): 15.1
 =============
 IMG_5521.JPG
-田園風景(rural scenery): 11.8
-昼の空(daytime sky): 10.6
-紅葉(autumn leaves): 7.1
+京都のような(like Kyoto): 78.6
+昭和漂う町(Showa drifting town): 12.2
+木がたくさんある(there are a lot of trees): 0.9
 =============
 IMG_5588.jpg
-風情のある街(town with atmosphere): 24.7
-昭和漂う町(Showa drifting town): 18.9
-大きい建物(big building): 10.4
+京都のような(like Kyoto): 40.2
+昭和漂う町(Showa drifting town): 24.0
+綺麗な神社(beautiful shrine): 9.5
 =============
 IMG_5590.jpg
-綺麗な夜景(beautiful night view): 28.5
-昭和漂う町(Showa drifting town): 16.8
-都会の風景(urban landscape): 14.6
-=============
-IMG_5598.jpg
-海が遠くに見える(the sea looks far away): 23.6
-昭和漂う町(Showa drifting town): 17.3
-港の景色(harbor view): 7.9
-=============
-IMG_5599.jpg
-港の景色(harbor view): 66.8
-昭和漂う町(Showa drifting town): 12.2
+昭和漂う町(Showa drifting town): 55.6
+綺麗な夜景(beautiful night view): 25.4
 都会の風景(urban landscape): 4.2
 =============
+IMG_5598.jpg
+昭和漂う町(Showa drifting town): 27.7
+綺麗な神社(beautiful shrine): 15.3
+海が遠くに見える(the sea looks far away): 14.4
+=============
+IMG_5599.jpg
+昭和漂う町(Showa drifting town): 22.6
+綺麗な神社(beautiful shrine): 19.3
+港の景色(harbor view): 8.8
+=============
 IMG_5600.jpg
-港の景色(harbor view): 56.7
-海が遠くに見える(the sea looks far away): 14.3
-昭和漂う町(Showa drifting town): 6.1
-=============
-IMG_6136.JPG
-田舎の道(country road): 61.8
-田園風景(rural scenery): 20.4
-昭和漂う町(Showa drifting town): 6.8
-=============
-IMG_6447.jpg
-空港内(inside the airport): 49.0
-空港のような建物(a building that looks like an airport): 33.7
-管制塔が写っている(A control tower is visible): 15.9
-=============
-IMG_6476.jpg
-白い砂浜(white sand beach): 44.6
-曇りの日(cloudy day): 16.7
-朝方の海(morning sea): 8.8
-=============
-IMG_6642.jpg
-朝の空(morning sky): 57.2
-昼の空(daytime sky): 23.8
-夕焼けの海(sunset sea): 4.7
-=============
-IMG_6737.jpg
-朝の空(morning sky): 36.9
-昼の空(daytime sky): 35.2
-綺麗な夜空(beautiful night sky): 11.4
-=============
-IMG_6747.jpg
-昼の空(daytime sky): 49.1
-朝の空(morning sky): 26.3
-夕焼けの海(sunset sea): 6.0
-=============
-IMG_6757.jpg
-朝の空(morning sky): 32.7
-夕焼けの海(sunset sea): 26.2
-昼の空(daytime sky): 20.8
-=============
-IMG_6758.jpg
-夕焼けの海(sunset sea): 35.1
-昼の空(daytime sky): 15.6
-朝の空(morning sky): 11.8
-=============
-IMG_6793.jpg
-大きな岩(big rock): 33.2
-白い砂浜(white sand beach): 21.8
-朝方の海(morning sea): 8.1
-=============
-IMG_6861.jpg
-朝方の海(morning sea): 35.5
-港の景色(harbor view): 28.5
-白い砂浜(white sand beach): 9.7
-=============
-IMG_6915.jpg
-大きな岩(big rock): 56.9
-管制塔が写っている(A control tower is visible): 7.2
-モニュメントの様(like a monument): 4.9
-=============
-IMG_6916.jpg
-昭和漂う町(Showa drifting town): 30.8
-港の景色(harbor view): 17.5
-朝方の海(morning sea): 10.0
-=============
-IMG_6920.jpg
-田舎の道(country road): 60.2
-田園風景(rural scenery): 13.4
-車が走っている(the car is running): 5.3
-=============
-IMG_6921.jpg
-田園風景(rural scenery): 32.5
-田舎の道(country road): 18.2
-景色の良い(scenic): 8.6
-=============
-IMG_6922.jpg
-景色の良い(scenic): 31.0
-田園風景(rural scenery): 10.2
-自然豊か(rich in nature): 7.8
-=============
-IMG_6925.jpg
-白い砂浜(white sand beach): 24.9
-朝方の海(morning sea): 22.3
-曇りの日(cloudy day): 20.9
-=============
-IMG_6926.jpg
-小さい建物(small building): 30.4
-住宅街(Residential area): 20.2
-田園風景(rural scenery): 11.9
-=============
-IMG_6929.jpg
-海が遠くに見える(the sea looks far away): 67.0
-朝方の海(morning sea): 9.2
-大きな岩(big rock): 7.2
-=============
-IMG_6932.jpg
-海が遠くに見える(the sea looks far away): 20.9
-管制塔が写っている(A control tower is visible): 17.9
-砂浜に車がある(there is a car on the beach): 11.0
-=============
-IMG_6933.jpg
-田舎の道(country road): 54.7
-昭和漂う町(Showa drifting town): 20.4
-田園風景(rural scenery): 9.2
-=============
-IMG_6943.jpg
-海が遠くに見える(the sea looks far away): 46.6
-田舎の道(country road): 7.6
-朝方の海(morning sea): 5.1
-=============
-IMG_6944.jpg
-海が遠くに見える(the sea looks far away): 50.7
-朝方の海(morning sea): 13.9
-白い砂浜(white sand beach): 5.9
-=============
-IMG_6947.jpg
-海が遠くに見える(the sea looks far away): 30.1
-朝方の海(morning sea): 25.3
-大きな岩(big rock): 9.6
-=============
-IMG_6949.jpg
-田園風景(rural scenery): 46.0
-田舎の風景(countryside landscape): 25.8
-田舎の道(country road): 10.6
-=============
-IMG_6954.jpg
-白い砂浜(white sand beach): 90.0
-大きな岩(big rock): 2.2
-港の景色(harbor view): 1.2
-=============
-IMG_6989.jpg
-大きな岩(big rock): 57.7
-電車からの風景(Scenery from the train): 5.4
-白い砂浜(white sand beach): 4.1
-=============
-IMG_6992.jpg
-河川敷が見える(You can see the riverbed): 16.7
-田舎の風景(countryside landscape): 14.1
-田園風景(rural scenery): 10.3
-=============
-IMG_7127.jpg
-白い砂浜(white sand beach): 30.6
-港の景色(harbor view): 20.4
-海が遠くに見える(the sea looks far away): 13.8
-=============
-IMG_7131.jpg
-白い砂浜(white sand beach): 72.2
-海が遠くに見える(the sea looks far away): 4.4
-砂浜に車がある(there is a car on the beach): 4.4
-=============
-IMG_7208.jpg
-海が遠くに見える(the sea looks far away): 20.3
-朝方の海(morning sea): 17.4
-曇りの日(cloudy day): 16.3
-=============
-IMG_7225.JPG
-砂浜に車がある(there is a car on the beach): 16.1
-砂場が映っている(sandbox is reflected): 12.0
+海が遠くに見える(the sea looks far away): 18.2
+綺麗な神社(beautiful shrine): 16.1
 港の景色(harbor view): 11.2
 =============
+IMG_6136.JPG
+田舎の道(country road): 43.0
+京都のような(like Kyoto): 39.8
+昭和漂う町(Showa drifting town): 3.8
+=============
+IMG_6447.jpg
+空港内(inside the airport): 73.7
+管制塔が写っている(A control tower is visible): 11.3
+飛行機が飛んでいる(plane is flying): 4.7
+=============
+IMG_6476.jpg
+昭和漂う町(Showa drifting town): 38.8
+曇りの日(cloudy day): 33.2
+大きな岩(big rock): 4.7
+=============
+IMG_6642.jpg
+朝の空(morning sky): 42.5
+昼の空(daytime sky): 18.8
+綺麗な夜景(beautiful night view): 9.9
+=============
+IMG_6737.jpg
+朝の空(morning sky): 29.2
+綺麗な夜空(beautiful night sky): 23.1
+昼の空(daytime sky): 19.5
+=============
+IMG_6747.jpg
+昼の空(daytime sky): 23.9
+夕焼けの海(sunset sea): 22.8
+朝の空(morning sky): 11.6
+=============
+IMG_6757.jpg
+夕焼けの海(sunset sea): 40.8
+朝の空(morning sky): 21.5
+昼の空(daytime sky): 14.3
+=============
+IMG_6758.jpg
+夕焼けの海(sunset sea): 50.2
+朝の空(morning sky): 10.4
+昼の空(daytime sky): 7.7
+=============
+IMG_6793.jpg
+大きな岩(big rock): 48.4
+白い砂浜(white sand beach): 21.5
+朝方の海(morning sea): 8.0
+=============
+IMG_6861.jpg
+朝方の海(morning sea): 86.7
+海が遠くに見える(the sea looks far away): 3.8
+昭和漂う町(Showa drifting town): 1.9
+=============
+IMG_6915.jpg
+大きな岩(big rock): 29.0
+綺麗な神社(beautiful shrine): 18.4
+モニュメントの様(like a monument): 15.8
+=============
+IMG_6916.jpg
+港の景色(harbor view): 45.7
+曇りの日(cloudy day): 14.6
+昭和漂う町(Showa drifting town): 10.3
+=============
+IMG_6920.jpg
+田舎の道(country road): 17.5
+自然豊か(rich in nature): 15.2
+田園風景(rural scenery): 11.8
+=============
+IMG_6921.jpg
+曇りの日(cloudy day): 20.2
+田舎の道(country road): 16.2
+戦国の感じがする(feel like a warring country): 10.5
+=============
+IMG_6922.jpg
+洋風な城がある(there is a western style castle): 17.9
+洋風の(western style): 17.1
+京都のような(like Kyoto): 16.5
+=============
+IMG_6925.jpg
+曇りの日(cloudy day): 44.8
+白い砂浜(white sand beach): 27.6
+朝方の海(morning sea): 10.5
+=============
+IMG_6926.jpg
+昭和漂う町(Showa drifting town): 73.6
+洋風な城がある(there is a western style castle): 4.7
+小さい建物(small building): 3.6
+=============
+IMG_6929.jpg
+大きな岩(big rock): 65.5
+海が遠くに見える(the sea looks far away): 8.6
+曇りの日(cloudy day): 3.9
+=============
+IMG_6932.jpg
+大きな岩(big rock): 27.3
+電車からの風景(Scenery from the train): 11.2
+自然豊か(rich in nature): 10.9
+=============
+IMG_6933.jpg
+田舎の道(country road): 55.5
+昭和漂う町(Showa drifting town): 27.5
+大きな岩(big rock): 4.2
+=============
+IMG_6943.jpg
+海が遠くに見える(the sea looks far away): 28.9
+田舎の道(country road): 18.9
+朝方の海(morning sea): 10.0
+=============
+IMG_6944.jpg
+海が遠くに見える(the sea looks far away): 22.1
+曇りの日(cloudy day): 13.9
+朝方の海(morning sea): 13.0
+=============
+IMG_6947.jpg
+海が遠くに見える(the sea looks far away): 22.5
+朝方の海(morning sea): 17.8
+大きな岩(big rock): 13.0
+=============
+IMG_6949.jpg
+田園風景(rural scenery): 30.5
+茶色の山(brown mountain): 11.9
+自然豊か(rich in nature): 10.9
+=============
+IMG_6954.jpg
+白い砂浜(white sand beach): 94.7
+朝方の海(morning sea): 1.2
+大きな岩(big rock): 0.6
+=============
+IMG_6989.jpg
+大きな岩(big rock): 52.0
+電車からの風景(Scenery from the train): 9.2
+白い砂浜(white sand beach): 7.1
+=============
+IMG_6992.jpg
+大きな岩(big rock): 16.0
+戦国の感じがする(feel like a warring country): 14.8
+洋風な城がある(there is a western style castle): 8.7
+=============
+IMG_7127.jpg
+朝方の海(morning sea): 73.5
+海が遠くに見える(the sea looks far away): 11.8
+晴天の日(sunny day): 1.6
+=============
+IMG_7131.jpg
+白い砂浜(white sand beach): 24.1
+朝方の海(morning sea): 18.8
+大きな岩(big rock): 8.6
+=============
+IMG_7208.jpg
+曇りの日(cloudy day): 64.1
+朝方の海(morning sea): 7.8
+白い砂浜(white sand beach): 5.3
+=============
+IMG_7225.JPG
+砂場が映っている(sandbox is reflected): 43.6
+船が浮かんでいる(boat is floating): 29.9
+水溜まりのある(puddle): 9.7
+=============
 IMG_7254.jpg
-白い砂浜(white sand beach): 33.6
-朝方の海(morning sea): 25.7
-港の景色(harbor view): 13.1
+朝方の海(morning sea): 49.7
+白い砂浜(white sand beach): 21.7
+砂浜に車がある(there is a car on the beach): 5.2
 =============
 IMG_7273.jpg
-美術館(museum): 56.8
-小さい家(small house): 7.8
-綺麗な神社(beautiful shrine): 4.5
+京都のような(like Kyoto): 45.8
+和風の(Japanese style): 16.6
+美術館(museum): 13.1
 =============
 IMG_7283.JPG
-小さい家(small house): 39.6
-レトロな雰囲気(retro atmosphere): 15.3
-小さい建物(small building): 13.9
+昭和漂う町(Showa drifting town): 87.3
+温泉の湯けむり(Hot spring steam): 4.3
+和風の(Japanese style): 1.3
 =============
 IMG_7319.jpg
-広い公園(large park): 68.9
-モニュメントの様(like a monument): 5.6
-地下道(Underpass): 3.5
+広い公園(large park): 32.2
+昼の空(daytime sky): 22.1
+綺麗な神社(beautiful shrine): 6.8
 =============
 IMG_7320.jpg
-白い砂浜(white sand beach): 38.6
-管制塔が写っている(A control tower is visible): 15.1
-港の景色(harbor view): 14.0
+港の景色(harbor view): 26.7
+白い砂浜(white sand beach): 23.9
+朝方の海(morning sea): 15.4
 =============
 IMG_7532.jpg
-昭和漂う町(Showa drifting town): 35.1
-汚い神社(dirty shrine): 13.5
-綺麗な神社(beautiful shrine): 12.5
+京都のような(like Kyoto): 66.8
+昭和漂う町(Showa drifting town): 17.7
+和風の(Japanese style): 8.1
 =============
 IMG_7548.jpg
-イルミネーションが映った(illumination was reflected): 32.0
-美術館(museum): 11.8
-空港内(inside the airport): 10.6
+昭和漂う町(Showa drifting town): 28.2
+風情のある街(town with atmosphere): 18.8
+洋風の(western style): 10.5
 =============
 IMG_7609.jpg
-白い砂浜(white sand beach): 50.9
-朝方の海(morning sea): 15.0
-海が遠くに見える(the sea looks far away): 6.3
-=============
-IMG_7610.jpg
-白い砂浜(white sand beach): 65.8
-大きな岩(big rock): 14.2
-朝方の海(morning sea): 5.0
-=============
-IMG_7611.jpg
-白い砂浜(white sand beach): 78.5
-大きな岩(big rock): 3.1
-昭和漂う町(Showa drifting town): 2.7
-=============
-IMG_8229.jpg
-綺麗な神社(beautiful shrine): 30.6
-小さい建物(small building): 27.9
-美術館(museum): 22.8
-=============
-IMG_8242.jpg
-昭和漂う町(Showa drifting town): 31.0
-風情のある街(town with atmosphere): 20.0
-小さい建物(small building): 9.2
-=============
-IMG_8390.jpg
-田舎の道(country road): 55.7
-田園風景(rural scenery): 21.5
-田舎の風景(countryside landscape): 9.8
-=============
-IMG_8409.jpg
-綺麗な神社(beautiful shrine): 34.7
-山に囲まれた(surrounded by mountains): 12.0
-大きな岩(big rock): 11.4
-=============
-IMG_8448.jpg
-昭和漂う町(Showa drifting town): 27.4
-景色の良い(scenic): 12.9
-海が遠くに見える(the sea looks far away): 9.6
-=============
-IMG_8505.jpg
-綺麗な神社(beautiful shrine): 53.8
-昭和漂う町(Showa drifting town): 6.1
-汚い神社(dirty shrine): 5.4
-=============
-IMG_8526.jpg
-温泉の湯けむり(Hot spring steam): 86.3
-温泉が沸いている(hot springs are boiling): 13.6
-湯けむりが立っている(the steam is standing): 0.1
-=============
-IMG_8573.jpg
-綺麗な神社(beautiful shrine): 55.5
-汚い神社(dirty shrine): 13.2
-赤い建物(red building): 10.1
-=============
-IMG_8619.jpg
-昭和漂う町(Showa drifting town): 43.6
-風情のある街(town with atmosphere): 35.5
-住宅街(Residential area): 6.4
-=============
-IMG_8621.jpg
-綺麗な神社(beautiful shrine): 71.6
-モニュメントの様(like a monument): 13.7
-汚い神社(dirty shrine): 6.1
-=============
-IMG_8715.JPG
-綺麗な神社(beautiful shrine): 28.6
-風情のある街(town with atmosphere): 28.6
-昭和漂う町(Showa drifting town): 18.2
-=============
-IMG_8727.jpg
-昭和漂う町(Showa drifting town): 27.3
-美術館(museum): 26.9
-モニュメントの様(like a monument): 11.9
-=============
-IMG_9576.jpg
-田園風景(rural scenery): 17.0
-昭和漂う町(Showa drifting town): 13.9
-田舎の風景(countryside landscape): 9.7
-=============
-IMG_9603.png
-綺麗な神社(beautiful shrine): 31.2
-広い公園(large park): 12.4
-晴天の日(sunny day): 8.3
-=============
-IMG_9657.jpg
-昭和漂う町(Showa drifting town): 54.4
-夕焼けの海(sunset sea): 10.2
-昼の空(daytime sky): 8.8
-=============
-F148BEB3-BCD3-463C-A1FE-8CEA5AA54838.JPG
-朝方の海(morning sea): 39.1
-昭和漂う町(Showa drifting town): 18.5
-海が遠くに見える(the sea looks far away): 13.3
-=============
-GPTempDownload 2.JPG
-住宅街(Residential area): 20.2
-都会の風景(urban landscape): 14.1
-地下道(Underpass): 9.8
-=============
-GPTempDownload.JPG
-砂場が映っている(sandbox is reflected): 26.2
-港の景色(harbor view): 13.8
-湖が映っている(the lake is reflected): 11.3
-=============
-IMG_0811.jpg
-港の景色(harbor view): 31.8
-海が遠くに見える(the sea looks far away): 14.6
-管制塔が写っている(A control tower is visible): 6.7
-=============
-IMG_0836.jpg
-空港のような建物(a building that looks like an airport): 24.9
-管制塔が写っている(A control tower is visible): 23.4
-大きい建物(big building): 18.0
-=============
-IMG_0846.jpg
-広い公園(large park): 59.6
-景色の良い(scenic): 7.9
-都会の風景(urban landscape): 5.2
-=============
-IMG_0847.jpg
-広い公園(large park): 40.7
-景色の良い(scenic): 15.7
-都会の風景(urban landscape): 10.9
-=============
-IMG_0862.jpg
-空港のような建物(a building that looks like an airport): 61.8
-空港内(inside the airport): 20.1
-管制塔が写っている(A control tower is visible): 15.1
-=============
-IMG_0870.jpg
-管制塔が写っている(A control tower is visible): 26.5
-港の景色(harbor view): 21.3
-船が浮かんでいる(boat is floating): 10.1
-=============
-IMG_1033.jpg
-都会の風景(urban landscape): 16.7
-昼の空(daytime sky): 14.5
-夕焼けの海(sunset sea): 10.0
-=============
-IMG_1034.jpg
-昭和漂う町(Showa drifting town): 38.7
-昼の空(daytime sky): 19.5
-朝の空(morning sky): 10.0
-=============
-IMG_1175.JPG
-昭和漂う町(Showa drifting town): 45.8
-温泉が沸いている(hot springs are boiling): 26.5
-温泉の湯けむり(Hot spring steam): 9.4
-=============
-IMG_1190.jpg
-港の景色(harbor view): 26.3
-昼の空(daytime sky): 9.0
-昭和漂う町(Showa drifting town): 8.8
-=============
-IMG_1202.JPG
-昭和漂う町(Showa drifting town): 35.5
-高層ビルの建物(skyscraper building): 14.6
-管制塔が写っている(A control tower is visible): 10.0
-=============
-IMG_1203.JPG
-管制塔が写っている(A control tower is visible): 22.3
-昼の空(daytime sky): 14.8
-都会の風景(urban landscape): 11.4
-=============
-IMG_1640.jpg
-昼の空(daytime sky): 49.6
-朝の空(morning sky): 45.1
-夕焼けの海(sunset sea): 0.8
-=============
-IMG_1757.JPG
-昭和漂う町(Showa drifting town): 81.0
-車が走っている(the car is running): 6.8
-都会の風景(urban landscape): 1.6
-=============
-IMG_1819.jpg
-飛行機が飛んでいる(plane is flying): 18.1
-朝の空(morning sky): 15.5
-夕焼けの海(sunset sea): 10.0
-=============
-IMG_1851.jpg
-大きな岩(big rock): 50.9
-海が遠くに見える(the sea looks far away): 17.3
-朝方の海(morning sea): 6.9
-=============
-IMG_1852.jpg
-大きな岩(big rock): 21.4
-昭和漂う町(Showa drifting town): 11.3
+昭和漂う町(Showa drifting town): 30.3
+白い砂浜(white sand beach): 24.4
 朝方の海(morning sea): 10.7
 =============
-IMG_1853.jpg
-大きな岩(big rock): 59.6
-船が浮かんでいる(boat is floating): 5.9
-朝方の海(morning sea): 5.0
-=============
-IMG_1855.jpg
-大きい建物(big building): 42.6
-都会の風景(urban landscape): 21.4
-管制塔が写っている(A control tower is visible): 6.5
-=============
-IMG_1856.jpg
-昭和漂う町(Showa drifting town): 11.8
-大きな岩(big rock): 10.3
-都会の風景(urban landscape): 7.6
-=============
-IMG_1860.jpg
-赤い建物(red building): 28.2
-昭和漂う町(Showa drifting town): 19.4
-風情のある街(town with atmosphere): 14.0
-=============
-IMG_2094.jpg
-昭和漂う町(Showa drifting town): 24.1
-都会の風景(urban landscape): 22.6
-風情のある街(town with atmosphere): 10.5
-=============
-IMG_2101.jpg
-都会の風景(urban landscape): 19.4
-昭和漂う町(Showa drifting town): 19.4
-住宅街(Residential area): 13.3
-=============
-IMG_2102.jpg
-地下道(Underpass): 38.0
-昭和漂う町(Showa drifting town): 35.7
-風情のある街(town with atmosphere): 7.1
-=============
-IMG_2103.jpg
-地下道(Underpass): 19.1
-住宅街(Residential area): 12.5
-風情のある街(town with atmosphere): 12.1
-=============
-IMG_3808.jpg
-イルミネーションが映った(illumination was reflected): 62.2
-綺麗な夜景(beautiful night view): 12.8
-高層ビルの建物(skyscraper building): 4.3
-=============
-IMG_3838.jpg
-綺麗な夜景(beautiful night view): 53.9
-港の景色(harbor view): 9.8
-夜の空(night sky): 7.6
-=============
-IMG_3864.jpg
-大きい建物(big building): 20.9
-赤い建物(red building): 13.7
-昼の空(daytime sky): 11.7
-=============
-IMG_3902.jpg
-朝の空(morning sky): 49.8
-昼の空(daytime sky): 14.5
-港の景色(harbor view): 10.6
-=============
-IMG_4453.jpg
-昭和漂う町(Showa drifting town): 20.4
-大きい建物(big building): 15.6
-昼の空(daytime sky): 8.1
-=============
-IMG_4455.jpg
-高層ビルの建物(skyscraper building): 90.0
-大きい建物(big building): 5.6
-管制塔が写っている(A control tower is visible): 1.1
-=============
-IMG_4474.JPG
-高層ビルの建物(skyscraper building): 68.0
-大きい建物(big building): 13.8
-綺麗な夜景(beautiful night view): 6.7
-=============
-IMG_5489.JPG
-大きい木(big tree): 91.2
-木がたくさんある(there are a lot of trees): 4.1
-小さい木(small tree): 2.2
-=============
-IMG_5492.JPG
-広い公園(large park): 30.6
-昼の空(daytime sky): 8.8
-管制塔が写っている(A control tower is visible): 8.1
-=============
-IMG_5494.JPG
-広い公園(large park): 32.9
-木がたくさんある(there are a lot of trees): 19.3
-昭和漂う町(Showa drifting town): 6.3
-=============
-IMG_5497.JPG
-広い公園(large park): 23.8
-昼の空(daytime sky): 21.3
-昭和漂う町(Showa drifting town): 8.6
-=============
-IMG_5497.jpg
-空港のような建物(a building that looks like an airport): 16.1
-管制塔が写っている(A control tower is visible): 13.4
-飛行機が飛んでいる(plane is flying): 10.6
-=============
-IMG_5579.jpg
-赤い建物(red building): 20.1
-晴天の日(sunny day): 17.5
-都会の風景(urban landscape): 14.1
-=============
-IMG_5589.jpg
-昭和漂う町(Showa drifting town): 25.0
-綺麗な夜景(beautiful night view): 23.4
-イルミネーションが映った(illumination was reflected): 18.0
-=============
-IMG_5597.jpg
-海が遠くに見える(the sea looks far away): 23.1
-昭和漂う町(Showa drifting town): 12.8
-港の景色(harbor view): 5.8
-=============
-IMG_5604.jpg
-港の景色(harbor view): 35.0
-昭和漂う町(Showa drifting town): 24.1
-広い公園(large park): 7.1
-=============
-IMG_6137.JPG
-田園風景(rural scenery): 34.7
-田舎の風景(countryside landscape): 33.7
-一面の野原(a field): 16.7
-=============
-IMG_6454.jpg
-海が遠くに見える(the sea looks far away): 11.8
-港の景色(harbor view): 9.6
-朝方の海(morning sea): 9.2
-=============
-IMG_6623.jpg
-夕焼けの海(sunset sea): 26.0
-昼の空(daytime sky): 19.6
-都会の風景(urban landscape): 10.0
-=============
-IMG_6659.jpg
-地下道(Underpass): 41.1
-昭和漂う町(Showa drifting town): 12.1
-曇りの日(cloudy day): 8.9
-=============
-IMG_6730.jpg
-白い砂浜(white sand beach): 64.8
-朝方の海(morning sea): 6.0
-夕焼けの海(sunset sea): 5.6
-=============
-IMG_6734.jpg
-管制塔が写っている(A control tower is visible): 31.6
-港の景色(harbor view): 18.3
-白い砂浜(white sand beach): 11.8
-=============
-IMG_6773.jpg
-田園風景(rural scenery): 28.5
-昼の空(daytime sky): 15.7
-昭和漂う町(Showa drifting town): 12.4
-=============
-IMG_6794.jpg
-白い砂浜(white sand beach): 64.2
-朝方の海(morning sea): 9.7
-砂浜に車がある(there is a car on the beach): 4.8
-=============
-IMG_6796.jpg
-海が遠くに見える(the sea looks far away): 37.7
-朝方の海(morning sea): 29.8
-白い砂浜(white sand beach): 7.9
-=============
-IMG_6850.jpg
-朝方の海(morning sea): 39.4
-海が遠くに見える(the sea looks far away): 27.5
-曇りの日(cloudy day): 16.4
-=============
-IMG_6855.jpg
-飛行機が飛んでいる(plane is flying): 72.7
-昼の空(daytime sky): 9.7
-海が遠くに見える(the sea looks far away): 2.7
-=============
-IMG_6858.jpg
-白い砂浜(white sand beach): 73.4
-朝方の海(morning sea): 11.8
-砂浜に車がある(there is a car on the beach): 3.2
-=============
-IMG_6859.jpg
-白い砂浜(white sand beach): 25.0
-広い公園(large park): 15.9
-管制塔が写っている(A control tower is visible): 11.5
-=============
-IMG_6917.jpg
-昭和漂う町(Showa drifting town): 62.1
-港の景色(harbor view): 15.2
-管制塔が写っている(A control tower is visible): 3.5
-=============
-IMG_6919.jpg
-河川敷が見える(You can see the riverbed): 50.0
-田舎の道(country road): 16.8
-昭和漂う町(Showa drifting town): 10.8
-=============
-IMG_6923.jpg
-田舎の道(country road): 59.2
-田園風景(rural scenery): 10.9
-海が遠くに見える(the sea looks far away): 5.9
-=============
-IMG_6928.jpg
-田舎の道(country road): 82.6
-田園風景(rural scenery): 9.6
-昭和漂う町(Showa drifting town): 2.6
-=============
-IMG_6931.jpg
-海が遠くに見える(the sea looks far away): 32.5
-大きな岩(big rock): 14.6
-朝方の海(morning sea): 14.4
-=============
-IMG_6946.jpg
-海が遠くに見える(the sea looks far away): 45.6
-朝方の海(morning sea): 15.8
-曇りの日(cloudy day): 4.7
-=============
-IMG_6948.jpg
-海が遠くに見える(the sea looks far away): 40.3
-朝方の海(morning sea): 10.5
-景色の良い(scenic): 7.7
-=============
-IMG_6955.jpg
-白い砂浜(white sand beach): 82.7
-大きな岩(big rock): 6.2
-港の景色(harbor view): 1.7
-=============
-IMG_6990.jpg
-河川敷が見える(You can see the riverbed): 29.9
-砂浜に車がある(there is a car on the beach): 7.3
-白い砂浜(white sand beach): 7.2
-=============
-IMG_7001.jpg
-朝方の海(morning sea): 35.6
-海が遠くに見える(the sea looks far away): 17.6
-港の景色(harbor view): 7.7
-=============
-IMG_7002.jpg
-管制塔が写っている(A control tower is visible): 60.1
-電車からの風景(Scenery from the train): 9.2
-昭和漂う町(Showa drifting town): 5.9
-=============
-IMG_7005.jpg
-昼の空(daytime sky): 56.8
-晴天の日(sunny day): 14.6
-朝の空(morning sky): 11.2
-=============
-IMG_7107.jpg
-空港のような建物(a building that looks like an airport): 22.2
-管制塔が写っている(A control tower is visible): 16.7
-住宅街(Residential area): 14.5
-=============
-IMG_7185.jpg
-大きな岩(big rock): 27.2
-曇りの日(cloudy day): 13.1
-海が遠くに見える(the sea looks far away): 10.3
-=============
-IMG_7188.jpg
-朝方の海(morning sea): 31.0
-海が遠くに見える(the sea looks far away): 19.4
-昼の空(daytime sky): 9.0
-=============
-IMG_7206.jpg
-白い砂浜(white sand beach): 77.8
-地下道(Underpass): 4.3
-曇りの日(cloudy day): 3.3
-=============
-IMG_7207.jpg
-朝方の海(morning sea): 19.5
-曇りの日(cloudy day): 17.8
-海が遠くに見える(the sea looks far away): 16.7
-=============
-IMG_7211.jpg
-白い砂浜(white sand beach): 74.6
-港の景色(harbor view): 7.7
-広い公園(large park): 3.1
-=============
-IMG_7212.jpg
-白い砂浜(white sand beach): 90.5
-港の景色(harbor view): 2.6
-朝方の海(morning sea): 1.8
-=============
-IMG_7213.jpg
-白い砂浜(white sand beach): 58.9
-海が遠くに見える(the sea looks far away): 13.4
-砂浜に車がある(there is a car on the beach): 9.3
-=============
-IMG_7214.jpg
-白い砂浜(white sand beach): 80.6
-港の景色(harbor view): 4.9
-朝方の海(morning sea): 2.9
-=============
-IMG_7251.jpg
-朝方の海(morning sea): 41.2
-夕焼けの海(sunset sea): 20.7
-海が遠くに見える(the sea looks far away): 7.3
-=============
-IMG_7252.jpg
-夕焼けの海(sunset sea): 56.0
-朝方の海(morning sea): 19.7
-海が遠くに見える(the sea looks far away): 6.2
-=============
-IMG_7253.jpg
-朝方の海(morning sea): 45.2
-海が遠くに見える(the sea looks far away): 21.0
-白い砂浜(white sand beach): 6.5
-=============
-IMG_7255.jpg
-朝方の海(morning sea): 27.0
-港の景色(harbor view): 25.0
-夕焼けの海(sunset sea): 18.0
-=============
-IMG_7513.jpg
-イルミネーションが映った(illumination was reflected): 46.9
-温泉が沸いている(hot springs are boiling): 10.8
-湯けむりが立っている(the steam is standing): 7.5
-=============
-IMG_7546.jpg
-イルミネーションが映った(illumination was reflected): 23.3
-昭和漂う町(Showa drifting town): 15.1
-美術館(museum): 12.1
-=============
-IMG_7549.jpg
-昭和漂う町(Showa drifting town): 32.8
-風情のある街(town with atmosphere): 24.8
-イルミネーションが映った(illumination was reflected): 16.2
-=============
-IMG_7870.jpg
-温泉が沸いている(hot springs are boiling): 26.2
-海が遠くに見える(the sea looks far away): 10.9
-大きな岩(big rock): 9.2
-=============
-IMG_8254.jpg
-綺麗な夜景(beautiful night view): 58.7
-昭和漂う町(Showa drifting town): 15.6
-夜の空(night sky): 6.5
-=============
-IMG_8404.jpg
-広い公園(large park): 28.3
-大きな岩(big rock): 13.2
+IMG_7610.jpg
+白い砂浜(white sand beach): 30.3
+大きな岩(big rock): 20.8
+朝方の海(morning sea): 12.8
+=============
+IMG_7611.jpg
+白い砂浜(white sand beach): 44.8
+昭和漂う町(Showa drifting town): 19.9
+朝方の海(morning sea): 10.2
+=============
+IMG_8229.jpg
+美術館(museum): 60.3
+洋風な城がある(there is a western style castle): 20.8
+小さい建物(small building): 4.1
+=============
+IMG_8242.jpg
+昭和漂う町(Showa drifting town): 48.2
+京都のような(like Kyoto): 17.7
 綺麗な神社(beautiful shrine): 11.8
 =============
-IMG_8449.jpg
-白い砂浜(white sand beach): 12.9
-田舎の風景(countryside landscape): 11.2
-昭和漂う町(Showa drifting town): 9.4
+IMG_8390.jpg
+田舎の道(country road): 63.6
+田園風景(rural scenery): 12.3
+田舎の風景(countryside landscape): 7.5
 =============
-IMG_8466.jpg
-綺麗な神社(beautiful shrine): 31.3
-広い公園(large park): 13.3
-火山(volcano): 9.6
+IMG_8409.jpg
+温泉の湯けむり(Hot spring steam): 39.1
+茶色の山(brown mountain): 11.7
+大きな岩(big rock): 9.0
 =============
-IMG_8496.jpg
-夕焼けの海(sunset sea): 71.1
-朝方の海(morning sea): 6.4
-海が遠くに見える(the sea looks far away): 4.5
+IMG_8448.jpg
+昭和漂う町(Showa drifting town): 19.6
+綺麗な神社(beautiful shrine): 19.3
+大きな岩(big rock): 15.5
 =============
-IMG_8527.jpg
-昭和漂う町(Showa drifting town): 52.5
-温泉の湯けむり(Hot spring steam): 24.0
-汚い神社(dirty shrine): 3.9
+IMG_8505.jpg
+綺麗な神社(beautiful shrine): 66.7
+朝方の海(morning sea): 6.3
+海が遠くに見える(the sea looks far away): 3.9
 =============
-IMG_8532.jpg
-温泉の湯けむり(Hot spring steam): 85.7
-温泉が沸いている(hot springs are boiling): 14.2
-湯けむりが立っている(the steam is standing): 0.1
+IMG_8526.jpg
+温泉の湯けむり(Hot spring steam): 79.1
+温泉が沸いている(hot springs are boiling): 20.9
+京都のような(like Kyoto): 0.0
 =============
-IMG_8545.jpg
-温泉の湯けむり(Hot spring steam): 96.3
-温泉が沸いている(hot springs are boiling): 3.3
-昭和漂う町(Showa drifting town): 0.1
+IMG_8573.jpg
+京都のような(like Kyoto): 59.3
+綺麗な神社(beautiful shrine): 19.3
+和風の(Japanese style): 9.1
 =============
-IMG_8571.jpg
-綺麗な神社(beautiful shrine): 55.9
-赤い建物(red building): 12.5
+IMG_8619.jpg
+昭和漂う町(Showa drifting town): 89.0
+京都のような(like Kyoto): 8.9
+住宅街(Residential area): 0.8
+=============
+IMG_8621.jpg
+綺麗な神社(beautiful shrine): 84.3
+京都のような(like Kyoto): 6.6
+汚い神社(dirty shrine): 3.0
+=============
+IMG_8715.JPG
+京都のような(like Kyoto): 47.9
+綺麗な神社(beautiful shrine): 42.9
+汚い神社(dirty shrine): 3.0
+=============
+IMG_8727.jpg
+昭和漂う町(Showa drifting town): 89.2
+車が走っている(the car is running): 2.5
+大きな岩(big rock): 1.9
+=============
+IMG_9576.jpg
+田舎の道(country road): 14.4
+田園風景(rural scenery): 14.4
+昭和漂う町(Showa drifting town): 13.7
+=============
+IMG_9603.png
+京都のような(like Kyoto): 42.4
+綺麗な神社(beautiful shrine): 12.2
+大きい建物(big building): 10.6
+=============
+IMG_9657.jpg
+京都のような(like Kyoto): 44.0
+都会の風景(urban landscape): 16.2
+昼の空(daytime sky): 9.2
+=============
+F148BEB3-BCD3-463C-A1FE-8CEA5AA54838.JPG
+朝方の海(morning sea): 43.4
+昭和漂う町(Showa drifting town): 14.3
+砂浜に車がある(there is a car on the beach): 6.7
+=============
+GPTempDownload 2.JPG
+昼の空(daytime sky): 26.8
+昭和漂う町(Showa drifting town): 12.8
+曇りの日(cloudy day): 11.0
+=============
+GPTempDownload.JPG
+港の景色(harbor view): 19.3
+砂場が映っている(sandbox is reflected): 9.9
+湖が映っている(the lake is reflected): 9.1
+=============
+IMG_0811.jpg
+港の景色(harbor view): 35.4
+風情のある街(town with atmosphere): 7.6
+朝方の海(morning sea): 7.2
+=============
+IMG_0836.jpg
+モニュメントの様(like a monument): 15.7
+大きい建物(big building): 12.6
+木がたくさんある(there are a lot of trees): 10.3
+=============
+IMG_0846.jpg
+河川敷が見える(You can see the riverbed): 24.3
+木がたくさんある(there are a lot of trees): 18.9
+都会の風景(urban landscape): 12.4
+=============
+IMG_0847.jpg
+都会の風景(urban landscape): 34.8
+昼の空(daytime sky): 16.2
+管制塔が写っている(A control tower is visible): 6.8
+=============
+IMG_0862.jpg
+空港のような建物(a building that looks like an airport): 53.1
+管制塔が写っている(A control tower is visible): 41.4
+空港内(inside the airport): 3.4
+=============
+IMG_0870.jpg
+電車からの風景(Scenery from the train): 50.9
+港の景色(harbor view): 14.4
+大きな岩(big rock): 11.0
+=============
+IMG_1033.jpg
+夕焼けの海(sunset sea): 40.9
+京都のような(like Kyoto): 10.3
+イルミネーションが映った(illumination was reflected): 6.1
+=============
+IMG_1034.jpg
+京都のような(like Kyoto): 51.7
+昼の空(daytime sky): 11.4
+昭和漂う町(Showa drifting town): 9.3
+=============
+IMG_1175.JPG
+京都のような(like Kyoto): 30.1
+昭和漂う町(Showa drifting town): 19.7
+温泉が沸いている(hot springs are boiling): 18.5
+=============
+IMG_1190.jpg
+昭和漂う町(Showa drifting town): 17.7
+京都のような(like Kyoto): 14.7
+港の景色(harbor view): 13.0
+=============
+IMG_1202.JPG
+京都のような(like Kyoto): 17.4
+都会の風景(urban landscape): 15.4
+昼の空(daytime sky): 11.2
+=============
+IMG_1203.JPG
+京都のような(like Kyoto): 46.5
+昼の空(daytime sky): 19.4
+都会の風景(urban landscape): 7.2
+=============
+IMG_1640.jpg
+朝の空(morning sky): 33.8
+京都のような(like Kyoto): 31.7
+昼の空(daytime sky): 19.0
+=============
+IMG_1757.JPG
+昭和漂う町(Showa drifting town): 68.4
+車が走っている(the car is running): 24.8
+京都のような(like Kyoto): 3.7
+=============
+IMG_1819.jpg
+飛行機が飛んでいる(plane is flying): 35.5
+朝の空(morning sky): 23.3
+夕焼けの海(sunset sea): 10.8
+=============
+IMG_1851.jpg
+洋風な城がある(there is a western style castle): 81.8
+大きな岩(big rock): 6.7
+昭和漂う町(Showa drifting town): 4.7
+=============
+IMG_1852.jpg
+洋風な城がある(there is a western style castle): 55.3
+大きな岩(big rock): 15.4
+昭和漂う町(Showa drifting town): 13.1
+=============
+IMG_1853.jpg
+洋風な城がある(there is a western style castle): 55.8
+昭和漂う町(Showa drifting town): 24.0
+大きな岩(big rock): 12.6
+=============
+IMG_1855.jpg
+昭和漂う町(Showa drifting town): 69.6
+大きい建物(big building): 19.0
+管制塔が写っている(A control tower is visible): 3.9
+=============
+IMG_1856.jpg
+洋風な城がある(there is a western style castle): 76.3
+大きな岩(big rock): 11.9
+昭和漂う町(Showa drifting town): 4.8
+=============
+IMG_1860.jpg
+京都のような(like Kyoto): 70.1
+昭和漂う町(Showa drifting town): 21.7
+和風の(Japanese style): 1.5
+=============
+IMG_2094.jpg
+昭和漂う町(Showa drifting town): 47.1
+美術館(museum): 9.4
+大きい建物(big building): 9.1
+=============
+IMG_2101.jpg
+京都のような(like Kyoto): 65.7
+昭和漂う町(Showa drifting town): 24.2
+大きい建物(big building): 1.8
+=============
+IMG_2102.jpg
+昭和漂う町(Showa drifting town): 36.0
+京都のような(like Kyoto): 31.7
+大きい建物(big building): 6.3
+=============
+IMG_2103.jpg
+京都のような(like Kyoto): 55.7
+昭和漂う町(Showa drifting town): 13.9
+ベンチが写っている(there is a bench): 9.1
+=============
+IMG_3808.jpg
+綺麗な夜景(beautiful night view): 44.7
+イルミネーションが映った(illumination was reflected): 22.1
+京都のような(like Kyoto): 6.8
+=============
+IMG_3838.jpg
+綺麗な夜景(beautiful night view): 67.0
+港の景色(harbor view): 6.5
+イルミネーションが映った(illumination was reflected): 5.2
+=============
+IMG_3864.jpg
+昼の空(daytime sky): 24.2
+京都のような(like Kyoto): 23.8
+大きい建物(big building): 10.9
+=============
+IMG_3902.jpg
+朝の空(morning sky): 74.9
+昼の空(daytime sky): 6.0
+夕焼けの海(sunset sea): 3.4
+=============
+IMG_4453.jpg
+昼の空(daytime sky): 37.8
+砂場が映っている(sandbox is reflected): 10.8
+京都のような(like Kyoto): 10.8
+=============
+IMG_4455.jpg
+高層ビルの建物(skyscraper building): 44.7
+大きい建物(big building): 33.2
+空港のような建物(a building that looks like an airport): 19.2
+=============
+IMG_4474.JPG
+高層ビルの建物(skyscraper building): 51.5
+大きい建物(big building): 39.5
+綺麗な夜景(beautiful night view): 4.9
+=============
+IMG_5489.JPG
+大きい木(big tree): 77.5
+木がたくさんある(there are a lot of trees): 12.3
+京都のような(like Kyoto): 4.6
+=============
+IMG_5492.JPG
+京都のような(like Kyoto): 43.2
+昼の空(daytime sky): 8.6
+昭和漂う町(Showa drifting town): 8.6
+=============
+IMG_5494.JPG
+木がたくさんある(there are a lot of trees): 35.2
+京都のような(like Kyoto): 21.3
+広い公園(large park): 8.1
+=============
+IMG_5497.JPG
+京都のような(like Kyoto): 39.6
+昼の空(daytime sky): 17.5
+洋風な城がある(there is a western style castle): 8.0
+=============
+IMG_5497.jpg
+飛行機が飛んでいる(plane is flying): 65.6
+京都のような(like Kyoto): 5.4
+一面の野原(a field): 5.1
+=============
+IMG_5579.jpg
+昼の空(daytime sky): 26.3
+晴天の日(sunny day): 22.1
+美術館(museum): 11.1
+=============
+IMG_5589.jpg
+綺麗な夜景(beautiful night view): 72.8
+京都のような(like Kyoto): 6.1
+都会の風景(urban landscape): 2.2
+=============
+IMG_5597.jpg
+海が遠くに見える(the sea looks far away): 21.0
+綺麗な神社(beautiful shrine): 15.4
+朝方の海(morning sea): 11.6
+=============
+IMG_5604.jpg
+港の景色(harbor view): 29.3
+昭和漂う町(Showa drifting town): 16.7
+京都のような(like Kyoto): 8.9
+=============
+IMG_6137.JPG
+田園風景(rural scenery): 25.3
+田舎の道(country road): 20.7
+京都のような(like Kyoto): 18.8
+=============
+IMG_6454.jpg
+モニュメントの様(like a monument): 20.0
+大きな岩(big rock): 9.5
+大きい建物(big building): 8.9
+=============
+IMG_6623.jpg
+夕焼けの海(sunset sea): 52.0
+昭和漂う町(Showa drifting town): 10.4
+都会の風景(urban landscape): 6.6
+=============
+IMG_6659.jpg
+昭和漂う町(Showa drifting town): 28.5
+曇りの日(cloudy day): 17.8
+朝方の海(morning sea): 10.5
+=============
+IMG_6730.jpg
+白い砂浜(white sand beach): 64.9
+夕焼けの海(sunset sea): 10.6
+朝方の海(morning sea): 7.2
+=============
+IMG_6734.jpg
+朝方の海(morning sea): 23.1
+港の景色(harbor view): 13.0
+昼の空(daytime sky): 9.3
+=============
+IMG_6773.jpg
+京都のような(like Kyoto): 50.8
+昭和漂う町(Showa drifting town): 11.7
+朝の空(morning sky): 4.3
+=============
+IMG_6794.jpg
+白い砂浜(white sand beach): 30.4
+朝方の海(morning sea): 29.0
+昼の空(daytime sky): 8.6
+=============
+IMG_6796.jpg
+朝方の海(morning sea): 46.9
+海が遠くに見える(the sea looks far away): 13.2
+白い砂浜(white sand beach): 10.5
+=============
+IMG_6850.jpg
+朝方の海(morning sea): 77.9
+海が遠くに見える(the sea looks far away): 4.3
+曇りの日(cloudy day): 3.7
+=============
+IMG_6855.jpg
+昼の空(daytime sky): 43.3
+飛行機が飛んでいる(plane is flying): 37.6
+朝の空(morning sky): 7.3
+=============
+IMG_6858.jpg
+白い砂浜(white sand beach): 62.3
+朝方の海(morning sea): 14.1
 昭和漂う町(Showa drifting town): 5.5
 =============
+IMG_6859.jpg
+朝方の海(morning sea): 28.3
+白い砂浜(white sand beach): 25.0
+昭和漂う町(Showa drifting town): 10.7
+=============
+IMG_6917.jpg
+昭和漂う町(Showa drifting town): 33.6
+港の景色(harbor view): 22.4
+曇りの日(cloudy day): 14.0
+=============
+IMG_6919.jpg
+昭和漂う町(Showa drifting town): 55.5
+砂浜に車がある(there is a car on the beach): 16.7
+住宅街(Residential area): 9.9
+=============
+IMG_6923.jpg
+田舎の道(country road): 59.7
+曇りの日(cloudy day): 6.6
+海が遠くに見える(the sea looks far away): 3.8
+=============
+IMG_6928.jpg
+田舎の道(country road): 88.7
+木がたくさんある(there are a lot of trees): 3.2
+田園風景(rural scenery): 2.0
+=============
+IMG_6931.jpg
+大きな岩(big rock): 18.0
+曇りの日(cloudy day): 15.4
+海が遠くに見える(the sea looks far away): 13.8
+=============
+IMG_6946.jpg
+海が遠くに見える(the sea looks far away): 23.0
+曇りの日(cloudy day): 19.1
+朝方の海(morning sea): 11.0
+=============
+IMG_6948.jpg
+白い砂浜(white sand beach): 17.1
+曇りの日(cloudy day): 13.3
+モニュメントの様(like a monument): 10.5
+=============
+IMG_6955.jpg
+白い砂浜(white sand beach): 69.0
+朝方の海(morning sea): 6.3
+大きな岩(big rock): 4.8
+=============
+IMG_6990.jpg
+自然豊か(rich in nature): 24.0
+戦国の感じがする(feel like a warring country): 14.1
+田園風景(rural scenery): 10.8
+=============
+IMG_7001.jpg
+白い砂浜(white sand beach): 17.1
+大きな岩(big rock): 10.5
+港の景色(harbor view): 9.9
+=============
+IMG_7002.jpg
+昭和漂う町(Showa drifting town): 18.5
+電車からの風景(Scenery from the train): 18.5
+白い砂浜(white sand beach): 11.2
+=============
+IMG_7005.jpg
+晴天の日(sunny day): 33.4
+昼の空(daytime sky): 26.8
+朝の空(morning sky): 8.7
+=============
+IMG_7107.jpg
+昭和漂う町(Showa drifting town): 78.1
+洋風な城がある(there is a western style castle): 4.8
+温泉の湯けむり(Hot spring steam): 3.3
+=============
+IMG_7185.jpg
+大きな岩(big rock): 18.0
+朝方の海(morning sea): 10.0
+景色の良い(scenic): 8.4
+=============
+IMG_7188.jpg
+曇りの日(cloudy day): 19.4
+朝方の海(morning sea): 17.9
+大きな岩(big rock): 8.2
+=============
+IMG_7206.jpg
+白い砂浜(white sand beach): 33.5
+昭和漂う町(Showa drifting town): 18.2
+朝方の海(morning sea): 11.8
+=============
+IMG_7207.jpg
+曇りの日(cloudy day): 64.7
+白い砂浜(white sand beach): 6.7
+朝方の海(morning sea): 5.7
+=============
+IMG_7211.jpg
+港の景色(harbor view): 19.4
+白い砂浜(white sand beach): 19.4
+朝方の海(morning sea): 12.6
+=============
+IMG_7212.jpg
+白い砂浜(white sand beach): 39.5
+朝方の海(morning sea): 29.3
+海が遠くに見える(the sea looks far away): 4.1
+=============
+IMG_7213.jpg
+朝方の海(morning sea): 23.2
+船が浮かんでいる(boat is floating): 15.7
+白い砂浜(white sand beach): 14.1
+=============
+IMG_7214.jpg
+朝方の海(morning sea): 26.0
+曇りの日(cloudy day): 24.8
+白い砂浜(white sand beach): 17.6
+=============
+IMG_7251.jpg
+朝方の海(morning sea): 48.3
+夕焼けの海(sunset sea): 32.2
+朝の空(morning sky): 3.8
+=============
+IMG_7252.jpg
+夕焼けの海(sunset sea): 60.8
+朝方の海(morning sea): 20.1
+晴天の日(sunny day): 3.4
+=============
+IMG_7253.jpg
+朝方の海(morning sea): 51.9
+海が遠くに見える(the sea looks far away): 10.7
+白い砂浜(white sand beach): 5.7
+=============
+IMG_7255.jpg
+夕焼けの海(sunset sea): 31.0
+朝方の海(morning sea): 22.3
+昼の空(daytime sky): 14.9
+=============
+IMG_7513.jpg
+湯けむりが立っている(the steam is standing): 23.4
+トンネルの中(inside the tunnel): 21.7
+火山(volcano): 12.3
+=============
+IMG_7546.jpg
+昭和漂う町(Showa drifting town): 51.8
+レトロな雰囲気(retro atmosphere): 13.1
+風情のある街(town with atmosphere): 10.7
+=============
+IMG_7549.jpg
+昭和漂う町(Showa drifting town): 47.5
+風情のある街(town with atmosphere): 15.6
+京都のような(like Kyoto): 7.8
+=============
+IMG_7870.jpg
+白い砂浜(white sand beach): 18.1
+大きな岩(big rock): 16.2
+温泉が沸いている(hot springs are boiling): 8.7
+=============
+IMG_8254.jpg
+綺麗な夜景(beautiful night view): 66.2
+京都のような(like Kyoto): 11.5
+昭和漂う町(Showa drifting town): 7.3
+=============
+IMG_8404.jpg
+大きな岩(big rock): 20.4
+洋風な城がある(there is a western style castle): 18.6
+美術館(museum): 11.8
+=============
+IMG_8449.jpg
+大きな岩(big rock): 19.2
+綺麗な神社(beautiful shrine): 14.7
+朝方の海(morning sea): 14.3
+=============
+IMG_8466.jpg
+綺麗な神社(beautiful shrine): 93.1
+汚い神社(dirty shrine): 2.0
+京都のような(like Kyoto): 1.6
+=============
+IMG_8496.jpg
+夕焼けの海(sunset sea): 77.0
+朝方の海(morning sea): 14.5
+電車からの風景(Scenery from the train): 4.3
+=============
+IMG_8527.jpg
+温泉の湯けむり(Hot spring steam): 87.7
+綺麗な神社(beautiful shrine): 4.0
+温泉が沸いている(hot springs are boiling): 3.9
+=============
+IMG_8532.jpg
+温泉の湯けむり(Hot spring steam): 83.2
+温泉が沸いている(hot springs are boiling): 16.6
+京都のような(like Kyoto): 0.1
+=============
+IMG_8545.jpg
+温泉の湯けむり(Hot spring steam): 64.6
+温泉が沸いている(hot springs are boiling): 35.1
+京都のような(like Kyoto): 0.2
+=============
+IMG_8571.jpg
+綺麗な神社(beautiful shrine): 96.9
+汚い神社(dirty shrine): 1.0
+京都のような(like Kyoto): 0.7
+=============
 IMG_8625.jpg
-綺麗な神社(beautiful shrine): 67.4
-汚い神社(dirty shrine): 19.6
-昭和漂う町(Showa drifting town): 3.7
+綺麗な神社(beautiful shrine): 77.0
+京都のような(like Kyoto): 7.0
+汚い神社(dirty shrine): 4.1
 =============
 IMG_8626.jpg
-綺麗な神社(beautiful shrine): 43.2
-汚い神社(dirty shrine): 14.5
-昭和漂う町(Showa drifting town): 13.6
+京都のような(like Kyoto): 46.8
+綺麗な神社(beautiful shrine): 28.0
+昭和漂う町(Showa drifting town): 13.4
 =============
 IMG_8786.jpg
-船が浮かんでいる(boat is floating): 28.8
-美術館(museum): 17.2
-昭和漂う町(Showa drifting town): 9.0
+美術館(museum): 51.6
+洋風な城がある(there is a western style castle): 20.5
+湯けむりが立っている(the steam is standing): 7.4
 =============
 IMG_9615.png
-砂場が映っている(sandbox is reflected): 58.9
-イルミネーションが映った(illumination was reflected): 16.9
-美術館(museum): 11.6
+美術館(museum): 47.9
+都会の風景(urban landscape): 14.6
+イルミネーションが映った(illumination was reflected): 4.7
 =============
 IMG_9649.png
-美術館(museum): 24.9
-宇宙のような(cosmic): 20.0
-火山(volcano): 12.7
+様々な色のガラス(different colored glasses): 41.9
+美術館(museum): 40.6
+都会の風景(urban landscape): 3.6
